@@ -5,7 +5,7 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">Template</a></li>
+        <li><a href="./">Introduction to Psychology</a></li>
       after: |
         <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
   download: ["pdf"]

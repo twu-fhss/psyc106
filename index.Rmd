@@ -1,10 +1,10 @@
 ---
-title: "[Course Name & #]"
-author: "Name"
+title: "Introduction to Psychology"
+author: "Todd Dutka"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
-url: https://ma-lead.github.io/ldrs664
+url: https://twu-fhss.github.io/psyc106
 biblio-style: apalike
 ---
 
