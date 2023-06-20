@@ -1,11 +1,16 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
+thought-and-language
+what-is-psychology
+thinking-and-problem-solving
+cognitive-biases
+language-and-thought
+animal-language
 title
 title-1
 title-2
 title-3
 title-4
-title-5
 topic-1-title
 topic-2-title
 topic-3-title
