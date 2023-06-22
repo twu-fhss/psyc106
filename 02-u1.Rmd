@@ -44,11 +44,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 **Read and Reflect**  {-}
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review [*Unit 1- Slides*](assets/unit_1/PSYC106-Chs2-ResearchandThoughtandLanguage-3rdEd.pptx) 
+- Review **UNIT 1 Slides**
 
-<details>
-  <summary>CLICK HERE</summary>
-
+<details> <summary>CLICK HERE</summary>
 
 <h5>Learning Objectives</h5>  
 
@@ -188,12 +186,12 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>Descriptive Research (2 of 2)</h5>
 
-- Case study (p. 42)
+- Case study (p. 42)  
   - Extensive details  
   - Lacks generalizability  
-- Naturalistic observation (p. 44)
-- Self-reporting (p. 45)
-  - Participant makes the observations
+- Naturalistic observation (p. 44)  
+- Self-reporting (p. 45)  
+  - Participant makes the observations  
 
 ![](assets/unit_1/slide_21.png)
 
@@ -201,11 +199,11 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>Myths in Mind: Beware of Illusory Correlations</h5>
 
-- Illusory correlations (p. 47)
-  - Crime increases when the moon is full
-  - Opposites attract
-  - Gamblers on a "hot streak"
-  - Stereotypes
+- Illusory correlations (p. 47)  
+  - Crime increases when the moon is full  
+  - Opposites attract  
+  - Gamblers on a "hot streak"  
+  - Stereotypes  
 
 ![](assets/unit_1/slide_23.png)
 
@@ -213,24 +211,24 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>Experimental Research: The Quasi-Experimental Method</h5>
 
-- Quasi-experimental research (p. 49)
-  - Random assignment not always possible
-    - Comparing men and women
-  - Cannot determine cause-and-effect
+- Quasi-experimental research (p. 49)  
+  - Random assignment not always possible  
+    - Comparing men and women  
+  - Cannot determine cause-and-effect  
 
 <h5>2.4 Learning Objectives</h5>
 
 - Know the key terminology of statistics.  
-- Understand how and why psychologists use significance tests.
-- Apply your knowledge to interpret the most frequently used types of graphs.
-- Analyze the choice of central tendency statistics based on the shape of the distribution.
+- Understand how and why psychologists use significance tests.  
+- Apply your knowledge to interpret the most frequently used types of graphs.  
+- Analyze the choice of central tendency statistics based on the shape of the distribution.  
 
 <h5>Descriptive Statistics</h5>
 
-- Descriptive statistics (p. 60)
-  - Frequency
-  - Central tendency
-  - Variability
+- Descriptive statistics (p. 60)  
+  - Frequency  
+  - Central tendency  
+  - Variability  
 
 ![](assets/unit_1/slide_27.png)
 
@@ -259,31 +257,30 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>True or False?</h5>
 
-- T F 1. People more easily detect male prejudice against females than female against males or female against females.
-- T F 2. In general, people underestimate how much they really know.
-- T F 3. It takes less compelling evidence to change our beliefs than it did to create them in the first place.
-- T F 4. The babbling of an infant at 4 months of age makes it clear whether the infant is French, Korean, or Ethiopian.
-- T F 5. Some people can write but not read.
-- T F 6. Many bilinguals report that they have different senses of self, depending on which language they are using.
-- T F 7. Imagining a physical activity triggers action in the same brain areas that are triggered when actually performing that activity.
-- T F 8. Only human beings seem capable of insight (the sudden realization of a problem's solution).
-- T F 9. Honeybees do a dance to communicate the direction and distance of a new food source to other bees.
-- T F 10. Apes are capable of communicating meaning by using symbols.
+- T F 1. People more easily detect male prejudice against females than female against males or female against females.  
+- T F 2. In general, people underestimate how much they really know.  
+- T F 3. It takes less compelling evidence to change our beliefs than it did to create them in the first place.  
+- T F 4. The babbling of an infant at 4 months of age makes it clear whether the infant is French, Korean, or Ethiopian.  
+- T F 5. Some people can write but not read.  
+- T F 6. Many bilinguals report that they have different senses of self, depending on which language they are using.  
+- T F 7. Imagining a physical activity triggers action in the same brain areas that are triggered when actually performing that activity.  
+- T F 8. Only human beings seem capable of insight (the sudden realization of a problem's solution).  
+- T F 9. Honeybees do a dance to communicate the direction and distance of a new food source to other bees.  
+- T F 10. Apes are capable of communicating meaning by using symbols.  
 
 <h5>Thinking</h5>
 
-- Thinking, or cognition, refers to a process that involves knowing, understanding, remembering, and communicating.
-
-- Gr. <span class="prote">pove∞ - need to get the right characters for this word</span> (pr. phrones) - to think, to mind; to be of opinion; to take thought, be considerate; to entertain sentiments or inclinations of a specific kind, to be minded; to be in a certain frame of mind; to imagine; to heed, pay regard to; to incline to; be set upon, mind
+- Thinking, or *cognition*, refers to a process that involves knowing, understanding, remembering, and communicating.  
+- Gr. $\phi\rho\omicron\nu\epsilon\omega$ (pr. phrones) - to think, to mind; to be of opinion; to take thought, be considerate; to entertain sentiments or inclinations of a specific kind, to be minded; to be in a certain frame of mind; to imagine; to heed, pay regard to; to incline to; be set upon, mind  
 
 <h5>A little more Greek</h5>
 
-- Mind (Gr. <span class=“prote”> Noos- need to get the right characters for this word</span>) - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.
+- Mind (Gr. N$\omicron\nu$s) - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.  
 
 <h5>The limits of intuition</h5>
 
-- A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much does the ball cost?
-- A man bought a horse for $60 and sold it for $70. Then he bought the same horse back for $80 and again sold it, for $90. How much money did he make in the horse business?
+- A bat and a ball cost $1.10 in total. The bat costs $1 more than the ball. How much does the ball cost?  
+- A man bought a horse for $60 and sold it for $70. Then he bought the same horse back for $80 and again sold it, for $90. How much money did he make in the horse business?  
 
 ![](assets/unit_1/slide_39.png)
 
@@ -291,17 +288,17 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>8.1 Learning Objectives</h5>
 
-- Know the key terminology associated with concepts and categories.
-- Understand theories of how people organize their knowledge about the world.
-- Understand how experience and culture can shape the way we organize our knowledge.
-- Apply your knowledge to identify prototypical examples.
-- Analyze the claim that the language we speak determines how we think.
+- Know the key terminology associated with concepts and categories.  
+- Understand theories of how people organize their knowledge about the world.  
+- Understand how experience and culture can shape the way we organize our knowledge.  
+- Apply your knowledge to identify prototypical examples.  
+- Analyze the claim that the language we speak determines how we think.  
 
 <h5>Concepts and Categories</h5>
 
-- Concept (p. 294)
-  - Divided into smaller groups
-- Categories (p. 294)
+- Concept (p. 294)  
+  - Divided into smaller groups  
+- Categories (p. 294)  
 
 ![](assets/unit_1/slide_42.png)
 
@@ -323,31 +320,31 @@ Participant Behaviour (1 of 2)</h5>
 <h5>Working the Scientific Literacy Model: Priming and Semantic
 Networks (1 of 2)</h5>
 
-- What do we know about semantic networks?
-  - Priming (p. 297)
-- How can scientists explain priming effects?
-  - Lexical Decision Task
+- What do we know about semantic networks?  
+  - Priming (p. 297)  
+- How can scientists explain priming effects?  
+  - Lexical Decision Task  
 
 <h5>Working the Scientific Literacy Model: Priming and Semantic
 Networks (2 of 2)</h5>
 
-- Can we critically evaluate this information?
-  - Strength of priming varies
-  - Experiments difficult to replicate
-- Why is this relevant?
-  - Advertising
+- Can we critically evaluate this information?  
+  - Strength of priming varies  
+  - Experiments difficult to replicate  
+- Why is this relevant?  
+  - Advertising  
 
 <h5>Categorization and Experience</h5>
 
-- Categorization is based on experience
-  - Efficient process
-  - But can also result in errors
+- Categorization is based on experience  
+  - Efficient process  
+  - But can also result in errors  
 
 <h5>Categories and the Brain (1 of 2)</h5>
 
-- Categories, Memories, and the Brain
-- Category-specific visual agnosia (CSVA)
-  - Living vs. non-living categories
+- Categories, Memories, and the Brain  
+- Category-specific visual agnosia (CSVA)  
+  - Living vs. non-living categories  
 
 ![](assets/unit_1/slide_50.png)
 
@@ -361,10 +358,215 @@ Networks (2 of 2)</h5>
 
 *Slide showing - Brain Activity Varies by Culture*
 
+<h5>Myths in Mind: How Many Words for Snow?</h5>
+
+- Inuit have many words for snow  
+  - Aput = snow on the ground  
+  - Gana = falling snow  
+  - Exaggerated to dozens of words  
+- Canadians have many words for snow  
+  - Sticky snow  
+  - Drifting snow  
+  - Yellow snow  
+
+<h5>8.2 Learning Objectives</h5>
+
+- Know the key terminology of problem solving and decision making.  
+- Understand the characteristics that problems have in common.  
+- Understand how obstacles to problem solving are often self-imposed.  
+- Apply your knowledge to determine if you tend to be a maximizer or a satisficer.  
+- Analyze whether human thought is primarily logical or intuitive.  
+
+<h5>Defining and Solving Problems (1 of 2)</h5>
+
+- Problem solving (p. 304)  
+  - Algorithms (p. 304)  
+  - Heuristics (p. 304)  
 
 
+![](assets/unit_1/slide_56.png)
+
+*Slide showing - Problem Solving in Hangman*
 
 
+![](assets/unit_1/slide_57.png)
+
+*Slide showing - The Nine-Dot Problem*
+
+
+![](assets/unit_1/slide_58.png)
+
+*Slide showing - The Five-Daughter Problem*
+
+
+![](assets/unit_1/slide_59.png)
+
+*Slide showing - The Two-String Problem*
+
+<h5>Representativeness and Availability</h5>
+
+- Conjunction fallacy (p. 308)  
+- Representativeness heuristic (p. 308)  
+- Availability heuristic (p. 308)  
+
+<h5>Anchoring Effects</h5>
+
+- Anchoring effect (p. 310)  
+  - In what year did British Columbia become part of Canada?  
+  - More affected when generated by individual  
+
+<h5>Framing Effects (1 of 2)</h5>
+
+- Decision-making influenced by how problem is framed (p. 310)  
+- Example: Vaccine A vs. Vaccine B  
+
+![](assets/unit_1/slide_63.png)
+
+*Slide showing - Framing Effects*
+
+<h5>Belief Perseverance and Confirmation Bias</h5>
+
+- Belief perseverance (p. 310)  
+- Confirmation bias (p. 311)  
+  
+Can dramatically influence beliefs, especially for complex, emotionally-charged issues (e.g. politics)
+
+<h5>What do we know about maximizing and satisficing?</h5>
+
+- Two types of consumers  
+  - Satisficers = "good enough*  
+  - Maximizers = evaluate every option  
+- Paradox of choice  
+
+How can scientists explain maximizing and satisficing?  
+
+![](assets/unit_1/slide_66.png)
+
+*Slide showing - Satisfaction of Maximizers and Satisficers*
+
+
+<h5>Working the Scientific Literacy Model: Maximizing and Satisficing in Complex Decisions (3 of 3)</h5>
+
+- Can we critically evaluate this information?  
+  - Maximizers might expect more  
+  - Correlational research  
+  
+- Why is this relevant?  
+  - Planning for the future  
+  
+<h5>8.3 Learning Objectives</h5>
+
+- Know the key terminology from the study of language.  
+- Understand how language is structured.  
+- Understand how genes and the brain are involved in language use.  
+- Apply your knowledge to distinguish between units of language such as phonemes and morphemes.  
+- Analyze whether species other than humans are able to use language.  
+
+![](assets/unit_1/slide_69.png)
+
+*Slide showing - Two Language Centres of the Brain*
+
+
+<h5>Properties of Language</h5>
+
+- Language (p. 317)  
+- Unique features  
+  - Communicate objects and events not in present time and place  
+  - Produce new meanings  
+  - Passed down naturally to children  
+
+<h5>Phonemes and Morphemes: The Basic Ingredients of Language</h5>
+
+- Phonemes (p. 318)  
+  - “T” 
+
+- Morphemes (p. 318)  
+  - Pig, ish, or pigish  
+  - Productivity  
+
+- Semantics (p. 318)  
+
+![](assets/unit_1/slide_72.png)
+
+*Slide showing - How syntax helps us to understand language*
+
+![](assets/unit_1/slide_73.png)
+
+*Slide showing - Pragmatic Rules Guiding Language Use*
+
+
+<h5>The Development of Language (1 of 2)</h5>
+
+Infants, sound perception, and language acquisition
+
+- Identifying Sounds  
+- Fast mapping (p. 320)  
+
+![](assets/unit_1/slide_75.png)
+
+*Slide showing - Milestones in Language Acquisition and Speech*
+
+<h5>Sensitive Periods for Language</h5>
+
+- Sensitive period  
+  - Brains are primed to develop language skills  
+  - Ability fades starting seventh year  
+  - Same with sign language  
+
+<h5>The Bilingual Brain</h5>
+
+- Costs  
+  - Smaller vocabulary  
+  - Word access  
+
+- Benefits  
+  - Executive functions  
+  - Health benefits  
+
+<h5>Working the Scientific Literacy Model: Genes and Language (1 of 4)</h5>
+
+- What do we know about genes and language?  
+  - Language evolved to solve problems  
+  - Number of genes involved  
+
+- Which scientific evidence supports a genetic basis of language?  
+  - FOXP2 gene  
+
+![](assets/unit_1/slide_79.png)
+
+*Slide showing - Inheritance Pattern for the Mutated FOXP2 Gene in the KE Family*
+
+
+![](assets/unit_1/slide_80.png)
+
+*Slide showing - Brain Scans Taken While Members of the KE Family Completed a Speech Task*
+
+
+<h5>Working the Scientific Literacy Model: Genes and Language (4 of 4)</h5>
+
+- Can we critically evaluate this evidence?  
+  - Many genes work together  
+  - FOXP2 not unique to humans  
+    - Language is unique to humans  
+
+- Why is this relevant?  
+  - Links between genes and language  
+
+<h5>Can Animals Use Language?</h5>
+
+- Chimpanzee Viki  
+  - Cross-fostered (p. 324)  
+  - Four words  
+
+- Chimpanzee Washoe  
+  - ASL  
+    - 200 signs  
+    - Generalized words  
+
+- Bonobo Kanzi  
+  - Lexigrams  
+    - 350 symbols  
+    - 3,000 spoken words  
 
 
 ```{block2, type='caution'}
@@ -479,6 +681,8 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 
 ### Learning Activities {-}
 
+```{block2, type='reflect'}
+
 **Read and Reflect**
 
 In addition to the content above, you are also responsible for reading through the following:
@@ -498,7 +702,7 @@ In this lesson, we spent time exploring cognitive strategies used to solve probl
 
 <details> 
 <summary>Click here for the solution.</summary>
-    The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.
+The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.
 </details>
 
 
@@ -507,13 +711,8 @@ In this lesson, we spent time exploring cognitive strategies used to solve probl
 Your task is to plant trees on Arbor Day. You have ten trees that must be planted in five rows of four trees each. How would you plant the trees?
 
 <details>
-  <summary>Click here for the solution.</summary>
-    The answer is that you would arrange them at the vertices and cross-points of a 5-pointed star
-</details>
-
-
-
-### Learning Activity : {-}
+<summary>Click here for the solution.</summary>
+The answer is that you would arrange them at the vertices and cross-points of a 5-pointed star </details>
 
 **Problem Solving Practice**
 
@@ -537,6 +736,8 @@ Consider the following prompts to help better prepare for the discussion:
 
 - ***Do you agree or disagree with this claim?***  
 - ***Do you know people that fit in the second category? What causes this difference? How might it be changed?***  
+
+```
 
 ## Cognitive Biases
 
@@ -578,11 +779,15 @@ For additional information and examples, click on the link below:
 
 <!-- [plugin:content-inject](_activities) -->
 
+```{block2, type='reflect'}
+
 ### Learning Lab Preparation {-}
 
 Another focus of our discussion during our Learning Lab for this unit, will focus on biases. In order to prepare for participation in this discussion, consider the guiding prompt below- be sure to have some thoughts to contribute to the discussion:
 
 ***Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.*** 
+
+```
 
 ## Language and Thought
 
@@ -600,6 +805,8 @@ Mental practice is now widely accepted in many areas. The following excerpt is t
 
 ### Learning Activity {-}
 
+```{block2, type='reflect'}
+
 #### Introduction to Visualization {-}
 
 In this Topic, we learned about the notion of mental practice. Below is an article that will take you through the process of visualization. Take some time to read the article and practice for yourself. Pay careful attention to your thoughts, your focus, your feelings as you engage in the process.
@@ -614,6 +821,8 @@ The subject of our focus for this Topic has been on the power of language in inf
 To prepare for this discussion, consider the following prompt:
 
 ***Give some examples of the importance of language in the Bible or other religious writings.***
+
+```
 
 ## Animal Language
 
@@ -641,13 +850,19 @@ To add to our exploration of this topic, take a moment to read the following art
 
 #### Learning Lab Preparation {-}
 
+```{block2, type='reflect'}
+
 Finally, take a moment to consider the following questions:
 
 ***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
 
 Be prepared to share your thoughts during discussion at your Learning Lab.
 
+```
+
 ## Assessment {-}
+
+```{block2, type='assessment'}
 
 While there is no "formal" assignment that you will be responsible for submitting for Unit 1, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
@@ -659,8 +874,11 @@ While there is no "formal" assignment that you will be responsible for submittin
 |-|-|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
 
+```
 
 ## Checking your Learning {-}
+
+```{block2, type='progress'}
 
 Before you move on to the next unit, check that you are able to:
 
@@ -671,3 +889,4 @@ Before you move on to the next unit, check that you are able to:
 - Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.
 - Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.
 
+```
