@@ -568,6 +568,10 @@ Infants, sound perception, and language acquisition
     - 350 symbols  
     - 3,000 spoken words  
 
+</details>
+
+
+
 
 ```{block2, type='caution'}
 
