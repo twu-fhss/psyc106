@@ -271,11 +271,11 @@ Participant Behaviour (1 of 2)</h5>
 <h5>Thinking</h5>
 
 - Thinking, or *cognition*, refers to a process that involves knowing, understanding, remembering, and communicating.  
-- Gr. $\phi\rho\omicron\nu\epsilon\omega$ (pr. phrones) - to think, to mind; to be of opinion; to take thought, be considerate; to entertain sentiments or inclinations of a specific kind, to be minded; to be in a certain frame of mind; to imagine; to heed, pay regard to; to incline to; be set upon, mind  
+- Gr. $\Phi\rho\omega\nu\epsilon\omega$ (pr. phrones) - to think, to mind; to be of opinion; to take thought, be considerate; to entertain sentiments or inclinations of a specific kind, to be minded; to be in a certain frame of mind; to imagine; to heed, pay regard to; to incline to; be set upon, mind  
 
 <h5>A little more Greek</h5>
 
-- Mind (Gr. N$\omicron\nu$s) - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.  
+- Mind (Gr. $\Nu\omicron\upsilon\varsigma$) - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.  
 
 <h5>The limits of intuition</h5>
 
