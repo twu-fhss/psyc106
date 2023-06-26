@@ -27,6 +27,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
+```{block2, type='reflect'}
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule) -->
@@ -266,63 +268,185 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 *Slide showing - Piaget’s Test for Egocentric Perspective in Children*
 
+<h5>Self-Awareness (3 of 3)</h5>
+
+- Theory of mind (p. 384)
+- False-belief task
+
+<h5>Psychosocial Development Across the Lifespan (1 of 2)</h5>
+
+- Infancy
+  - Sense of security
+- Toddlerhood
+  - Exploring autonomy
+- Early Childhood
+  - Pushing boundaries and experimenting
+- Childhood
+  - Active engagement
+
+<h5>10.3 Learning Objectives</h5>
+
+- Know the key terminology concerning adolescent development.
+- Understand the process of identity formation during adolescence.
+- Understand the importance of relationships in adolescence.
+- Understand the functions of moral emotions.
+- Apply your understanding of the categories of moral reasoning.
+- Analyze the relationship between brain development and adolescent judgment and risk taking.
+
+![](assets/unit_3/slide_42.png)
+
+*Slide showing - Physical Changes That Accompany Puberty in Male and Female Adolescents*
+
+<h5>Emotional Challenges in Adolescence</h5>
+
+- Intense and volatile emotions
+- Cognitive reframing	
+- Ability to delay gratification (p. 392)
+
+<h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (1 of 4)</h5>
+
+- What do we know about adolescence and decision making?
+  - Ongoing changes in prefrontal cortex
+    - Region involved in impulse control, mood, planning, organizing, and reasoning
+
+![](assets/unit_3/slide_45.png)
+
+*Slide showing - Extended Brain Development*
+
+<h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (3 of 4)</h5>
+
+- Can we critically evaluate this explanation for risky decision making?
+  - Still capable of making good decisions
+  - Temperament and personality
+  - Situational factors
+- Why is this relevant?
+  - Major public health problem
+
+![](assets/unit_3/slide_47.png)
+
+*Slide showing - What Drives Teenagers to Take Risks?*
+
+<h5>Cognitive Development: Moral Reasoning vs. Emotions</h5>
+
+- Formal operational stage
+  - Abstract thinking
+  - Scientific thinking
+  - Perspective taking
+
+<h5>Kohlberg’s Moral Development: Learning Right from Wrong (1 of 2)</h5>
+
+- A trolley is hurtling down the tracks toward a group of five unsuspecting people. You are standing next to a lever that, if pulled, would direct the trolley onto another track, thereby saving the five individuals. However, on the second track stands a single, unsuspecting person, who would be struck by the diverted trolley.
+
+![](assets/unit_3/slide_50.png)
+
+*Slide showing - Kohlberg’s Stages of Moral Reasoning*
+
+<h5>Moral Development</h5>
+
+- Social intuitionist model
+  - Julie and Steven are brother and sister. They are travelling together in France on summer vacation from college. One night they are staying alone in a cabin near the beach. They decide that it would be interesting and fun if they shared a romantic kiss. At the very least it would be a new experience for each of them. They both enjoy the experience, but they decide not to do it again. They keep that night as a special secret, which makes them feel even closer to each other.
+
+<h5>Social Development: Identity and Relationships</h5>
+
+- Identity (p. 395) 
+  - Personal qualities
+  - Social qualities
+  - Future goals
+- Adolescence identity crisis
+  - Curiosity, questioning, and exploration
+- Peer groups
+- Romantic relationships
+
+<h5>10.4 Learning Objectives</h5>
+
+- Know the key terminology concerning adulthood and aging.
+- Know the key areas of growth experiences by emerging adults.
+- Understand age-related disorders such as Alzheimer’s disease.
+- Understand how cognitive abilities change with age.
+- Apply your attitudes about marriage.
+- Analyze the stereotype that old age is a time of unhappiness.
+
+<h5>Physical Changes in Adulthood</h5>
+
+- Age brackets:
+  - Young adulthood: 18-40 years
+  - Middle adulthood: 40-65 years
+  - Older adulthood: 65 years and onward
+- Menopause (p. 399)
+
+<h5>Psychosocial Development Across the Lifespan (2 of 2)</h5>
+
+- Ages 25 to 40
+  - Separate from parents
+  - Work on intimate relationships
+  - Failure can result in isolation
+- Ages 45 to 65
+- Producing something of value
+- Work and/or family
+- Ages 65+
+- Reflect on life of fulfillment (or not)
+
+<h5>Love and Marriage</h5>
+
+- Most adults pursue some kind of long-term relationship
+- Marriage associated with longer life, happiness
+- Gottman
+  - Conflict and communication
+  - “Four horsemen of the Apocalypse”
+
+<h5>Parenting</h5>
+
+- Shift in identity, lifestyle
+- Children affect marriage
+- Empty nest myth
+
+![](assets/unit_3/slide_58.png)
+
+*Slide showing - Emotion, Memory, and Aging*
+
+<h5>PSYCH @ The Driver’s Seat</h5>
+
+- Driving skills and age
+- UFOV Speed of Processing training
+  - Computer-based
+  - Decreases accident risk
+
+![](assets/unit_3/slide_60.png)
+
+*Slide showing - How Alzheimer’s Disease Affects the Brain*
+
+<h5>Working the Scientific Literacy Model: Aging and Cognitive Change (1 of 3)</h5>
+
+- What do we know about cognitive abilities?
+  - Fluid intelligence declines
+  - Crystalized intelligence remains largely intact
+- How can science explain age-related differences in cognitive abilities?
+  - Activation of brain areas
+
+<h5>Working the Scientific Literacy Model: Aging and Cognitive Change (2 of 3)</h5>
+
+- Can we critically evaluate our assumptions about age-related cognitive changes?
+  - Too simplistic to say memory declines
+    - Many different types of memory
+  - Compensation
+- Why is this relevant?
+  - Control over how one ages
+
+![](assets/unit_3/slide_63.png)
+
+*Slide showing - Memory and Aging*
+
 </details>
 
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```{block2, type='caution'}
 
 **Note:** The slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 3 - Slides" link.
 
+```
+
+```{block2, type='reflect'}
 
 **Designer Babies**
 
@@ -340,7 +464,7 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
-
+```
 
 ### Resources {-}
 
@@ -380,7 +504,7 @@ At the moment the technique is used for therapeutic purposes only, to screen for
 
 ### Learning Activities {-}
 
-#### Designer Babies
+#### Designer Babies {-}
 
 This activity involves some reading and reflection around the topic of genetic engineering. As this is a contemporary issue, it will be valuable to familiarize yourself with some of the complexities of this technology and think critically about some of the ethical challenges. Your task is to read the following resources and carefully consider the implications of this technology:
 
@@ -448,6 +572,8 @@ Although cognitive equilibrium is restored via either assimilation or accommodat
 
 ### Learning Activities {-}
 
+```{block2, type='reflect'}
+
 #### Cognitive Change {-}
 
 The first three links below are articles that are intended to give you an opportunity to reflect upon your own considerations around development. The last link is a test - along with the first three links, it is intended to provide some insights about your developmental trajectory in light of your crisis resolution, attachment style, and parenting styles:
@@ -464,6 +590,7 @@ Prior to your Learning Lab, take some time to think about the following question
  - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***
  - ***Would children even have an idea of God if they were not taught it?***
 
+```
 
 ## Adolescence
 
@@ -491,6 +618,8 @@ The concept of identity is a rich topic for consideration. The most familiar asp
 <!-- [plugin:content-inject](_activities) -->
 ### Learning Activities {-}
 
+```{block2, type='reflect'}
+
 #### Read and Reflect {-}
 
 In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding:
@@ -508,7 +637,8 @@ In order to review some of the major terms from Chapter 10 in your textbook, pra
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Would you want to live your adolescence over again if you could? Why or why not?***
-
+<!-- content goes here -->
+```
 
 ## Assessment {-}
 
