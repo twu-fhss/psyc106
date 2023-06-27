@@ -43,12 +43,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <h5>Learning Objectives</h5>  
 
-- \(\scriptstyle 12\) The righteous will flourish like a palm tree,they will grow like a cedar of Lebanon;
-- \(\scriptstyle 13\) planted in the house of the Lord, they will flourish in the courts of our God.
-- \(\scriptstyle 14\) They will still bear fruit in old age,they will stay fresh and green,
-- \(\scriptstyle 15\) proclaiming, “The Lord is upright;
-  he is my Rock, and there is no wickedness in him.”
-- Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html)
+- \(\scriptstyle 12\) The righteous will flourish like a palm tree,they will grow like a cedar of Lebanon;  
+- \(\scriptstyle 13\) planted in the house of the Lord, they will flourish in the courts of our God.  
+- \(\scriptstyle 14\) They will still bear fruit in old age,they will stay fresh and green,  
+- \(\scriptstyle 15\) proclaiming, “The Lord is upright;  
+  he is my Rock, and there is no wickedness in him.”  
+- Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html)  
   
 ![](assets/unit_3/slide_3.png)
 
@@ -56,17 +56,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <h5>Modules</h5>
 
-- Physical Development from Conception through Infancy
-- Infancy and Childhood: Cognitive and Emotional Development
-- Adolescence
-- Adulthood and Aging
+- Physical Development from Conception through Infancy  
+- Infancy and Childhood: Cognitive and Emotional Development  
+- Adolescence  
+- Adulthood and Aging  
 
 <h5>Learning Objectivess</h5>
 
-- Know the key terminology related to prenatal and infant physical development.
-- Understand pros and cons to different research designs in developmental psychology.
-- Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus.
-- Analyze the effects of preterm birth.
+- Know the key terminology related to prenatal and infant physical development.  
+- Understand pros and cons to different research designs in developmental psychology.  
+- Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus.  
+- Analyze the effects of preterm birth.  
 
 <h5>Developmental Psychology</h5>
 
@@ -79,10 +79,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <h5>Patterns of Development: Stages and Continuity</h5>
 
-- Stages
-  - Abrupt transitions
-- Continuous
-  - Slow changes
+- Stages  
+  - Abrupt transitions  
+- Continuous  
+  - Slow changes  
 
 ![](assets/unit_3/slide_9.png)
 
@@ -94,54 +94,54 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <h5>Nutrition, Teratogens, and Fetal Development</h5>
 
-- Teratogen (p. 366)
-  - Alcohol
-  - Cigarettes
-- Fetal Alcohol Syndrome (p. 366)
-  - 1.5 in 1000 worldwide
-    - Likely higher
-- Stress
+- Teratogen (p. 366)  
+  - Alcohol  
+  - Cigarettes  
+- Fetal Alcohol Syndrome (p. 366)  
+  - 1.5 in 1000 worldwide  
+    - Likely higher  
+- Stress  
 
 <h5>Working the Scientific Literacy Model: The Long-Term Effects of Premature Birth (1 of 2)</h5>
 
-- What do we know about premature birth?
-  - Preterm infants (p. 368)
-  - 25 weeks: 50% survival
-  - 30 weeks: 95% survival
-- How can science be used to help preterm infants?
-NIDCAP
+- What do we know about premature birth?  
+  - Preterm infants (p. 368)  
+  - 25 weeks: 50% survival  
+  - 30 weeks: 95% survival  
+- How can science be used to help preterm infants?  
+  - NIDCAP  
 
 <h5>Working the Scientific Literacy Model: The Long-Term Effects of Premature Birth (2 of 2)</h5>
 
-- Can we critically evaluate this research?
-  - Small sample size
-  - Why does the program work?
-- Why is this relevant?
-  - 9% of infants are born preterm
-  - Simple interventions available:
-    - Massage
-    - Kangaroo care
+- Can we critically evaluate this research?  
+  - Small sample size  
+  - Why does the program work?  
+- Why is this relevant?  
+  - 9% of infants are born preterm  
+  - Simple interventions available:  
+    - Massage  
+    - Kangaroo care  
 
 <h5>Myths in Mind: Vaccinations and Autism</h5>
 
-- 1990 claim that MMR vaccine linked to autism
-  - One dose given at year 1
-  - Second does before starting school
-  - Many parents refused
-- Lack of scientific support
-  - Article retracted 2010
+- 1990 claim that MMR vaccine linked to autism  
+  - One dose given at year 1  
+  - Second does before starting school  
+  - Many parents refused  
+- Lack of scientific support  
+  - Article retracted 2010  
 
 <h5>Sensory Development in Infancy</h5>
 
-- Sensory before birth
-  - 4 months gestation, brain receiving signals from eyes and ears
-  - 7-8 months gestation, fetus actively listening
-- Vision at birth
-  - 30 cm or less
-  - 20/20 by 12 months
-- Smell at birth
-  - Cringe at foul odours
-  - Discriminate mother’s breastmilk
+- Sensory before birth  
+  - 4 months gestation, brain receiving signals from eyes and ears  
+  - 7-8 months gestation, fetus actively listening  
+- Vision at birth  
+  - 30 cm or less  
+  - 20/20 by 12 months  
+- Smell at birth  
+  - Cringe at foul odours  
+  - Discriminate mother’s breastmilk  
 
 ![](assets/unit_3/slide_16.png)
 
@@ -166,20 +166,20 @@ NIDCAP
 
 <h5>Learning Objectives</h5>
 
-- Know the key terminology associated with infancy and childhood.
-Understand the cognitive changes that occur during infancy and childhood.
-- Understand the importance of attachment and the different styles of attachment.
-- Apply the concept of scaffolding and the zone of proximal development to understand how to best promote learning.
-- Analyze how to effectively discipline children in order to promote moral behaviour.
+- Know the key terminology associated with infancy and childhood.  
+- Understand the cognitive changes that occur during infancy and childhood.  
+- Understand the importance of attachment and the different styles of attachment.  
+- Apply the concept of scaffolding and the zone of proximal development to understand how to best promote learning.  
+- Analyze how to effectively discipline children in order to promote moral behaviour.  
 
 <h5>The Importance of Sensitive Periods</h5>
 
-- Sensitive period (p. 375)
-  - Language fluency
-  - Perception
-  - Balance
-  - Recognition of parents
-  - Identifying with a particular culture
+- Sensitive period (p. 375)  
+  - Language fluency  
+  - Perception  
+  - Balance  
+  - Recognition of parents  
+  - Identifying with a particular culture  
 
 ![](assets/unit_3/slide_23.png)
 
@@ -187,10 +187,10 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>The Sensorimotor Stage: Objects and the Physical World</h5>
 
-- Sensorimotor stage (p. 375)
-  - Birth to 2 years
-  - Object permanence (p. 376)
-    - Hidden toy test
+- Sensorimotor stage (p. 375)  
+  - Birth to 2 years  
+  - Object permanence (p. 376)  
+    - Hidden toy test  
 
 ![](assets/unit_3/slide_25.png)
 
@@ -202,22 +202,22 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>The Concrete Operational Stage: Using Logical Thought</h5>
 
-- Concrete operational stage (p. 377) 
-  - 7 to 11 years
-  - Transitivity
+- Concrete operational stage (p. 377)  
+  - 7 to 11 years  
+  - Transitivity  
 
 <h5>The Formal Operational Stage: Abstract and Hypothetical Thought</h5>
 
-- Formal operational stage (p. 378)
-  - 11 years to adulthood
-  - Scientific thinking
+- Formal operational stage (p. 378)  
+  - 11 years to adulthood  
+  - Scientific thinking  
 
 <h5>Working the Scientific Literacy Model: Evaluating Piaget (1 of 3)</h5>
 
-- What do we know about cognitive abilities in infants?
-  - Core knowledge hypothesis (p. 378) 
-  - Habituation (p. 378)
-  - Dishabituation (p. 378)
+- What do we know about cognitive abilities in infants?  
+  - Core knowledge hypothesis (p. 378)  
+  - Habituation (p. 378)  
+  - Dishabituation (p. 378)  
 
 ![](assets/unit_3/slide_31.png)
 
@@ -225,16 +225,16 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Complementary Approaches to Piaget</h5>
 
-- Vygotsky
-  - Zone of proximal development (p. 380) 
-    - Scaffolding (p. 380)
-      - Cultural differences
+- Vygotsky  
+  - Zone of proximal development (p. 380)  
+    - Scaffolding (p. 380)  
+      - Cultural differences  
 
 <h5>Social Development and Attachment (1 of 2)</h5>
 
-- Attachment (p. 381)
-- Harry Harlow’s monkey experiments
-- Strange situation test (p.382)
+- Attachment (p. 381)  
+- Harry Harlow’s monkey experiments  
+- Strange situation test (p.382)  
 
 ![](assets/unit_3/slide_34.png)
 
@@ -242,27 +242,27 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Social Development and Attachment (1 of 2)</h5>
 
-- Types of Attachment
-- Secure attachment
-  - Insecure attachment
-  - Disorganized
-  - Anxious/Ambivalent
-  - Avoidant
+- Types of Attachment  
+- Secure attachment  
+  - Insecure attachment  
+  - Disorganized  
+  - Anxious/Ambivalent  
+  - Avoidant  
 
 <h5>Social Development and Attachment (1 of 2)</h5>
 
-- Parenting and Attachment
-- Attachment behavioural system (p. 383)
-- Caregiving behavioural system (p. 383)
-- Conditional approaches
-- Introjection (p. 383)
-- Inductive discipline (p. 383)
+- Parenting and Attachment  
+- Attachment behavioural system (p. 383)  
+- Caregiving behavioural system (p. 383)  
+- Conditional approaches  
+- Introjection (p. 383)  
+- Inductive discipline (p. 383)  
 
 <h5>Self-Awareness (1 of 3)</h5>
 
-- Self-awareness (p. 384)
-  - Reflection in mirror
-- Egocentric (p. 384)
+- Self-awareness (p. 384)  
+  - Reflection in mirror  
+- Egocentric (p. 384)  
 
 ![](assets/unit_3/slide_38.png)
 
@@ -270,28 +270,28 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Self-Awareness (3 of 3)</h5>
 
-- Theory of mind (p. 384)
-- False-belief task
+- Theory of mind (p. 384)  
+- False-belief task  
 
 <h5>Psychosocial Development Across the Lifespan (1 of 2)</h5>
 
-- Infancy
-  - Sense of security
-- Toddlerhood
-  - Exploring autonomy
-- Early Childhood
-  - Pushing boundaries and experimenting
-- Childhood
-  - Active engagement
+- Infancy  
+  - Sense of security  
+- Toddlerhood  
+  - Exploring autonomy  
+- Early Childhood  
+  - Pushing boundaries and experimenting  
+- Childhood  
+  - Active engagement  
 
 <h5>10.3 Learning Objectives</h5>
 
-- Know the key terminology concerning adolescent development.
-- Understand the process of identity formation during adolescence.
-- Understand the importance of relationships in adolescence.
-- Understand the functions of moral emotions.
-- Apply your understanding of the categories of moral reasoning.
-- Analyze the relationship between brain development and adolescent judgment and risk taking.
+- Know the key terminology concerning adolescent development.  
+- Understand the process of identity formation during adolescence.  
+- Understand the importance of relationships in adolescence.  
+- Understand the functions of moral emotions.  
+- Apply your understanding of the categories of moral reasoning.  
+- Analyze the relationship between brain development and adolescent judgment and risk taking.  
 
 ![](assets/unit_3/slide_42.png)
 
@@ -299,15 +299,15 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Emotional Challenges in Adolescence</h5>
 
-- Intense and volatile emotions
-- Cognitive reframing	
-- Ability to delay gratification (p. 392)
+- Intense and volatile emotions  
+- Cognitive reframing  
+- Ability to delay gratification (p. 392)  
 
 <h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (1 of 4)</h5>
 
-- What do we know about adolescence and decision making?
-  - Ongoing changes in prefrontal cortex
-    - Region involved in impulse control, mood, planning, organizing, and reasoning
+- What do we know about adolescence and decision making?  
+  - Ongoing changes in prefrontal cortex  
+    - Region involved in impulse control, mood, planning, organizing, and reasoning  
 
 ![](assets/unit_3/slide_45.png)
 
@@ -315,12 +315,12 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (3 of 4)</h5>
 
-- Can we critically evaluate this explanation for risky decision making?
-  - Still capable of making good decisions
-  - Temperament and personality
-  - Situational factors
-- Why is this relevant?
-  - Major public health problem
+- Can we critically evaluate this explanation for risky decision making?  
+  - Still capable of making good decisions  
+  - Temperament and personality  
+  - Situational factors  
+- Why is this relevant?  
+  - Major public health problem  
 
 ![](assets/unit_3/slide_47.png)
 
@@ -328,14 +328,14 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Cognitive Development: Moral Reasoning vs. Emotions</h5>
 
-- Formal operational stage
-  - Abstract thinking
-  - Scientific thinking
-  - Perspective taking
+- Formal operational stage  
+  - Abstract thinking  
+  - Scientific thinking  
+  - Perspective taking  
 
 <h5>Kohlberg’s Moral Development: Learning Right from Wrong (1 of 2)</h5>
 
-- A trolley is hurtling down the tracks toward a group of five unsuspecting people. You are standing next to a lever that, if pulled, would direct the trolley onto another track, thereby saving the five individuals. However, on the second track stands a single, unsuspecting person, who would be struck by the diverted trolley.
+- A trolley is hurtling down the tracks toward a group of five unsuspecting people. You are standing next to a lever that, if pulled, would direct the trolley onto another track, thereby saving the five individuals. However, on the second track stands a single, unsuspecting person, who would be struck by the diverted trolley.  
 
 ![](assets/unit_3/slide_50.png)
 
@@ -343,40 +343,40 @@ Understand the cognitive changes that occur during infancy and childhood.
 
 <h5>Moral Development</h5>
 
-- Social intuitionist model
-  - Julie and Steven are brother and sister. They are travelling together in France on summer vacation from college. One night they are staying alone in a cabin near the beach. They decide that it would be interesting and fun if they shared a romantic kiss. At the very least it would be a new experience for each of them. They both enjoy the experience, but they decide not to do it again. They keep that night as a special secret, which makes them feel even closer to each other.
+- Social intuitionist model  
+  - Julie and Steven are brother and sister. They are travelling together in France on summer vacation from college. One night they are staying alone in a cabin near the beach. They decide that it would be interesting and fun if they shared a romantic kiss. At the very least it would be a new experience for each of them. They both enjoy the experience, but they decide not to do it again. They keep that night as a special secret, which makes them feel even closer to each other.  
 
 <h5>Social Development: Identity and Relationships</h5>
 
-- Identity (p. 395) 
-  - Personal qualities
-  - Social qualities
-  - Future goals
-- Adolescence identity crisis
-  - Curiosity, questioning, and exploration
-- Peer groups
-- Romantic relationships
+- Identity (p. 395)  
+  - Personal qualities  
+  - Social qualities  
+  - Future goals  
+- Adolescence identity crisis  
+  - Curiosity, questioning, and exploration  
+- Peer groups  
+- Romantic relationships  
 
 <h5>10.4 Learning Objectives</h5>
 
-- Know the key terminology concerning adulthood and aging.
-- Know the key areas of growth experiences by emerging adults.
-- Understand age-related disorders such as Alzheimer’s disease.
-- Understand how cognitive abilities change with age.
-- Apply your attitudes about marriage.
-- Analyze the stereotype that old age is a time of unhappiness.
+- Know the key terminology concerning adulthood and aging.  
+- Know the key areas of growth experiences by emerging adults.  
+- Understand age-related disorders such as Alzheimer’s disease.  
+- Understand how cognitive abilities change with age.  
+- Apply your attitudes about marriage.  
+- Analyze the stereotype that old age is a time of unhappiness.  
 
 <h5>Physical Changes in Adulthood</h5>
 
-- Age brackets:
-  - Young adulthood: 18-40 years
-  - Middle adulthood: 40-65 years
-  - Older adulthood: 65 years and onward
-- Menopause (p. 399)
+- Age brackets:  
+  - Young adulthood: 18-40 years  
+  - Middle adulthood: 40-65 years  
+  - Older adulthood: 65 years and onward  
+- Menopause (p. 399)  
 
 <h5>Psychosocial Development Across the Lifespan (2 of 2)</h5>
 
-- Ages 25 to 40
+- Ages 25 to 40  
   - Separate from parents
   - Work on intimate relationships
   - Failure can result in isolation
