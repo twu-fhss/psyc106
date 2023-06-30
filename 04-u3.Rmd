@@ -1,4 +1,4 @@
-# The Developing Person - Part 1
+## The Developing Person - Part 1
 
 ## Overview {-}
 
@@ -46,8 +46,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - \(\scriptstyle 12\) The righteous will flourish like a palm tree,they will grow like a cedar of Lebanon;  
 - \(\scriptstyle 13\) planted in the house of the Lord, they will flourish in the courts of our God.  
 - \(\scriptstyle 14\) They will still bear fruit in old age,they will stay fresh and green,  
-- \(\scriptstyle 15\) proclaiming, “The Lord is upright;  
-  he is my Rock, and there is no wickedness in him.”  
+- \(\scriptstyle 15\) proclaiming, “The Lord is upright; he is my Rock, and there is no wickedness in him.”  
 - Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html)  
   
 ![](assets/unit_3/slide_3.png)
@@ -438,15 +437,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 </details>
 
-```
-
-```{block2, type='caution'}
-
 **Note:** The slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 3 - Slides" link.
-
-```
-
-```{block2, type='reflect'}
 
 **Designer Babies**
 
@@ -620,6 +611,8 @@ The concept of identity is a rich topic for consideration. The most familiar asp
 
 ```{block2, type='reflect'}
 
+
+
 #### Read and Reflect {-}
 
 In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding:
@@ -637,7 +630,8 @@ In order to review some of the major terms from Chapter 10 in your textbook, pra
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Would you want to live your adolescence over again if you could? Why or why not?***
-<!-- content goes here -->
+
+
 ```
 
 ## Assessment {-}
