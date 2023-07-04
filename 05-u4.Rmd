@@ -36,7 +36,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review [*Unit 4 - Slides*](PSYC106-CH10LifespanDevelopment-3rdEd.pptx)  
-
+//todo #4
 <!-- 
 <details> <summary>CLICK HERE</summary>
 
