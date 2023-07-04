@@ -8,34 +8,36 @@ Building upon Unit 3, this unit (Part 2) will focus on the cognitive, physical, 
 
 This unit is divided into the following topics:
 
- 1. Adulthood
- 2. Death and Dying
+1. Adulthood  
+2. Death and Dying  
 
 ### Learning Outcomes  {-}
 
 By the end of this unit, student's will be able to:
 
- - Define the key terminology concerning adulthood and aging.
- - Describe the key areas of growth experiences by emerging adults.
- - Explain age-related disorders such as Alzheimer’s disease.
- - Describe how cognitive abilities change with age.
- - Apply effective communication principles to the challenge of improving your own relationships.
- - Analyze the stereotype that old age is a time of unhappiness.
+- Define the key terminology concerning adulthood and aging.  
+- Describe the key areas of growth experiences by emerging adults.  
+- Explain age-related disorders such as Alzheimer’s disease.  
+- Describe how cognitive abilities change with age.  
+- Apply effective communication principles to the challenge of improving your own relationships.  
+- Analyze the stereotype that old age is a time of unhappiness.  
 
 ### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
+```{block2, type='reflect'}
 
-<- [plugin:content-inject](_schedule) -->
+<!-- [plugin:content-inject](_schedule)  -->
+
 
 
 **Read and Reflect**
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review [*Unit 4 - Slides*](PSYC106-CH10LifespanDevelopment-3rdEd.pptx)  
-- Review *Unit 4 - Slides*
 
+<!-- 
 <details> <summary>CLICK HERE</summary>
 
 <h5>Chapter 10 - Lifespan Development</h5>
@@ -63,37 +65,15 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Developmental psychology (p. 362)  
 - Early development influences later behaviours  
 
+![](assets/unit_4/slide_7.png)
+
+*Slide showing - Cross-Sectional and Longitudinal Methods*
+
 <h5>Developmental Psychology</h5>
 
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hidden comment -->
 
 
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 4 - Slides" link.*
@@ -120,9 +100,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - After completing this assignment, you will also be expected to complete ***Quiz #1.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.
 
-
-
-
+```
 
 ### Resources {-}
 
@@ -131,7 +109,7 @@ Here are some additional resources that will help you complete this unit:
  - Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.
  - Other resources will be provided online.
 
-## Adulthood 
+## Adulthood
 
 ### Psychosocial Development {-}
 
@@ -161,17 +139,15 @@ The textbook discusses moral development in childhood and adolescence. However, 
 
 This activity involves some reading and reflection around Erikson’s Eight Psychosocial Stages and an article from Harvard University illuminating the importance of relationships in healthy aging.
 
-- [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv)
-- [**Good Genes are Nice, but Joy is Better**](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
-
-
+- [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv){target="_blank”}  
+- [**Good Genes are Nice, but Joy is Better**](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/){target="_blank"}  
 
 #### Learning Lab Preparation {-}
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
-- ***What do you hope to accomplish during your “adult development” years?***
- - *(If you are past these years, what are you most pleased with?)*
+- ***What do you hope to accomplish during your “adult development” years?***  
+  - *(If you are past these years, what are you most pleased with?)*  
 
 ## Death and Dying
 
@@ -193,16 +169,18 @@ During the Crusades of the Middle Ages a hospice provided lodging for travelers:
 
 The following issues are often subject to cul­tural variations:
 
-- Adolescence is unknown in some cultures
-- Adolescent struggles and conflict are much less in some cultures (e.g., )
-- Stage theories may not apply in other cultures
-- Ageism, especially with regard to intellectual abilities, is reduced, unknown, or even reversed in some cultures where the wisdom of old age is venerated
-- The "social clock" may be set differently in other cultures
-- Attitudes toward death vary greatly between cultures
+- Adolescence is unknown in some cultures  
+- Adolescent struggles and conflict are much less in some cultures (e.g., )  
+- Stage theories may not apply in other cultures  
+- Ageism, especially with regard to intellectual abilities, is reduced, unknown, or even reversed in some cultures where the wisdom of old age is venerated  
+- The "social clock" may be set differently in other cultures  
+- Attitudes toward death vary greatly between cultures  
 
 <!-- [plugin:content-inject](_activities) -->
 
 ## Assessment
+
+```{block2, type='assessment'}
 
 In addition to your participation in this unit's Learning Lab, you will also be responsible for two formal assessments. The first, is your **Writing Assignment #1** - more information can be found on this assignment by scrolling down the page. The second assessment that will take place is **Quiz #1** - more information can be found by scrolling down the page.
 
@@ -212,7 +190,9 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 | -| -|-|
-|Never to almost never: <ul><li> Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), <li>Initiates any contributions in class or small groups, <li> Makes insightful or constructive comments, <li> Helps maintain a supportive space for others to speak.|	Sometimes to fairly often: <ul><li> Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), <li> Initiates a contribution at least once in a class or small group discussion; <li> Makes insightful or constructive comments, <li> Helps maintain a supportive space for others to speak.|	Very often to nearly always: <ul><li> Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), <li> Initiates more than one contribution in a class or small group discussion, <li> Makes insightful or constructive comments, <li> Creates a space for others to speak and takes initiative to include others.
+|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
+
+```
 
 ## Writing Assignment #1
 
@@ -224,13 +204,13 @@ As you can see, it is important to understand ***why*** you are reading an artic
 
 Next, your task is to read [**How to Read a Journal Article in Social Psychology**](assets/unit_4/Assessment_Empirical_Long.pdf)
 
- - This article should help support your understanding of formal research articles and how to read them to support your research and learning.
+- This article should help support your understanding of formal research articles and how to read them to support your research and learning.  
 
 #### Writing Assignment {-}
 
 Finally, it is time to apply what we have learned. Download the following article:
 
-[**No More FOMO**](assets/unit_4/Assessment_FOMO_Article.pdf)
+[**No More FOMO**](assets/unit_4/Assessment_FOMO_Article.pdf)  
 
 
 <!-- [plugin:content-inject](_alert)  -->
@@ -239,20 +219,13 @@ Finally, it is time to apply what we have learned. Download the following articl
 
 After reading the article above, use the content to respond to the following questions:
 
- 1. **Does this study reflect basic or applied research? How do you know?**
-
- 2. **What level(s) of analysis (biological, psychological, environmental) are being employed in this study? Explain and identify the specific details of the study that show this.**
-
- 3. **What were the findings of previous research that led the researchers to do this study? What was the research question that they attempted to answer? What was (were) the researchers’ hypothesis(es)?**
-
- 4. **How was this study conducted? Was it an experiment or a non-experiment? How can you tell? What were the variables under investigation in this study? Identify the dependent and independent variables, if applicable.**
-
- 5. **What were the main findings of this study? How do they relate to the original study hypothesis(es)?**
-
- 6. **How do the researchers explain their results? What are some other possible explanations? What are some strengths of this study? Limitations?**
-
- 7. **What are the possible implications of these results in the real world?**
-
+1. **Does this study reflect basic or applied research? How do you know?**  
+2. **What level(s) of analysis (biological, psychological, environmental) are being employed in this study? Explain and identify the specific details of the study that show this.**  
+3. **What were the findings of previous research that led the researchers to do this study? What was the research question that they attempted to answer? What was (were) the researchers’ hypothesis(es)?**  
+4. **How was this study conducted? Was it an experiment or a non-experiment? How can you tell? What were the variables under investigation in this study? Identify the dependent and independent variables, if applicable.**  
+5. **What were the main findings of this study? How do they relate to the original study hypothesis(es)?**  
+6. **How do the researchers explain their results? What are some other possible explanations? What are some strengths of this study? Limitations?**  
+7. **What are the possible implications of these results in the real world?**  
 
 #### Rubric for Writing Assignment #1 {-}
 
@@ -260,16 +233,13 @@ After reading the article above, use the content to respond to the following que
 
 Estimate that each response will be between one paragraph to ½ a page (depending on what the question is asking and how much information is in the article). The total amount of content will be between 2 ½ to 3 pages (not including the title page).
 
-
 | **Exceeds Expectations** | **Meets Expectations**          | **Minimally Meets Expectations**           | **Does Not Meet Expectations**                 |
 ||--|--|-|
-|<li>Responses are accurate and address the questions in a comprehensive manner     |<li>Responses are accurate  and address the questions but could demonstrate more meaningful comprehension  of content     |<li>Responses may lack accuracy in addressing the questions and/or may demonstrate limited comprehension of content     |<li> Responses do not  accurately address the questions or do not demonstrate any comprehension of content   |
-|<li>Clear, precise and well-reasoned responses     |<li>Mostly clear, precise and well-reasoned responses              |<li>Some clear, precise and well-reasoned responses        |<li>Responses lack clarity, logic and/or precision              |
-|    |<li>Spelling and grammar are accurate.                 |<li>Minor and/or few spelling or grammatical errors.       |<li> Several spelling or grammatical errors.      |
+Responses are accurate and address the questions in a comprehensive manner|Responses are accurate  and address the questions but could demonstrate more meaningful comprehension  of content|Responses may lack accuracy in addressing the questions and/or may demonstrate limited comprehension of content|Responses do not  accurately address the questions or do not demonstrate any comprehension of content|
+Clear, precise and well-reasoned responses| Mostly clear, precise and well-reasoned responses |Some clear, precise and well-reasoned responses | Responses lack clarity, logic and/or precision|
+|Spelling and grammar are accurate.| Minor and/or few spelling or grammatical errors.| Several spelling or grammatical errors.|
 
 ***To submit your completed assignment, scroll to the bottom of the page and click on the "Writing Assignment #1" tab - follow the directions there.***
-
-
 
 ### Quiz #1 {-}
 
@@ -279,9 +249,9 @@ Your instructor will provide additional instructions. Student's will be provided
 
 ***To begin your quiz,*** click on the **Quiz #1** tab at the bottom of the screen.
 
-
-
 ## Checking your Learning {-}
+
+```{block2, type='progress'}
 
 Before you move on to the next unit, check that you are able to:
 
@@ -296,3 +266,5 @@ Before you move on to the next unit, check that you are able to:
 - Apply effective communication principles to the challenge of improving your own relationships.  
 
 - Analyze the stereotype that old age is a time of unhappiness.  
+
+```

@@ -23,8 +23,13 @@ adulthood
 death-and-dying
 assessment-4
 writing-assignment-1
+personality
+psychoanalytic-view
+humanistic-view
+christianity-humanism
+trait-view
+social-cognitive-view
 title
-title-1
 topic-1-title
 topic-2-title
 topic-3-title
