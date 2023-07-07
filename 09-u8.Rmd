@@ -26,6 +26,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
+```{block2, type='reflect'}
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule)-->
@@ -33,7 +35,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 **Read and Reflect**
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review [*Unit 8- Slides*](PSYC106-CH14HealthStressandCoping3rdEd.pptx)  
+- Review *Unit 8- Slides*
 
 <details> <summary>CLICK HERE</summary>
 
@@ -355,6 +357,7 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Sense of control affects outlook on world and affects well-being  
   - OCD  
 
+</details>
 ***Note :** The slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 8- Slides" link.
 
 - What do you think, could you beat a lie detector device? This activity will allow you to delve more deeply into the physiological aspects of human emotion (though, cognitions and behaviours do influence physiological processes) and how they can be monitored using a polygraph machine.
@@ -365,6 +368,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
+```
+
 ### Resources {-}
 
 Here are the resources you will need to complete this unit:
@@ -374,7 +379,7 @@ Here are the resources you will need to complete this unit:
 
 ## Biology of Emotion
 
-Have you ever been embarrassed? *Of course, we all have Embarrassment is a good example for trying to sepa­rate biological, psychological, and social elements of an emotion. These correspond to blushing *(biological)*, feeling embarrassed *(psychological)*, and violation of a social norm *(social)*. Now back to your embarrassing moment: Which came first, blushing, feeling embarrassed, awareness of your faux pas? Which followed next? Last?
+Have you ever been embarrassed? *Of course, we all have Embarrassment is a good example for trying to sepa­rate biological, psychological, and social elements of an emotion. These correspond to blushing (biological)*, feeling embarrassed *(psychological)*, and violation of a social norm *(social)*. Now back to your embarrassing moment: Which came first, blushing, feeling embarrassed, awareness of your faux pas? Which followed next? Last?
 
 The close connection between our minds and our bodies usually makes it difficult to tell whether our bodily emotional response comes before or after our psychological emotional response. This is why even psychologists have disagreed on whether you run from danger because you are afraid, or are afraid because you are running from danger.
 
@@ -422,9 +427,9 @@ The study of emotion has long been linked with the study of facial expressions. 
 
 Is there a practical use to understanding how we communicate emotions? Yes, actually there are several possible uses. One very interesting use is in the understanding of deception. For as long as we have records, we know that people have understood that liars don’t seem to be able to control all of their communication channels. Verbally, they deny they are lying, but the truth screams out from eye movements; *a slightly irregular smile, a faint blush....* This activity provides additional information for your consideration:
 
-- [**Body Language Speaks Volumes**](http://www.positive-way.com/body.htm){target="_blank”}
-- [**Catching a Liar**](http://www.sciencedaily.com/releases/1999/05/990528003127.htm){target="_blank”}
-- [**10 Reasons Why You Should Smile**](https://www.lifehack.org/358476/10-reasons-you-should-smile-more-often){target="_blank”}
+- [**Body Language Speaks Volumes**](http://www.positive-way.com/body.htm){target="_blank”}  
+- [**Catching a Liar**](http://www.sciencedaily.com/releases/1999/05/990528003127.htm){target="_blank”}  
+- [**10 Reasons Why You Should Smile**](https://www.lifehack.org/358476/10-reasons-you-should-smile-more-often){target="_blank”}  
 
 Another possible use of understanding emotional communication better is the development of computers that can read human emotions from speech or facial expressions. This would enable far better communication between computers and their human masters.
 
@@ -432,7 +437,7 @@ Another possible use of understanding emotional communication better is the deve
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
-- ***Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.***
+- ***Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.***  
 
 ```
 
@@ -460,7 +465,7 @@ One of the important early findings of modern psychology was the discovery that 
 
 Of course there is a positive side to emotions. They provide the flavor, the resonance, the texture, and the color in an otherwise dull existence. One of the main features that distinguish a person from a machine, which might be capable of many human feats, is the person’s sentient or feeling ability, the person’s capacity to experience emotion. Emotions are the source of much that is pleasant and good in life. Christians find joy and peace in serving God. Even so-called negative emotions have their value. We can direct hatred towards evil; anger can motivate us to overcome injustice; and fear can drive us to God.
 
-Thus emotions are an inevitable part of the God-ordained human condition. They provide the highs as well as the lows in our experience, and their recognition (although not necessarily their uncontrolled expression) is necessary for our health. Although they may frequently lead us astray, and may potentially be the source of unwanted influence, we are fallen creatures, and our other faculties, rational and volitional, are also imperfect. Emotions must be trained. As C.S. Lewis noted, we must be educated to *“feel pleasure, liking, disgust, and hatred at those things which really are pleasant, likable, disgusting, and hateful” (The Abolition of Man, [1943]1978, p.15)*. For Lewis, trained emotion not the lack of emotion is the essential mark of the virtuous person. The maturing person will show greater and greater appropriate emotionality.
+Thus emotions are an inevitable part of the God-ordained human condition. They provide the highs as well as the lows in our experience, and their recognition (although not necessarily their uncontrolled expression) is necessary for our health. Although they may frequently lead us astray, and may potentially be the source of unwanted influence, we are fallen creatures, and our other faculties, rational and volitional, are also imperfect. Emotions must be trained. As C.S. Lewis noted, we must be educated to *“feel pleasure, liking, disgust, and hatred at those things which really are pleasant, likable, disgusting, and hateful” (The Abolition of Man, [1943] 1978, p.15)*. For Lewis, trained emotion not the lack of emotion is the essential mark of the virtuous person. The maturing person will show greater and greater appropriate emotionality.
 
 Despite controversy at the theoretical level concerning the exact relationship between our thoughts and other components of emotions, the work of Stanley Schacter and Jerome Singer (see [*Schachter-Singer Theory of Emotion*](https://www.thoughtco.com/schachter-singer-theory-4691140){target="_blank”}) has clearly indicated the importance of mental responses. We probably have the potential for a great deal more control over our emotions than we usually admit.
 
