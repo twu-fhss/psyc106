@@ -25,6 +25,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
+```{block2, type='reflect'}
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 [plugin:content-inject](_schedule)
@@ -34,15 +36,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review [*Unit 7 - Slides*](PSYC106-CH13SocialPsychology-3rdEd.pptx)  
- - These will be the same slides from Unit 6 as both unit's cover Chapter 13 content.  
+//todo #5
+- These will be the same slides from Unit 6 as both unit's cover Chapter 13 content.  
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 7 - Slides" link.*  
 
-
-
-
 - This activity is an opportunity to reflect on what you have been taught about racism and discrimination and attitudes of hate and violence. You will be able to ponder the ways in which your parent(s)/primary caregiver(s) addressed these topics as you were growing up in light of some current parental directions and encouragements regarding these topics. You’ll also be familiarized with some research considerations around the topic of video game violence and TV violence and their direct effects on anti-social attitudes and behaviours.
-
 
 - In this activity you can gain more insight into what is it that potentially makes you attractive to someone else and you attractive to others. One of the components influencing this is the structure of a person’s face. Much research has been done on this and the first article will outline some of the ways your face has shaped your social experiences. The second article adds to this discussion by looking at how willing people are to acknowledge the role of attractiveness in their own thought processes and decision-making. Next, the topic shifts to altruism. The first of these articles proposes that only reciprocal altruism exists. I would encourage you to read this article through the lens of, “Is it truly possible to know another’s motivation or intention?” Lastly, Random Acts of Kindness is a website that offers great resources and opportunities to increase kindness in your, and others, lives.
 
@@ -57,6 +56,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.
 
+```
 
 ### Resources {-}
 
@@ -90,7 +90,11 @@ Marshall Segall and his colleagues point out that cultures typically expect men 
 
 Segall and his associates explain, "We suggest that in societies that have the preconditions requiring a stamping-in of masculinity, but which don't achieve this through initiation ceremonies or other institutionalized practices, adolescent males will try on their own to assert their masculinity" (p. 281). The Segall group calls the resultant aggression compensatory machoism. Compensatory machoism is the display of behavior intended to identify oneself with the cultural image of masculinity. The resulting aggression is rooted not in anger but in a "felt need to escape from womanliness and to mark one's masculine gender" (p. 281).
 
+```{block2, type='caution'}
+
 ***Can you think of a cultural group in North America that seems to illustrate this process particularly well?***
+
+```
 
 Marshall Segall and his colleagues suggest that many young black American males illustrate this process. Social conditions (unemployment, educational deficits, racial discrimination) contribute to a prevalence of broken homes with female-headed households. Young men in these conditions attempt to assert their masculine identity through compensatory machoism. They are tough, independent, and violently aggressive. As a result, murder is their leading cause of death. A black man in stands a 1-in-21 chance of being murdered in his lifetime, compared with 1 in 131 for white men and 1 in 369 for white women. The Segall group quotes one young black male who says that in urban ghettos *"You must walk angry, talk angry, think angry . . . . You're either a chump or a champ . . . . You're macho or gay." (adapted from Invitation to Social Psychology by Ronald Philipchalk)*
 
@@ -108,6 +112,8 @@ Fumie Kumagai and Murray Straus report significant differences in the way con­f
 
 ### Learning  Activities {-}
 
+```{block2, type='reflect'}
+
 #### Read and Reflect {-}
 
 The following articles are intended to deepen your understanding of discrimination, racism, hate and violence. Hopefully this information will cause you to consider how you’ve been informed about these topics. Additionally, it may be valuable, in light of the research, to consider how much hate and violence you have exposure to through gaming and TV and how this is impacting your attitude and behaviour towards other people. Click on the articles below:
@@ -116,13 +122,14 @@ The following articles are intended to deepen your understanding of discriminati
 - [**Resolution on Violent Video Games**](https://www.apa.org/about/policy/violent-video-games){target="_blank”}  
 - [**Television and Video Violence**](https://www.apa.org/action/resources/research-in-action/protect){target="_blank”}  
 
-
 #### Learning Lab Preparation {-}
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***If removing parts of the brain reliably reduced aggression, do you think violent criminals should be forced to have this operation?***
 - ***Should violent content be removed from video games, movies, and TV (why or why not)?***
+
+```
 
 ## Attraction & Altruism
 
@@ -162,6 +169,8 @@ In another setting, Perry London (1970) found Christian teaching often played a 
 
 ### Learning Activities {-}
 
+```{block2, type='reflect'}
+
 #### Read and Reflect {-}
 
 What is it that makes you think that someone is attractive, kind, evil, competent, upset, and the like? These resources will look at some of the factors that contribute to how you judge others and yourself. The first article outlines some of the ways your face has shaped your social experiences. The second article adds to this discussion by looking at how willing people are to acknowledge the role of attractiveness in their own thought processes and decision-making. Next, the topic shifts to altruism. The first of these articles proposes that only reciprocal altruism exists. Again, I would encourage you to read this article through the lens of, *“Is it truly possible to know another’s motivation or intention?”* Lastly, Random Acts of Kindness is a website that offers great resources and opportunities to increase kindness in your, and others, lives. I encourage you to participate in some of these activities to see how it makes you feel. Click on the links below:
@@ -178,13 +187,14 @@ In order to review some of the major terms from Chapter 13 in your textbook, tak
 
 [h5p id="89"]
 
-
 #### Learning Lab Preparation {-}
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***What do you think contribute to you being able to quickly judge whether or not you think someone is attractive?***
 - ***Some social psychologists believe that there is always a reward for helping and that this motivates people to help. In other words, people never help without expecting a reward of some kind (either in this life or in the next). What do you think?***
+
+```
 
 ## Assessment {-}
 
