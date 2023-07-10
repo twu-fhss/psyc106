@@ -8,7 +8,7 @@ Units 11 and 12 introduce the exciting, and ever expanding, world of therapy. To
 
 This unit is will delve into the topic of :
 
-1. Therapies  
+- Therapies  
 
 ### Learning Outcomes {-}
 
@@ -25,12 +25,14 @@ By the end of this unit, student's will be able to:
 Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your work:
 
+```{block2, type='reflect'}
+
 <!-- [plugin:content-inject](_schedule) -->
 
 **Read and Reflect**
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review [*Unit 11- Slides*](PSYC106-CH16Therapies3rdEd.pptx)  
+- Review *Unit 11- Slides*  
 
 <details> <summary>CLICK HERE</summary>
 
@@ -99,10 +101,10 @@ completing this unit. You may find it useful for planning your work:
 
 <h5>Involuntary Treatment</h5>
 
-- May be compelled to enter treatment
-- Highly erratic or disturbing behaviour
-- Controversial issue
-- More common for some ethnic groups and socioeconomic classes
+- May be compelled to enter treatment  
+- Highly erratic or disturbing behaviour  
+- Controversial issue  
+- More common for some ethnic groups and socioeconomic classes  
 
 <h5>The Importance of Community Psychology</h5>
 
@@ -156,16 +158,215 @@ completing this unit. You may find it useful for planning your work:
 - Geographical barriers  
 - Financial barriers  
 
+<h5>Learning Objectives</h5>
+
+- Know the key terminology related to psychological therapies.  
+- Understand the general approaches to conducting major types of psychotherapy.  
+- Apply your knowledge to identify major therapeutic techniques.  
+- Analyze the pros and cons of the major types of psychotherapy.  
+
+<h5>Insight Therapies</h5>
+
+- Insight therapies (p. 615)  
+- Psychodynamic therapies (p. 615)  
+
+![](assets/unit_11/slide_23.png)
+
+*Slide showing - Core Ideas Forming the Basis of Psychoanalysis*
+
+<h5>Psychoanalysis: Exploring the Unconscious</h5>
+
+- Accessing the unconscious  
+  - Free association (p. 615)  
+  - Dream analysis (p. 615)  
+- Can lead to:  
+  - Resistance (p. 615-616)  
+  - Transference (p. 616)  
+
+<h5>Modern Psychodynamic Therapies</h5>
+
+- Object relations therapy (p. 616)  
+  - Influenced by Freud’s work  
+  - Gain insight into early relationships issues  
+
+![](assets/unit_11/slide_26.png)
+
+*Slide showing - Contrasting Psychoanalytic and Humanistic Views of Major Psychological Issues and Debates*
+
+<h5>Evaluating Insight Therapies</h5>
+
+- Psychodynamic therapies have some empirical support  
+  - Lack of proper design and control conditions  
+  - Promise for panic disorder, dependence on opiate drugs, and BPD  
+- Person-centred therapy  
+  - Importance of therapeutic relationship supported  
+  - Emotion-focused therapy  
+
+<h5>Behavioural, Cognitive, and Group Therapies</h5>
+
+- Behavioural therapies (p. 618)  
+  - Behaviours are learned  
+    - Adaptive and maladaptive  
+
+![](assets/unit_11/slide_29.png)
+
+*Slide showing - Applying Steps of Systematic Desensitization to Fear of Public Speaking*
+
+![](assets/unit_11/slide_30.png)
+
+*Slide showing - Applying Steps of Systematic Desensitization to Fear of Public Speaking*
+
+<h5>Working the Scientific Literacy Model: Virtual Reality Therapies</h5>
+
+- What do we know about virtual reality exposure?  
+  - Virtual reality exposure (VRE) (p. 619)  
+    - Imagery  
+    - Real-time approximation  
+    - Treating PTSD  
+- How can scientists study virtual reality exposure?  
+- Can we critically evaluate this evidence?  
+  - VRE can outperform standard approaches  
+  - More effective for some groups of patients  
+- Why is this relevant?  
+  - Treating veterans  
+  - Close control over exposure  
+
+<h5>Aversive Conditioning</h5>
+
+- Aversive conditioning (p. 620)  
+  - Antabuse  
+    - Reduce problem drinking  
+    - Causes nausea and vomiting  
+    - Requires motivation and willpower  
+
+<h5>Cognitive-Behavioural Therapies</h5>
+
+- Cognitive-behavioural therapy (p. 621)  
+  - Feelings involved with exposure  
+  - Cognitive restructuring  
+    - Shift in beliefs and interpretations  
+- Relaxation techniques  
+  - Stress inoculation training  
+- Applying Cognitive-Behavioural Therapy to the Cognitive Symptoms of Depression  
+  - Internal attributions  
+  - Stable attributions  
+  - Global events  
+
+<h5>Mindfulness-Based Cognitive Therapy</h5>
+
+- Integration of meditation and CBT  
+- Mindfulness-Based Cognitive Therapy (p. 622)  
+- Decentring (p. 623)  
+
+<h5>Group and Family Therapies</h5>
+
+- Group Therapy  
+  - Less expensive  
+  - Organized to fit needs  
+  - Systems approach (p. 624)  
+
+<h5>Evaluating Cognitive-Behavioural Therapies</h5>
+
+- Behavioural therapies effective for:  
+  - Anxiety disorders  
+  - Certain problematic behaviours  
+- Cognitive-behavioural therapy effective for:  
+  - Depression  
+  - Anxiety and eating disorders  
+
+<h5>Learning Objectives</h5>
+
+- Know the key terminology associated with biological treatments.  
+- Understand how the drugs described in this module affect brain functioning.  
+- Understand the other major medical approaches to therapy.  
+- Apply your knowledge of drug therapies to different psychological conditions.  
+- Analyze whether MDMA (Ecstasy) is an effective treatment for posttraumatic stress disorder (PTSD).  
+
+![](assets/unit_11/slide_40.png)
+
+*Slide showing - How Psychotropic Drugs Reach the Brain*
+
+![](assets/unit_11/slide_41.png)
+
+*Slide showing - Antidepressant Effects at the Synapse*
+
+<h5>MYTHS IN MIND: Antidepressant Drugs are Happiness Pills</h5>
+
+- Antidepressants alleviate depression  
+  - Do not make people happier  
+  - High doses do not produce a high  
+    - Weeks to work  
+
+<h5>Working the Scientific Literacy Model: Using MDMA (Ecstasy) to Treat Posttraumatic Stress Disorder (PTSD)</h5>
+
+- What do we know about using MDMA to treat PTSD?  
+  - Treatment program has 3 components  
+- What have scientific studies found about MDMA and PTSD?  
+  - Effective and long-lasting  
+  - Effects on neurotranmitters  
+- Can we critically evaluate this evidence?  
+  - Safety?  
+  - Addiction?  
+- Why is this relevant?  
+  - Another option for treatment  
+
+<h5>Antianxiety Drugs and Antipsychotic Drugs</h5>
+
+- Antianxiety drugs (p. 630)  
+  - Xanax, Valium, and Ativan  
+  - Affect activity of GABA  
+- Antipsychotic drugs (p. 632)  
+  - Original medicines blocked dopamine receptors  
+  - Tardive Dyskinesia (p. 632)  
+  - Atypical antipsychotics (p. 632)  
+
+<h5>Evaluating Drug Therapies</h5>
+
+- Drugs most effective with other types of therapy  
+- Antidepressants increasingly accepted  
+  - 50-60% benefit  
+    - 30% improvement with placebo  
+- Psychotherapy  
+  - 50-60% benefit  
+
+<h5>Technological and Surgical Methods</h5>
+
+- Neurologists in 1800s and early 1900s  
+  - Experimented with removing regions  
+    - Frontal Lobotomy (p. 633)  
+- Antonio Moniz  
+  - Leucotomy (p. 633)  
+- Walter Freeman  
+  - Ice pick  
+- Dwindling popularity of frontal lobotomies in 1950s  
+
+<h5>Focal Lesions</h5>
+
+- Severe psychiatric problems  
+  - All other methods failed  
+  - Focal lesions (p. 634)  
+    - Anterior cingulate cortex  
+
+<h5>Electroconvulsive Therapy</h5>
+
+- Electroconvulsive therapy (ECT) (p. 635)  
+  - Introduced in 1930s  
+  - Severe cases  
+  - Mild side effects  
+- Why does it work?  
+
+<h5>Transcranial Magnetic Stimulation and Deep Brain Stimulation</h5>
+
+- Repetitive transcranial magnetic stimulation (rTMS) (p. 635)  
+  - Reduces depressive symptoms  
+  - No anaesthesia, seizure, or cognitive impairments  
+  - May help for symptoms of schizophrenia  
+- Deep brain stimulation (DBS) (p. 636)  
+  - Thin electrode-tipped wires  
+  - Instantaneous results on depression  
+  - Side effects  
+
 </details>
-
-
-
-
-
-
-
-
-
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 11- Slides" link.*
 
@@ -175,12 +376,16 @@ completing this unit. You may find it useful for planning your work:
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
+```
+
 ### Resources {-}
 
 Here are the resources you will need to complete this unit:
 
 - Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
+
+
 
 ## Therapies- Part 1
 
@@ -208,6 +413,8 @@ In a work for Christian counselors, Koteskey (1983) gives the example of his eig
 
 ### Learning Activities {-}
 
+```{block2, type='reflect'}
+
 #### Read and Reflect {-}
 
 For many people unfamiliar with the journey of counselling, finding suitable resources may feel daunting. It is important to know that there are many different approaches designed to help you accomplish the growth goals you have for your life. In this activity, the first resource, Psych Central is the oldest peer-reviewed psychology and mental health network on the Internet. Established in 1992, originally it was an index to mental health. Now it gives you the opportunity to see some treatment options for a wide variety of conditions. Additionally, there is a resource on different theoretical approaches to behavior change, and a link to some information concerning the integration of Christianity and psychotherapy.
@@ -224,6 +431,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?***  
 
 ***As we approach our final unit, please take a moment to look ahead to the "Term Paper" tab. Here you will find important information that ties to completing the course. It is important to begin preparing now, for these final assessments, in order to manage your time and avoid being overwhelmed. Not only will you have to complete your Quiz #3 at the end of Unit 12, but you will also be responsible for submitting a Term Paper and writing a Final Exam- it is strongly recommended that you begin planning now!***
+
+```
 
 ## Assessment {-}
 
