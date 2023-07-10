@@ -648,7 +648,10 @@ In order to review some of the major terms from Chapter 15 in your textbook, tak
 
 //todo #7
 
-[h5p id="84"]
+<!-- [h5p id="84"] -->
+
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=84" width="622" height="822" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 10 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 #### Learning Lab Preparation {-}
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
