@@ -25,14 +25,14 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-```{block2, type='reflect'}
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+
+```{block2, type='reflect'}
 
 <!-- [plugin:content-inject](_schedule) -->
 
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 
@@ -332,7 +332,7 @@ to frequent*, stay in, a place;
 - This Activity focuses on conformity, compliance, and obedience, and a consideration of ethical principles. Doing research that involves the use of deception is a highly debated issue within psychology. The articles in this activity will help you to become more knowledgeable about Stanley Milgram and research that looks at obedience. There is also a resource that discusses what the ethics psychologists must follow along with a decision-making process when facing an ethical dilemma article. *Do not feel compelled to read every article extensively (though, they are all interesting), a review of the material should be sufficient to answer the Learning Lab questions.*  
 - In this activity you will gain further knowledge about strategies that are employed to promote compliance. The first article draws attention to the myriad ways social media is, for the good and for the bad, shaping culture today. The second article describes the difference between what constitutes mind control versus social conditioning. This information is certain to be eye-opening.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -361,9 +361,9 @@ The ultimate attribution error tends to perpetuate our false stereotypes and pre
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
-#### Read and Reflect {-}
+```{block2, type='reflect'}
 
 Attributes, and our perception of attributes, has been the focus of this lesson. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -372,16 +372,18 @@ Attributes, and our perception of attributes, has been the focus of this lesson.
 
 These articles bring to light phenomena that tend to occur automatically (without conscious processing) for most people. Now that the concepts of attribution and cognitive dissonance are in your awareness it could be valuable to thoughtfully consider which attribution style you tend towards (dispositional or situational) and how that style influences how you treat others and how others respond to you. And, then ask, what am I doing with my cognitive dissonance? Do I tend to change my attitudes to fit my behaviours or do I adjust my behaviours to be alignment with my attitudes, values, and beliefs?
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following scenario. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Describe a time when you were forced to act in a certain way, and then later found you had come to enjoy what you were doing. That is, your attitude followed your actions.***  
 - ***Could this happen with religious attitudes and beliefs too?***  
 
+```
+
 ## Conformity
 
-   “Oh, God, the terrible tyranny of the majority.” *(from Fahrenheit 451 by Ray Bradbury, p. 97)*
+“Oh, God, the terrible tyranny of the majority.” *(from Fahrenheit 451 by Ray Bradbury, p. 97)*
 
 ### Conformity, vs. Compliance & Obedience {-}
 
@@ -409,9 +411,9 @@ The "Mach Test" is a twenty-item inventory designed to reveal Machiavellian tend
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
-#### Read and Reflect {-}
+```{block2, type='reflect'}
 
 We investigated conformity, and the role it plays. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -420,13 +422,15 @@ We investigated conformity, and the role it plays. This will be the focus of thi
 
  *Due to the pervasiveness of social influence, it cannot be overstated how important it is to understand the concepts and techniques associated with it. The purpose of these resources is to allow you to grow in your ability to be persuasive and to recognize when tools of influence are being used on you. It will also allow you to be more mindful of what/who you are conforming to and why it is that you are doing so. If you are really adventurous you may even want to take this knowledge to help you or someone else adopt a new attitude, belief, or action.*
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***What pressures for conformity exist in your community? On your campus?***  
 - ***What happens to people who do not conform?***  
 - ***Is conformity good or bad? What would society be like without conformity?***  
+
+```
 
 ## Obedience
 
@@ -453,7 +457,6 @@ Milgram also demonstrated the effect of support for disobedience. In one experim
 ***Finally***, if you decide to defy authority, you might take a lesson from the conformity research and remember the power of calm, reasonable dissent. One of the most famous literary examples of defiance, Herman Melville's Bartleby, the Scrivener, illustrates this "gentle rebellion:"
 
 <!-- [plugin:content-inject](../_6-1) -->
-
 
 *"Bartleby,"* said I, *"Ginger Nut is away; just step round to the Post Office, won't you?* (it was but a three minute walk), *and see if there is anything for me."*
 
@@ -482,9 +485,9 @@ Bartleby manages to defy his employer and yet keep his job because his meek repl
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
-#### Read and Reflect {-}
+```{block2, type='reflect'}
 
 This unit, we learned about obedience. We saw that obedience is strongest level of social influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -496,7 +499,7 @@ This unit, we learned about obedience. We saw that obedience is strongest level 
 
 *As mentioned earlier, it is not necessary to read each resource thoroughly. What is important is to gain comprehension of the importance of using ethical guidelines when doing research on conformity, compliance, and obedience. Start to ponder how necessary is it to involve the use of deception in research. Ask yourself how you would feel if you were actually part of an experiment that was measuring compliance and you were deceived about what the researchers were actually doing? Also, while reading this information have you been able to recognize areas of your life where you are unquestionably following an authority figure? When answering questions like this I would encourage you to not be overly critical of yourself or others, rather, just notice where certain phenomena are present in your life and if you would like to do anything about it.*
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following scenario and questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -505,6 +508,8 @@ Prior to your Learning Lab, take some time to think about the following scenario
 - ***Does the severity of the problem studied—in this case destructive obedience—justify more extreme steps to manipulate and deceive experimental subjects?***  
 - ***Under what circumstances do you personally think that deceiving subjects in a scientific experiment might be ethically warranted or justified?***  
 
+```
+
 ## Compliance
 
 <!-- [plugin:content-inject](../_6-2) -->
@@ -512,7 +517,6 @@ Prior to your Learning Lab, take some time to think about the following scenario
 This fictitious letter, based upon actual appeals I have received, contains several examples of techniques of persuasion. Without criticizing the writer's motives, a social psychologist could identify examples of card stacking, plain folks, foot-in-the-door, and other effective procedures of persuasion that we will discuss below.
 
 Compliance refers to an intermediate level of influence. Here we have the familiar situation where a request is made of us, but it is assumed that we have a choice; we don't have to comply with the persuasive communication. In the letter we see the use of several techniques which have been found to increase the effectiveness of a persuasive communication:
-
 
 1. ***Card Stacking*** is the selection of only those examples which support the proponent's argument (Mr. Smith's example is presented as if it were typical).  
 2. ***The Band Wagon Effect*** gives the impression that many other people are involved, and that everyone is doing it ("thousands of others are standing with you").  
@@ -526,9 +530,9 @@ These and other techniques have been shown to greatly increase the effectiveness
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
-#### Read and Reflect {-}
+```{block2, type='reflect'}
 
 In this Topic we studied compliance and its use as a tool of influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -537,7 +541,7 @@ In this Topic we studied compliance and its use as a tool of influence. This wil
 
 *The purpose of the information being shared in this topic and through these resources is to help you recognize who and/or what you are allowing to be an influence in your life? Asking the question, “Who is teaching me how to be influential and what direction is that influence taking me in?” can be invaluable in helping you examine how you are spending your time and if you are truly satisfied in the direction of your life. Remember, tools of influence are just that – tools. Any tool can be used towards benefit or detriment, it just depends on how it is being applied.*
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -547,17 +551,19 @@ If you have not been taught a sales technique, you certainly have experienced ma
 
 ***One of the standard ways that door-to-door salespersons will try to get you to buy something is the so-called foot-in-the-door technique: They will ask you to do them a small favor. Having done so, you will have to justify your own behavior to yourself by think­ing nice things about the seller. Hence, you are more likely to comply when they ask you to sign on the dotted line.***
 
+```
+
 ## Assessment {-}
 
 ```{block2, type='assessment'}
 
 While there is no "formal" assignment that you will be responsible for submitting for Unit 6, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
-#### Learning Lab {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
 
- *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
+*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
 
 **Rubric for Participation in Learning Labs**
 
