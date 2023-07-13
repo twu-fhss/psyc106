@@ -16,7 +16,7 @@ visible: false
 
 ---
 
-####:fa-pencil: **Learning Activity 1.1: Chapter 2 Review Quiz**
+### Activity : Chapter 2 Review Quiz
 
 - Practice Quiz to self-assess your own comprehension of important terms from Chapter 2.
  - Not for formal evaluation.

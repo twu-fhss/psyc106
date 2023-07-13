@@ -31,10 +31,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block2, type='reflect'}
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review [*Unit 5- Slides*](PSYC106-CH12Personality-3rdEd.pptx){target="_blank”}
+- Review **Unit 5- Slides**
 
 <details> <summary>CLICK HERE</summary>
 
@@ -226,7 +226,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Conscious mind (p. 483)  
   - Aware of these  
 
-
 ![](assets/unit_5/slide_31.png)
 
 *Slide showing - Personality Stability and Change over the Lifespan*
@@ -288,22 +287,20 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 5- Slides" link.*
 
-**Read and Reflect**
-
 - This Learning Activity is an opportunity to explore dreams and birth order, two of the constructs that help shape and reflect who we are as individuals. Keep in mind, though, there are many different theories and interpretations on the role dreams and birth order play.  
 - The humanistic view, as it relates to personality, sees self-esteem as key ingredient for success in life. The articles in this activity illuminate how a healthy self-esteem can benefit personality development. It will also be helpful for preparation for discussion this week.  
 - In this activity you will have the opportunity to analyze the power of the environment in influencing your perceived options. The concepts of Learned Helplessness vs. Learned Optimism will be used to highlight how important environmental factors are.  
 
-**Practice, Read, and Reflect**
+<span class="blockhead">Practice, Read, and Reflect</span>
 
 - In this activity you will have the opportunity to take a personality test (from a list of options). I would encourage you to interact with the results and ponder whether or not you think the test is accurate or inaccurate and whether or not the information provided seems unique to you or could it be applied to anyone given the right situation.  
 
-**Key Terms Quiz**
+<span class="blockhead">Key Terms Quiz</span>
 
 - Practice quiz to assess how well you know key terms from Chapter 12.  
 - Not for formal evaluation.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -352,11 +349,9 @@ You will not always be right—but neither was Adler. The important thing is to 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 Having just introduced Personality Theories to the course, we begin to explore psychoanalytic views of human development. Dreams and birth order are but two of the constructs that help shape and reflect who we are as individuals- there are many different theories and interpretations on the role dreams and birth order play. Take a moment to consider the following articles:
 
@@ -364,7 +359,7 @@ Having just introduced Personality Theories to the course, we begin to explore p
 - [**Birth Order and Your Personality**](https://www.scientificamerican.com/article/ruled-by-birth-order/){target="_blank”}  
 
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -406,11 +401,9 @@ Some Christians object to the humanistic perspective because of its unqualified 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 As we explore a humanistic view, as it relates to personality, we start to see the development of self-esteem. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -420,7 +413,7 @@ As we explore a humanistic view, as it relates to personality, we start to see t
 
 *The purpose of these resources is to help you assess your self-esteem, help to build a healthy self-esteem, and to provide you with a credible site for learning more about Humanistic Psychology.*
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -454,11 +447,9 @@ Do you have a desire to know what “kind” of person you are? This common desi
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Practice, Read, and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Practice, Read, and Reflect {-}
 
 In this topic we have continued to develop our understanding of personality. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resource:
 
@@ -475,7 +466,7 @@ In this topic we have continued to develop our understanding of personality. Thi
 Then interact with the results and ponder whether or not you think the test is accurate or inaccurate and whether or not the information provided seems unique to you or could it be applied to anyone given the right situation.
 
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. 
 You will be asked to share your thoughts in this week's Learning Lab:
@@ -500,11 +491,9 @@ In summary, the Social-Cognitive view recognizes the mutual interdependence (“
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities  {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 Who we are is, in large part, shaped by the environment in which live. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
@@ -513,13 +502,13 @@ Who we are is, in large part, shaped by the environment in which live. This will
 
 The above resources will help you to think about how your environment can impact your sense of agency (the ability to choose your behaviours to impact the environment) and how your sense of agency can influence your environment. This demonstrates the key idea of Social-Cognitive Theory, that you are in a constant, dynamic relationship with your environment and each factor is shaped by the other.
 
-#### Key Terms Quiz {-}
+<span class="blockhead">Key Terms Quiz</span>
 
 In order to review some of the major terms from Chapter 12 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
 
 [h5p id="81"]
 
-#### **Learning Lab Preparation** {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -537,7 +526,7 @@ While there is no "formal" assignment that you will be responsible for submittin
 
 Below is some information to consider prior to attending your Learning Lab:
 
-#### **Learning Lab** {-}
+<span class="blockhead">Learning Lab</span>
 
 Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
 

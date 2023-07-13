@@ -27,13 +27,13 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-```{block2, type='reflect'}
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+
+```{block2, type='reflect'}
 
 <!-- [plugin:content-inject](_schedule) -->
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span> 
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Continue our study of development - in particular, some of the major changes adolescents go through in their growth.  
@@ -50,7 +50,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 | ^14^ They will still bear fruit in old age,they will stay fresh and green,  
 | ^15^ proclaiming, “The Lord is upright; he is my Rock, and there is no wickedness in him.”  
 
-- Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html)  
+- Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html){target="_blank”}  
   
 ![](assets/unit_3/slide_3.png)
 
@@ -104,7 +104,7 @@ Here is a checklist of learning activities you will benefit from in completing t
     - Likely higher  
 - Stress  
 
-<h5>Working the Scientific Literacy Model: The Long-Term Effects of Premature Birth (1 of 2)</h5>
+<h5>Working the Scientific Literacy Model: The Long-Term Effects of Premature Birth</h5>
 
 - What do we know about premature birth?  
   - Preterm infants (p. 368)  
@@ -112,9 +112,6 @@ Here is a checklist of learning activities you will benefit from in completing t
   - 30 weeks: 95% survival  
 - How can science be used to help preterm infants?  
   - NIDCAP  
-
-<h5>Working the Scientific Literacy Model: The Long-Term Effects of Premature Birth (2 of 2)</h5>
-
 - Can we critically evaluate this research?  
   - Small sample size  
   - Why does the program work?  
@@ -165,7 +162,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Slide showing - The Processes of Synaptic Pruning*
 
-
 <h5>Learning Objectives</h5>
 
 - Know the key terminology associated with infancy and childhood.  
@@ -214,7 +210,7 @@ Here is a checklist of learning activities you will benefit from in completing t
   - 11 years to adulthood  
   - Scientific thinking  
 
-<h5>Working the Scientific Literacy Model: Evaluating Piaget (1 of 3)</h5>
+<h5>Working the Scientific Literacy Model: Evaluating Piaget</h5>
 
 - What do we know about cognitive abilities in infants?  
   - Core knowledge hypothesis (p. 378)  
@@ -232,7 +228,7 @@ Here is a checklist of learning activities you will benefit from in completing t
     - Scaffolding (p. 380)  
       - Cultural differences  
 
-<h5>Social Development and Attachment (1 of 2)</h5>
+<h5>Social Development and Attachment</h5>
 
 - Attachment (p. 381)  
 - Harry Harlow’s monkey experiments  
@@ -242,17 +238,14 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Slide showing - The Strange Situation*
 
-<h5>Social Development and Attachment (1 of 2)</h5>
+<h5>Social Development and Attachment</h5>
 
 - Types of Attachment  
-- Secure attachment  
-  - Insecure attachment  
-  - Disorganized  
-  - Anxious/Ambivalent  
-  - Avoidant  
-
-<h5>Social Development and Attachment (1 of 2)</h5>
-
+  - Secure attachment  
+    - Insecure attachment  
+    - Disorganized  
+    - Anxious/Ambivalent  
+    - Avoidant  
 - Parenting and Attachment  
 - Attachment behavioural system (p. 383)  
 - Caregiving behavioural system (p. 383)  
@@ -260,7 +253,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Introjection (p. 383)  
 - Inductive discipline (p. 383)  
 
-<h5>Self-Awareness (1 of 3)</h5>
+<h5>Self-Awareness</h5>
 
 - Self-awareness (p. 384)  
   - Reflection in mirror  
@@ -270,12 +263,10 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Slide showing - Piaget’s Test for Egocentric Perspective in Children*
 
-<h5>Self-Awareness (3 of 3)</h5>
-
 - Theory of mind (p. 384)  
 - False-belief task  
 
-<h5>Psychosocial Development Across the Lifespan (1 of 2)</h5>
+<h5>Psychosocial Development Across the Lifespan</h5>
 
 - Infancy  
   - Sense of security  
@@ -305,7 +296,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Cognitive reframing  
 - Ability to delay gratification (p. 392)  
 
-<h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (1 of 4)</h5>
+<h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making</h5>
 
 - What do we know about adolescence and decision making?  
   - Ongoing changes in prefrontal cortex  
@@ -314,8 +305,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 ![](assets/unit_3/slide_45.png)
 
 *Slide showing - Extended Brain Development*
-
-<h5>Working the Scientific Literacy Model: Adolescent Risk and Decision Making (3 of 4)</h5>
 
 - Can we critically evaluate this explanation for risky decision making?  
   - Still capable of making good decisions  
@@ -335,7 +324,7 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Scientific thinking  
   - Perspective taking  
 
-<h5>Kohlberg’s Moral Development: Learning Right from Wrong (1 of 2)</h5>
+<h5>Kohlberg’s Moral Development: Learning Right from Wrong</h5>
 
 - A trolley is hurtling down the tracks toward a group of five unsuspecting people. You are standing next to a lever that, if pulled, would direct the trolley onto another track, thereby saving the five individuals. However, on the second track stands a single, unsuspecting person, who would be struck by the diverted trolley.  
 
@@ -376,7 +365,7 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Older adulthood: 65 years and onward  
 - Menopause (p. 399)  
 
-<h5>Psychosocial Development Across the Lifespan (2 of 2)</h5>
+<h5>Psychosocial Development Across the Lifespan</h5>
 
 - Ages 25 to 40  
   - Separate from parents
@@ -417,7 +406,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Slide showing - How Alzheimer’s Disease Affects the Brain*
 
-<h5>Working the Scientific Literacy Model: Aging and Cognitive Change (1 of 3)</h5>
+<h5>Working the Scientific Literacy Model: Aging and Cognitive Change</h5>
 
 - What do we know about cognitive abilities?
   - Fluid intelligence declines
@@ -425,7 +414,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - How can science explain age-related differences in cognitive abilities?
   - Activation of brain areas
 
-<h5>Working the Scientific Literacy Model: Aging and Cognitive Change (2 of 3)</h5>
+<h5>Working the Scientific Literacy Model: Aging and Cognitive Change</h5>
 
 - Can we critically evaluate our assumptions about age-related cognitive changes?
   - Too simplistic to say memory declines
@@ -442,19 +431,19 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 **Note:** The slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 3 - Slides" link.
 
-**Designer Babies**
+<span class="blockhead">Designer Babies</span>
 
  - Explore and reflect upon this contemporary and controversial issue. Designer babies pose many ethical issues and requires careful consideration.
 
-**Cognitive Change**
+<span class="blockhead">Cognitive Change</span>
 
  - Reflect on your own development before taking a "test" to develop additional insights into your own developmental trajectory.
 
-**Terminology Practice**
+<span class="blockhead">Terminology Practice</span>
 
 - Take this flip-card activity to self-evaluate how well you know some of the important terms from Chapter 10.   
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -475,12 +464,12 @@ Prenatal development is a time of rapid growth and change. This rapid change con
 
 <!-- [plugin:content-inject](_alert) -->
 
-***Questions to Consider***
+### Questions to Consider {-}
 
 After you have read the first few pages of this chapter you should be able to answer the following questions:
 
-- ***How is the gender of an offspring determined?***
-- ***What differentiates zygotes from embryos and embryos from fetuses?***
+- ***How is the gender of an offspring determined?***  
+- ***What differentiates zygotes from embryos and embryos from fetuses?***  
 
 *(These questions are intended for personal reflection - you are not intended to submit anything for assessment)*
 
@@ -496,16 +485,16 @@ At the moment the technique is used for therapeutic purposes only, to screen for
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Designer Babies {-}
 
-#### Designer Babies {-}
+```{block2, type='reflect'}
 
 This activity involves some reading and reflection around the topic of genetic engineering. As this is a contemporary issue, it will be valuable to familiarize yourself with some of the complexities of this technology and think critically about some of the ethical challenges. Your task is to read the following resources and carefully consider the implications of this technology:
 
-- [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/)  
-- [**Designer Babies, CRISPR, & Genetic Engineering**](https://www.geneticsandsociety.org/internal-content/designer-babies-crispr-genetic-engineering)  
+- [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/){target="_blank”}  
+- [**Designer Babies, CRISPR, & Genetic Engineering**](https://www.geneticsandsociety.org/internal-content/designer-babies-crispr-genetic-engineering){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following scenario and questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -520,8 +509,9 @@ Prior to your Learning Lab, take some time to think about the following scenario
 1. ***How do you feel about this request?***
 2. ***What problems might you anticipate?***
 
+```
 
-## **Infancy and Childhood**
+## Infancy and Childhood
 
 ### A Child’s View of God {-}
 
@@ -564,25 +554,23 @@ Although cognitive equilibrium is restored via either assimilation or accommodat
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity:Cognitive Change  {-}
 
 ```{block2, type='reflect'}
 
-#### Cognitive Change {-}
-
 The first three links below are articles that are intended to give you an opportunity to reflect upon your own considerations around development. The last link is a test - along with the first three links, it is intended to provide some insights about your developmental trajectory in light of your crisis resolution, attachment style, and parenting styles:
 
-- [**Erik Erikson’s Stages of Social-Emotional Development**](http://www.childdevelopmentinfo.com/development/erickson.shtml )  
-- [**The Link Between Substance Abuse and Attachment Disorder**](http://www.attachmentdisorder.net/ )  
-- [**Stepfamilies: How to Help Your Child Adjust**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/stepfamilies/art-20047046)  
-- [**What is Your Parenting Style**](https://www.3smartcubes.com/pages/tests/parentingstyle/parentingstyle_instructions/)  
+- [**Erik Erikson’s Stages of Social-Emotional Development**](http://www.childdevelopmentinfo.com/development/erickson.shtml ){target="_blank”}  
+- [**The Link Between Substance Abuse and Attachment Disorder**](http://www.attachmentdisorder.net/ ){target="_blank”}  
+- [**Stepfamilies: How to Help Your Child Adjust**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/stepfamilies/art-20047046){target="_blank”}  
+- [**What is Your Parenting Style**](https://www.3smartcubes.com/pages/tests/parentingstyle/parentingstyle_instructions/){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
- - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***
- - ***Would children even have an idea of God if they were not taught it?***
+ - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***  
+ - ***Would children even have an idea of God if they were not taught it?***  
 
 ```
 
@@ -594,12 +582,12 @@ John has just turned 13. Over the past year he has experienced may changes. He h
 
 Before you begin reading the textbook section on adolescence, think back to your own adolescence. As you think about your experience of adolescence, use the following questions to guide your reflection:
 
-- What physical changes did you experience in adolescence?
-- How did these physical changes make you feel?
-- In what ways did your view of the world change during adolescence?
-- How did your way of treating other people change during adolescence?
-- What was most important to you during adolescence?
-- To what extent is "who you are today" a function of "who you became during adolescence"?
+- What physical changes did you experience in adolescence?  
+- How did these physical changes make you feel?  
+- In what ways did your view of the world change during adolescence?  
+- How did your way of treating other people change during adolescence?  
+- What was most important to you during adolescence?  
+- To what extent is "who you are today" a function of "who you became during adolescence"?  
 
 ### No Adolescence? {-}
 
@@ -614,26 +602,23 @@ The concept of identity is a rich topic for consideration. The most familiar asp
 
 ```{block2, type='reflect'}
 
-
-
-#### Read and Reflect {-}
+<span class="blockhead">Read and Reflect</span>
 
 In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding:
 
-- [**Journal of Adolescence**](https://www.sciencedirect.com/journal/journal-of-adolescence)  
-- [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv)  
-- [**4 Tips for Parenting Teenagers**](http://drjamesdobson.org/quiz/parenting-quiz/4-tips-for-parenting-teenagers)  
+- [**Journal of Adolescence**](https://www.sciencedirect.com/journal/journal-of-adolescence){target="_blank”}  
+- [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv){target="_blank”}  
+- [**4 Tips for Parenting Teenagers**](http://drjamesdobson.org/quiz/parenting-quiz/4-tips-for-parenting-teenagers){target="_blank”}  
 
-#### Terminology Practice {-}
+<span class="blockhead">Terminology Practice</span>
 
 In order to review some of the major terms from Chapter 10 in your textbook, practice using the activity below. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
-- ***Would you want to live your adolescence over again if you could? Why or why not?***
-
+- ***Would you want to live your adolescence over again if you could? Why or why not?***  
 
 ```
 

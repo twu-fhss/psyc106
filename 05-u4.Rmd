@@ -1,4 +1,4 @@
-# The Developing Person - Part 2 
+# The Developing Person - Part 2
 
 ## Overview {-}
 
@@ -30,9 +30,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <!-- [plugin:content-inject](_schedule)  -->
 
-
-
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review [*Unit 4 - Slides*](PSYC106-CH10LifespanDevelopment-3rdEd.pptx)  
@@ -73,32 +71,28 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 </details>
 
-Hidden comment -->
-
 
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 4 - Slides" link.*
 
-**Relationships and Aging**
+<span class="blockhead">Relationships and Aging</span>
 
-- Read about Erikson's Eight Psychosocial Stages that highlight the importance of relationships in healthy aging.
+- Read about Erikson's Eight Psychosocial Stages that highlight the importance of relationships in healthy aging.  
 
+<span class="blockhead">Death and Dying</span>
 
-**Death and Dying**
+- Take a moment to read through some resources that are focused on aging and dying. These readings are intended to provoke thought around the inevitability of death.  
 
-- Take a moment to read through some resources that are focused on aging and dying. These readings are intended to provoke thought around the inevitability of death.
+<span class="blockhead">Learning Lab Preparation</span>
 
+- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Assessment</span>
 
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.
+- At the end of this unit, not only will you be assessed on your participation during the Learning Lab discussions, but you will also be responsible for submitting your first writing assignment.  
 
-#### Assessment {-}
+- ***Writing Assignment #1*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
 
-- At the end of this unit, not only will you be assessed on your participation during the Learning Lab discussions, but you will also be responsible for submitting your first writing assignment.
-
-- ***Writing Assignment #1*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.
-
-- After completing this assignment, you will also be expected to complete ***Quiz #1.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.
+- After completing this assignment, you will also be expected to complete ***Quiz #1.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
 
 ```
 
@@ -106,8 +100,8 @@ Hidden comment -->
 
 Here are some additional resources that will help you complete this unit:
 
- - Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.
- - Other resources will be provided online.
+- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Other resources will be provided online.  
 
 ## Adulthood
 
@@ -133,16 +127,14 @@ The textbook discusses moral development in childhood and adolescence. However, 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
-
-#### Read and Reflect {-}
+### Activity: Read and Reflect {-}
 
 This activity involves some reading and reflection around Erikson’s Eight Psychosocial Stages and an article from Harvard University illuminating the importance of relationships in healthy aging.
 
 - [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv){target="_blank”}  
 - [**Good Genes are Nice, but Joy is Better**](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/){target="_blank"}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -192,9 +184,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
 
-```
-
-## Writing Assignment #1
+<span class="blockhead">Writing Assignment #1</span>
 
 Your first assignment for the course will involve reading a formal research article and extracting important information. Research articles play an important role in psychology as they present new findings and research that help us better understand the subject field. It is, however, important for us to understand what information is important as we weigh the value of the article we are reading. This assignment attempts to help us better understand those considerations.
 
@@ -206,16 +196,13 @@ Next, your task is to read [**How to Read a Journal Article in Social Psychology
 
 - This article should help support your understanding of formal research articles and how to read them to support your research and learning.  
 
-#### Writing Assignment {-}
+<span class="blockhead">Writing Assignment</span>
 
 Finally, it is time to apply what we have learned. Download the following article:
 
 [**No More FOMO**](assets/unit_4/Assessment_FOMO_Article.pdf)  
 
-
 <!-- [plugin:content-inject](_alert)  -->
-
-### Writing Assignment {-}
 
 After reading the article above, use the content to respond to the following questions:
 
@@ -227,7 +214,7 @@ After reading the article above, use the content to respond to the following que
 6. **How do the researchers explain their results? What are some other possible explanations? What are some strengths of this study? Limitations?**  
 7. **What are the possible implications of these results in the real world?**  
 
-#### Rubric for Writing Assignment #1 {-}
+<span class="blockhead">Rubric for Writing Assignment #1</span>
 
 **In addition to the criteria included in the rubric below, it is expected that students submit their assignments with an APA style title page.**
 
@@ -241,13 +228,15 @@ Clear, precise and well-reasoned responses| Mostly clear, precise and well-reaso
 
 ***To submit your completed assignment, scroll to the bottom of the page and click on the "Writing Assignment #1" tab - follow the directions there.***
 
-### Quiz #1 {-}
+<span class="blockhead">Quiz #1</span>
 
 Upon completing your first Writing Assignment, you will next complete your first quiz.
 
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
 ***To begin your quiz,*** click on the **Quiz #1** tab at the bottom of the screen.
+
+```
 
 ## Checking your Learning {-}
 

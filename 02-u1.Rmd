@@ -33,15 +33,13 @@ When you have completed this unit, you should be able to:
 
 ### Activity Checklist {-}
 
-
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 <!-- [plugin:content-inject](_schedule) -->
 
-### ***Unit 1:*** {-}
+```{block2, type='reflect'}
 
-**Read and Reflect**  {-}
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review **UNIT 1 Slides**
@@ -66,7 +64,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Made public  
 - Can be replicated  
 
-<h5>Scientific Measurement: Objectivity(1 of 2)</h5>
+<h5>Scientific Measurement: Objectivity</h5>
 
 - Objective measurements (p. 31)  
   - e.g. weight  
@@ -75,8 +73,6 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Functional magnetic resonance imaging (fMRI)  
   - Blood or saliva  
   - Self-reporting  
-
-<h5>Scientific Measurement: Objectivity(1 of 2)</h5>
 
 ![](assets/unit_1/PSYC106-Chs2-ResearchandThoughtandLanguage-3rdEd.png)
 
@@ -89,16 +85,13 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Validity (p. 32)  
   - True measurements  
   
-<h5>Generalizability of Results (1 of 2)</h5>
+<h5>Generalizability of Results</h5>
 
 - Generalizability (p. 33)  
   - Outside the laboratory  
 - Study large groups  
   - Population (p. 33)  
     - Sample (p. 33)  
-
-<h5>Generalizability of Results (2 of 2)</h5>
-
 - Best reflection of population  
   - Random sample (p. 33)  
 - Settle for easier sample  
@@ -117,15 +110,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Social Desirability (p. 35)  
 
 <h5>Working the Scientific Literacy Model: Demand Characteristics and
-Participant Behaviour (1 of 2)</h5>
+Participant Behaviour</h5>
 
 - What do we know about how bias affects research participants?  
   - Demand characteristics (p. 36)  
 - How can science test the effects of demand characteristics on behaviour?  
   - Backpack scenario  
-
-<h5>Working the Scientific Literacy Model: Demand Characteristics and Participant Behaviour (2 of 2)</h5>
-
 - How can we critically evaluate the issue of bias in research?  
   - Researcher bias  
     - Bright rats vs. dull rats  
@@ -155,16 +145,13 @@ Participant Behaviour (1 of 2)</h5>
   - Peer review (p. 37)  
   - Replication (p. 38)  
 
-<h5>Five Characteristics of Poor Research (1 of 2)</h5>
+<h5>Five Characteristics of Poor Research</h5>
 
 - Lack of falsifiable hypotheses (p. 38)  
   - Testability requires faisifiability  
 - Anecdotal evidence (p. 38)  
   - weight loss commercials  
 - Biased selection of data  
-  
-<h5>Five Characteristics of Poor Research (2 of 2)</h5>
-
 - Appeal to authority (p. 39)  
   - Corresponding data?  
   - Biased expert?  
@@ -179,15 +166,12 @@ Participant Behaviour (1 of 2)</h5>
 - Apply the terms and concepts of experimental methods to research examples.  
 - Analyze the pros and cons of descriptive, correlational, and experimental research designs.  
 
-<h5>Descriptive Research (1 of 2)</h5>
+<h5>Descriptive Research</h5>
 
 - Descriptive data  
   - From observations  
   - No attempt to explain why  
 - Qualitative Research (p. 42)  
-
-<h5>Descriptive Research (2 of 2)</h5>
-
 - Case study (p. 42)  
   - Extensive details  
   - Lacks generalizability  
@@ -277,7 +261,7 @@ Participant Behaviour (1 of 2)</h5>
 
 <h5>A little more Greek</h5>
 
-- Mind (Gr. $\Nu\omicron\upsilon\varsigma$) - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.  
+- Mind Gr. $\Nu\omicron\upsilon\varsigma$ - the mind, intellect; understanding, intelligent faculty; intellect, judgment; opinion, sentiment; mind, thought, conception; settled state of mind; frame of mind.  
 
 <h5>The limits of intuition</h5>
 
@@ -318,18 +302,13 @@ Participant Behaviour (1 of 2)</h5>
 
 *Slide showing - A Semantic Network Diagram for the Category “Animal”*
 
-
 <h5>Working the Scientific Literacy Model: Priming and Semantic
-Networks (1 of 2)</h5>
+Networks</h5>
 
 - What do we know about semantic networks?  
   - Priming (p. 297)  
 - How can scientists explain priming effects?  
   - Lexical Decision Task  
-
-<h5>Working the Scientific Literacy Model: Priming and Semantic
-Networks (2 of 2)</h5>
-
 - Can we critically evaluate this information?  
   - Strength of priming varies  
   - Experiments difficult to replicate  
@@ -379,27 +358,23 @@ Networks (2 of 2)</h5>
 - Apply your knowledge to determine if you tend to be a maximizer or a satisficer.  
 - Analyze whether human thought is primarily logical or intuitive.  
 
-<h5>Defining and Solving Problems (1 of 2)</h5>
+<h5>Defining and Solving Problems</h5>
 
 - Problem solving (p. 304)  
   - Algorithms (p. 304)  
   - Heuristics (p. 304)  
 
-
 ![](assets/unit_1/slide_56.png)
 
 *Slide showing - Problem Solving in Hangman*
-
 
 ![](assets/unit_1/slide_57.png)
 
 *Slide showing - The Nine-Dot Problem*
 
-
 ![](assets/unit_1/slide_58.png)
 
 *Slide showing - The Five-Daughter Problem*
-
 
 ![](assets/unit_1/slide_59.png)
 
@@ -417,7 +392,7 @@ Networks (2 of 2)</h5>
   - In what year did British Columbia become part of Canada?  
   - More affected when generated by individual  
 
-<h5>Framing Effects (1 of 2)</h5>
+<h5>Framing Effects</h5>
 
 - Decision-making influenced by how problem is framed (p. 310)  
 - Example: Vaccine A vs. Vaccine B  
@@ -430,8 +405,8 @@ Networks (2 of 2)</h5>
 
 - Belief perseverance (p. 310)  
 - Confirmation bias (p. 311)  
-  
-Can dramatically influence beliefs, especially for complex, emotionally-charged issues (e.g. politics)
+
+- Can dramatically influence beliefs, especially for complex, emotionally-charged issues (e.g. politics)
 
 <h5>What do we know about maximizing and satisficing?</h5>
 
@@ -440,19 +415,15 @@ Can dramatically influence beliefs, especially for complex, emotionally-charged 
   - Maximizers = evaluate every option  
 - Paradox of choice  
 
-How can scientists explain maximizing and satisficing?  
+- How can scientists explain maximizing and satisficing?  
 
 ![](assets/unit_1/slide_66.png)
 
 *Slide showing - Satisfaction of Maximizers and Satisficers*
 
-
-<h5>Working the Scientific Literacy Model: Maximizing and Satisficing in Complex Decisions (3 of 3)</h5>
-
 - Can we critically evaluate this information?  
   - Maximizers might expect more  
   - Correlational research  
-  
 - Why is this relevant?  
   - Planning for the future  
   
@@ -468,7 +439,6 @@ How can scientists explain maximizing and satisficing?
 
 *Slide showing - Two Language Centres of the Brain*
 
-
 <h5>Properties of Language</h5>
 
 - Language (p. 317)  
@@ -480,12 +450,11 @@ How can scientists explain maximizing and satisficing?
 <h5>Phonemes and Morphemes: The Basic Ingredients of Language</h5>
 
 - Phonemes (p. 318)  
-  - “T” 
+  - “T”  
 
 - Morphemes (p. 318)  
   - Pig, ish, or pigish  
   - Productivity  
-
 - Semantics (p. 318)  
 
 ![](assets/unit_1/slide_72.png)
@@ -497,12 +466,11 @@ How can scientists explain maximizing and satisficing?
 *Slide showing - Pragmatic Rules Guiding Language Use*
 
 
-<h5>The Development of Language (1 of 2)</h5>
+<h5>The Development of Language</h5>
 
-Infants, sound perception, and language acquisition
-
-- Identifying Sounds  
-- Fast mapping (p. 320)  
+-Infants, sound perception, and language acquisition
+  - Identifying Sounds  
+  - Fast mapping (p. 320)  
 
 ![](assets/unit_1/slide_75.png)
 
@@ -525,7 +493,7 @@ Infants, sound perception, and language acquisition
   - Executive functions  
   - Health benefits  
 
-<h5>Working the Scientific Literacy Model: Genes and Language (1 of 4)</h5>
+<h5>Working the Scientific Literacy Model: Genes and Language</h5>
 
 - What do we know about genes and language?  
   - Language evolved to solve problems  
@@ -542,9 +510,6 @@ Infants, sound perception, and language acquisition
 ![](assets/unit_1/slide_80.png)
 
 *Slide showing - Brain Scans Taken While Members of the KE Family Completed a Speech Task*
-
-
-<h5>Working the Scientific Literacy Model: Genes and Language (4 of 4)</h5>
 
 - Can we critically evaluate this evidence?  
   - Many genes work together  
@@ -573,10 +538,6 @@ Infants, sound perception, and language acquisition
 </details>
 
 
-
-
-```{block2, type='caution'}
-
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 1- Slides" link.*
 
 ```
@@ -587,8 +548,7 @@ Infants, sound perception, and language acquisition
 
 ```{block2, type='reflect'}
 
-
-**Chapter 2 Review Quiz**
+<span class="blockhead">Chapter 2 Review Quiz</span>
 
 - Practice Quiz to self-assess your own comprehension of important terms from Chapter 2.  
 - Not for formal evaluation.  
@@ -597,18 +557,15 @@ Infants, sound perception, and language acquisition
 
 - Solve some problems by utilizing some of the cognitive strategies we learned about in this topic.  
 
-
-**Problem Solving Practice**
+<span class="blockhead">Problem Solving Practice</span>
 
 - Explore problem solving activities and reflect on the strategies you incorporate as you discover solutions.  
 
-
-**Introduction to Visualization**
+<span class="blockhead">Introduction to Visualizatione</span>
 
 - Article introduces visualization and provides an opportunity to practice this skill.  
 
-
-**Learning Lab Preparation** 
+<span class="blockhead">Learning Lab Preparatione</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -642,7 +599,7 @@ I think psychology is one of the most interesting areas of study there is, first
 
 ```{block2, type='reflect'}
 
-**Chapter 2 Review Quiz** 
+<span class="blockhead">Chapter 2 Review Quiz</span>
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
@@ -673,7 +630,6 @@ Consider the following example and explanation taken from Invitation to Social P
 
 *I practiced all the time on my own safe so I could do this process as fast as I could and not get lost in my mind as to which number I was pushing and mess up the first number. Like a guy who practices sleight of hand, I got it down to an absolute rhythm so I could try the 400 possible back numbers in less than half an hour. That meant I could open a safe in a maximum of eight hours—with an average time of four hours. (Surely You're Joking Mr. Feynman, p. 140)*
 
-
 Mr. Feynman's safecracking system succeeds because he methodically works through every possible combination. By logical analysis he has discovered which 8,000 possibilities out of 1,000,000 he needs to try. We call this type of logical step-by-step procedure for solving problems an algorithm (Newell & Simon, 1972; Simon, 1981). If you use the correct algorithm your success is guaranteed.
 
 But sometimes it can take a long time to discover the correct algorithm. And employing an algorithm is often time consuming. Mr. Feynman spent days developing his system and it took hours to open a safe. You could certainly open a safe much faster if you found the combination on the edge of the secretary's drawer.
@@ -685,11 +641,9 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 
 <!--[plugin:content-inject](_activities)-->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-**Read and Reflect**
 
 In addition to the content above, you are also responsible for reading through the following:
 
@@ -697,22 +651,22 @@ In addition to the content above, you are also responsible for reading through t
 
 While all of these pages may not relate directly to this unit’s discussion, consistent reading will help you keep pace, as well as provide necessary background knowledge when you need it.
 
-**Problem Solving Activity**
+<span class="blockhead">Problem Solving Activity</span>
 
 In this lesson, we spent time exploring cognitive strategies used to solve problems and make decisions. We now have an opportunity to practice this on our own Take a look at the following problems and see if you can find a solution. As you work through the problems, think about what cognitive strategies you are implementing as you make each decision:
 
-***Problem A***
+<span class="blockhead">Problem A</span>
 
 - Take a look at the following Roman Numeral: **IX**
 - Now add one line to the Roman numeral **IX** to make it six
 
 <details> 
 <summary>Click here for the solution.</summary>
+
 The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.
 </details>
 
-
-***Problem B***
+<span class="blockhead">Problem B</span>
 
 Your task is to plant trees on Arbor Day. You have ten trees that must be planted in five rows of four trees each. How would you plant the trees?
 
@@ -720,23 +674,23 @@ Your task is to plant trees on Arbor Day. You have ten trees that must be plante
 <summary>Click here for the solution.</summary>
 The answer is that you would arrange them at the vertices and cross-points of a 5-pointed star </details>
 
-**Problem Solving Practice**
+<span class="blockhead">Problem Solving Practice</span>
 
 Below is a website that provides more opportunity to work through, and solve, some problems. Specifically, this resource explores the idea of ***Assumptions*** and the role assumptions play when solving problems. Furthermore, this is a valuable resource as it also explores other important techniques to be implemented when solving problems.
 
 Click on the following link and read through the information as you continue to practice your problem solving:
 
-[**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm)
+[**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Your Learning Lab for this unit will focus on group discussion as explore the topics of this unit in more detail. As you prepare for your Learning Lab, one possible scenario that discussion will focus on is below- please prepare some thoughts to share with the group:
 
- In the largest sense, society is breaking into two classes:
+In the largest sense, society is breaking into two classes:
 
 *The first class are people who know how to think. These people realize that most problems are open to examination and creative solution. If a problem appears in the lives of these people, their intellectual training will quickly lead them to a solution or an alternative statement of the problem. These people are the source of the most important product in today's economy – ideas.*
 
- *The second class, the vast majority of society, are people who cannot think for themselves. I call these people ‘idea consumers’ – metaphorically speaking, they wander around in a gigantic open-air mall of facts and ideas. The content of their experience is provided by television, the Internet and other shallow data pools. These people believe collecting images and facts makes them educated and competent, and all their experiences reinforce this belief. The central, organizing principle of this class is that ideas come from somewhere else, from magical persons, geniuses, ‘them.’*
+*The second class, the vast majority of society, are people who cannot think for themselves. I call these people ‘idea consumers’ – metaphorically speaking, they wander around in a gigantic open-air mall of facts and ideas. The content of their experience is provided by television, the Internet and other shallow data pools. These people believe collecting images and facts makes them educated and competent, and all their experiences reinforce this belief. The central, organizing principle of this class is that ideas come from somewhere else, from magical persons, geniuses, ‘them.’*
 
 Consider the following prompts to help better prepare for the discussion:
 
@@ -779,21 +733,17 @@ By now you may be wondering why we fall prey to so many cognitive biases and err
 
 For additional information and examples, click on the link below:
 
-[**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
-
-
+[**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases){target="_blank”}
 
 <!-- [plugin:content-inject](_activities) -->
-
-```{block2, type='reflect'}
 
 ### Learning Lab Preparation {-}
 
 Another focus of our discussion during our Learning Lab for this unit, will focus on biases. In order to prepare for participation in this discussion, consider the guiding prompt below- be sure to have some thoughts to contribute to the discussion:
 
-***Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.*** 
+***Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
 
-```
+
 
 ## Language and Thought
 
@@ -803,24 +753,21 @@ Benjamin Whorf’s linguistic relativity hypothesis suggests that our language a
 
 ### Imaginary Practice {-}
 
-Mental practice is now widely accepted in many areas. The following excerpt is taken from the [**GolfPsych**](https://www.golfpsych.com) website. You may find further examples there as well.
+Mental practice is now widely accepted in many areas. The following excerpt is taken from the [**GolfPsych**](https://www.golfpsych.com){target="_blank”} website. You may find further examples there as well.
 
 "You can practice the mental aspects of your game anytime. We encourage our clients to do imagery practice of playing well in upcoming tournaments. This imaginary practice includes seeing the course, situation, doing a full mental pre-shot routine and seeing a good shot. You should also be feeling the way you do when you play your best. In addition, you should be practicing deep breathing and quieting your mind off-course. This is an extremely valuable tool that must be practiced to be effective. The mental game is much more than thinking positive thoughts. Take our Personality Assessment and get your own GolfPsych Report to receive our recommendations for you based on your personality and our research. Reading our book will also help you understand all aspects of a good mental game. During your practices and before your rounds you should also be practicing your mental skills."
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Introduction to Visualization {-}
 
 ```{block2, type='reflect'}
 
-#### Introduction to Visualization {-}
-
 In this Topic, we learned about the notion of mental practice. Below is an article that will take you through the process of visualization. Take some time to read the article and practice for yourself. Pay careful attention to your thoughts, your focus, your feelings as you engage in the process.
 
-- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f)  
+- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}   
 
-
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 The subject of our focus for this Topic has been on the power of language in influencing how we see the world. Our discussion during Learning Lab this week will focus on the importance of language in the Bible (and other religious writings) and how it "shapes" how we see the world.
 
@@ -842,19 +789,17 @@ But is this truly language? There is no doubt that the animals are using symbols
 
 Christians need to think carefully about what they mean when they talk about the image of God in man. The area of human learning and psycholinguistics offers some intriguing questions for thoughtful Christians. What is the origin of human speech-is it learned (as Skinner would say) or largely innate (as Chomsky would say)? Is human speech unique? Do the studies of language in animals necessitate a redefinition of the uniqueness of man? (Based on Psychology and Christianity by Ron Philipchalk, p. 102)
 
-#### RESOURCES: Online Articles of Interest {-}
+### RESOURCES: Online Articles of Interest {-}
 
 To add to our exploration of this topic, take a moment to read the following articles:
 
-- [**Chimp Talk Debate: Is It Really Language?**](http://tuvalu.santafe.edu/~johnson/articles.chimp.html)  
+- [**Chimp Talk Debate: Is It Really Language?**](http://tuvalu.santafe.edu/~johnson/articles.chimp.html){target="_blank”}  
 
-- [**Animal Language and Cognition Projects**](https://www.massey.ac.nz/~alock/hbook/ristau.htm)  
-
-
+- [**Animal Language and Cognition Projects**](https://www.massey.ac.nz/~alock/hbook/ristau.htm){target="_blank”}  
 
 <!-- [plugin:content-inject](_activities) -->
 
-#### Learning Lab Preparation {-}
+### Activity: Learning Lab Preparation {-}
 
 ```{block2, type='reflect'}
 
@@ -888,11 +833,11 @@ While there is no "formal" assignment that you will be responsible for submittin
 
 Before you move on to the next unit, check that you are able to:
 
-- Define key terminology related to principles of scientific research, research designs, and statistics.
-- Explain the five characteristics of quality scientific research, and the pros and cons of descriptive, correlational, and experimental research designs.
-- Determine how biases might influence the outcome of a study and how experiments help demonstrate cause-and-effect relationships.
-- Apply the concepts of reliability and validity to examples and concepts of experimental methods to research examples.
-- Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.
-- Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.
+- Define key terminology related to principles of scientific research, research designs, and statistics.  
+- Explain the five characteristics of quality scientific research, and the pros and cons of descriptive, correlational, and experimental research designs.  
+- Determine how biases might influence the outcome of a study and how experiments help demonstrate cause-and-effect relationships.  
+- Apply the concepts of reliability and validity to examples and concepts of experimental methods to research examples.  
+- Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.  
+- Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.  
 
 ```
