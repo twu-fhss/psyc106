@@ -16,10 +16,13 @@ the-developing-person---part-1
 prenatal-development
 infancy-and-childhood
 adolescence
+<<<<<<< Updated upstream
 the-developing-person---part-2
 adulthood
 death-and-dying
 assessment-3
+=======
+>>>>>>> Stashed changes
 personality
 psychoanalytic-view
 humanistic-view
