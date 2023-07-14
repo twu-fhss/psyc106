@@ -50,7 +50,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 //todo #3
 
--  Video: (Annie Murphy Paul: What we learn before we're born)[http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html ]
+-  Video: (Annie Murphy Paul: What we learn before we're born)[http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html]{target="_blank”}..
 
 <h5>10.1 Learning Objectives</h5>
 
