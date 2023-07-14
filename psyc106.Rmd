@@ -1443,21 +1443,21 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Continue our study of development - in particular, some of the major changes adolescents go through in their growth.  
-- Review *Unit 3 - Slides*
+- Review *Unit 3 - Slides*  
 
-<details> <summary>CLICK HERE</summary>
+<details><summary>CLICK HERE</summary>
 
 <h5>An Introduction to Psychological Science - Chapter 10:Lifespan Development</h5> 
 
 <h5>Learning Objectives</h5>  
 
-| ^12^ The righteous will flourish like a palm tree, they will grow like a cedar of Lebanon;  
-| ^13^ planted in the house of the Lord, they will flourish in the courts of our God.  
-| ^14^ They will still bear fruit in old age,they will stay fresh and green,  
-| ^15^ proclaiming, “The Lord is upright; he is my Rock, and there is no wickedness in him.”  
-
+^12^ The righteous will flourish like a palm tree, they will grow like a cedar of Lebanon;  
+^13^ planted in the house of the Lord, they will flourish in the courts of our God.  
+^14^ They will still bear fruit in old age,they will stay fresh and green,  
+^15^ proclaiming, “The Lord is upright; he is my Rock, and there is no wickedness in him.”  
+//todo #11
 - Video: [Annie Murphy Paul: What we learn before we're born](http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html){target="_blank”}  
-  
+
 ![](assets/unit_3/slide_3.png)
 
 *Slide showing - Introduction*
@@ -3535,7 +3535,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
 ```
-
 ### Resources {-}
 
 Here are the resources you will need to complete this unit:
@@ -3731,16 +3730,16 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-```{block2, type='reflect'}
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule)-->
 
-**Read and Reflect**
+```{block2, type='reflect'}
+
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review *Unit 8- Slides*
+- Review *Unit 8- Slides*  
 
 <details> <summary>CLICK HERE</summary>
 
@@ -4070,7 +4069,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - In this activity you will learn about the many ways you communicate non-verbally. The first article talks about how much communication happens non-verbally (also known as body-language), and becoming aware of your and others non-verbal expressions can make you a much better  communicator. Along with becoming a better communicator you can also become more aware of when people are not being honest with you. The second article in this activity reveals how you can train to be a human lie-detector. Lastly, you can discover the various smiles that exist and the myriad benefits that can be enjoyed by increasing the amount you smile.  
 - In life you will experience challenging situations and circumstances and have to manage your emotional response to these events. In day to day life, how you handle your emotions can be the difference between having a healthy self-concept and satisfying relationships and work opportunities, or finding yourself left wanting in each of these areas. In this activity you will have the opportunity to learn about helpful emotions and how to cope emotionally in the wake of a disaster.  
 
-**Learning Lab Preparation**
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -4094,22 +4093,21 @@ The close connection between our minds and our bodies usually makes it difficult
 The close connection between mind and body is the basis for so-called “lie-detectors.” Of course, they do not detect lies but physical responses to cognitive information. While their "hit" rate is better than a coin toss, lie detectors can accuse the in­nocent and vindicate the guilty. Moreover, some experts claim there are simple techniques for beating the ma­chine.
 
 <!-- [plugin:content-inject](_activities) -->
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 What do you think...*could you beat a lie detector device?* This activity will allow you to delve more deeply into the physiological aspects of human emotion (though, cognitions and behaviours do influence physiological processes) and how they can be monitored using a polygraph machine. To learn more about Lie Detectors, follow the link below:
 
-- [**How Lie Detectors Work**](https://people.howstuffworks.com/lie-detector.htm){target="_blank”}
+- [**How Lie Detectors Work**](https://people.howstuffworks.com/lie-detector.htm){target="_blank”}  
+
 The reason polygraph machines can work better than flipping a coin is because they are measuring responses that often occur automatically and can be difficult, though not impossible, to bring under voluntary control.
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
-- ***How many ancient or old-fashioned methods for telling if someone is lying can you find on the internet?***
+- ***How many ancient or old-fashioned methods for telling if someone is lying can you find on the internet?***  
 
 *Often a person’s life depended on these highly questionable methods.*
 
@@ -4125,11 +4123,9 @@ The study of emotion has long been linked with the study of facial expressions. 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 Is there a practical use to understanding how we communicate emotions? Yes, actually there are several possible uses. One very interesting use is in the understanding of deception. For as long as we have records, we know that people have understood that liars don’t seem to be able to control all of their communication channels. Verbally, they deny they are lying, but the truth screams out from eye movements; *a slightly irregular smile, a faint blush....* This activity provides additional information for your consideration:
 
@@ -4139,7 +4135,7 @@ Is there a practical use to understanding how we communicate emotions? Yes, actu
 
 Another possible use of understanding emotional communication better is the development of computers that can read human emotions from speech or facial expressions. This would enable far better communication between computers and their human masters.
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -4153,9 +4149,9 @@ Now that you understand what’s happening inside your body when you are angry o
 
 Consider the following arguments *(adapted from Philipchalk,1988, p.114 ff):*
 
-### What is the Proper Role of Emotion? {-}
+## What is the Proper Role of Emotion?
 
-#### No Role {-}
+### No Role {-}
 
 It is not hard to see that emotions are not only frequently unpleasant, but are also a source of conflict. *Anger* causes us to say things we later regret; *fear* of others inhibits our honesty; and even anticipated *happiness* may blind us to the harmful effects of our actions. We speak of being “swayed by our emotions,” indicating they caused us to do or say something we wouldn’t have done otherwise. Emotions are often unpredictable, making it difficult to arm ourselves against them. They vary with our physical and mental condition, with the amount of sleep we’ve had, our blood sugar level, and a host of environmental factors. They have a clear physiological “animal-like” component. And they are part of our fallen nature. Paul warns us, *“Now those who belong to Christ Jesus have crucified the flesh with its passions and desires” (Gal. 5:24)*. No doubt Paul recognized that emotions arising from our physical bodies frequently play an important role in leading us to *“practice the very evil that I (we) do not wish” (Rom. 7:19).* Surely such an unpredictable and potentially dangerous influence should be discounted in favor of our more God-like rational faculties; isn’t the “cool intellect” superior to the “hot-head?”
 
@@ -4163,7 +4159,7 @@ Furthermore, since emotions are such an elusive and private matter, the directio
 
 To summarize, emotions are unreliable, easily misinterpreted, and a tool for possible manipulation. They are deeply rooted in our animal-likeness—our physical bodies. As such they should be brought into subjection and perhaps ignored or entirely minimized. In short, it would appear from these considerations that emotions should have no legitimate role in the regulation of behavior.
 
-#### Important Role {-}
+### Important Role {-}
 
 The first thing to note with regard to the importance of emotion is that they appear to be part of God’s design for us. God has chosen to form us as emotional beings as well as rational and volitional ones. Although we are fallen, and therefore our capacities of thought and will, as well as our emotional responses, are imperfect, we are created in God’s image nevertheless. The bible ascribes emotions to God. Although some people may dismiss these references as anthropomorphisms, God certainly acts as thought He felt emotions like anger, sadness, and joy. Furthermore, Jesus took on an emotion-feeling body, and expressed a full range of emotions (possibly more than most men in contemporary Western culture). In addition, the fruit of the Spirit (Gal. 5:22-23) includes several blessings with strong emotional components (e.g., joy, peace). Whatever their weaknesses, emotions cannot be dismissed as wholly sinful.
 
@@ -4173,22 +4169,20 @@ Of course there is a positive side to emotions. They provide the flavor, the res
 
 Thus emotions are an inevitable part of the God-ordained human condition. They provide the highs as well as the lows in our experience, and their recognition (although not necessarily their uncontrolled expression) is necessary for our health. Although they may frequently lead us astray, and may potentially be the source of unwanted influence, we are fallen creatures, and our other faculties, rational and volitional, are also imperfect. Emotions must be trained. As C.S. Lewis noted, we must be educated to *“feel pleasure, liking, disgust, and hatred at those things which really are pleasant, likable, disgusting, and hateful” (The Abolition of Man, [1943] 1978, p.15)*. For Lewis, trained emotion not the lack of emotion is the essential mark of the virtuous person. The maturing person will show greater and greater appropriate emotionality.
 
-Despite controversy at the theoretical level concerning the exact relationship between our thoughts and other components of emotions, the work of Stanley Schacter and Jerome Singer (see [*Schachter-Singer Theory of Emotion*](https://www.thoughtco.com/schachter-singer-theory-4691140){target="_blank”}) has clearly indicated the importance of mental responses. We probably have the potential for a great deal more control over our emotions than we usually admit.
+Despite controversy at the theoretical level concerning the exact relationship between our thoughts and other components of emotions, the work of Stanley Schacter and Jerome Singer - see [*Schachter-Singer Theory of Emotion*](https://www.thoughtco.com/schachter-singer-theory-4691140){target="_blank”} has clearly indicated the importance of mental responses. We probably have the potential for a great deal more control over our emotions than we usually admit.
 
 <!-- [plugin:content-inject](_activities)-->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 How well do you handle your emotions? If you are finding that you are being led emotionally in directions that are not the best for your life or you find that you’re avoiding your emotions, it may be time to find out how to make your emotions work for you. The following resources can help you discern between helpful vs. harmful ways of dealing with emotions. The second link is a resource that offers help for emotionally dealing with disaster in your life.
 
-- [**Ways to Handle Emotion**](https://www.mhanational.org/helpful-vs-harmful-ways-manage-emotions){target="_blank”}
-- [**Recovering Emotionally from a Disaster**](https://www.apa.org/helpcenter/recovering-disasters){target="_blank”}
+- [**Ways to Handle Emotion**](https://www.mhanational.org/helpful-vs-harmful-ways-manage-emotions){target="_blank”}  
+- [**Recovering Emotionally from a Disaster**](https://www.apa.org/helpcenter/recovering-disasters){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -4203,7 +4197,7 @@ Prior to your Learning Lab, take some time to think about the following question
 
 While there is no "formal" assignment that you will be responsible for submitting for Unit 8, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
-#### Learning Lab {-}
+<span class="blockhead">Learning Lab</span>
 
 Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
 
@@ -4216,6 +4210,7 @@ Your facilitator will be providing a participation mark based on your contributi
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.| Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
 
 ```
+
 ## Checking your Learning {-}
 
 ```{block2, type='progress'}
@@ -4265,14 +4260,13 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
+```{block2, type='reflect'}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-```{block2, type='reflect'}
-
 <!-- [plugin:content-inject](_schedule) -->
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 //todo #6
@@ -4280,32 +4274,32 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 9 - Slides" link.*
 
-**Personal Reflection**
+<span class="blockhead">Personal Reflection</span>
 
 If you are like most people, you likely have experienced some form of relational stress. Three common ways of handling this form of stress are to become aggressive, submissive, or assertive. In this activity, you look these different interpersonal conflict responses and determine what kind of outcome will likely follow a particular approach.
 
-**Watch, Read, and Reflect**
+<span class="blockhead">Watch, Read, and Reflect</span>
 
 In this activity you will watch Dr. Kelly McGonigal use some groundbreaking research to help people transform their perspective on stress. This just over 14 minute TED talk could actually change the course of your life. The second resource looks critically at the widely held belief that humour is good for your health.  
 
-**Key Terms Quiz**
+<span class="blockhead">Key Terms Quiz</span>
 
 **NOTE:** *Units 8 & 9 both covered content from Chapter 14 in your textbook - this quiz will also cover terms from both units.*
 
 - Practice quiz to assess how well you know key terms from Chapter 14.  
 - Not for formal evaluation.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.
+- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
-**Assessment**
+<span class="blockhead">Assessment</span>
 
 At the end of this unit, not only will you be assessed on your participation during the Learning Lab discussions, but you will also be responsible for submitting your first writing assignment.
 
-***Writing Assignment #2*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.
+- ***Writing Assignment #2*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
 
-After completing this assignment, you will also be expected to completed ***Quiz #2.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.
+- After completing this assignment, you will also be expected to completed ***Quiz #2.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
 
 ```
 
@@ -4339,11 +4333,10 @@ Assertiveness represents a third alternative but one that is often confused with
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Personal Reflection {-}
 
 ```{block2, type='reflect'}
 
-#### Personal Reflection {-}
 
 Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. Share these in your Learning Lab/Forum.
 
@@ -4381,7 +4374,7 @@ Finally, in your forum, comment/respond on the following:
 
 - ***Are any of your responses affected by your religious beliefs? How so?***
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -4407,11 +4400,9 @@ This summary of Geller’s past activities demonstrates that with motivation and
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Watch, Read, and Reflect {-}
 
 In this activity you will watch Dr. Kelly McGonigal’s *TED talk* titled, ***"How to Make Stress your Friend."***  This video is groundbreaking research to help people transform their perspective on stress:
 
@@ -4423,13 +4414,13 @@ After watching the video, take a few minutes to read about Dr. Gil Greengross’
 
 Take some time to ponder the messages in these resources. The questions during Learning Lab will challenge you and your thoughts around the above sources.
 
-#### Key Terms Quiz {-}
+<span class="blockhead">Key Terms Quiz</span>
 
 In order to review some of the major terms from Chapter 14 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
 [h5p id="83"]
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -4453,15 +4444,14 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion;  Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
 
-```
 
 ## Writing Assignment #2
 
 Your second writing assignment for the course will involve reading a formal research article and extracting important information. Research articles play an important role in the field of psychology as they present new findings and research that help us better understand the subject field. It is critical, however, to understand what information is important as we assess the value of the article we are reading. This assignment attempts to help us better understand those considerations.
 
-Prior to moving ahead, it is strongly encouraged that you take a moment to review the [**How to Read Empirical Articles**](assets/unit_9/Assessment_Empirical_Short.pdf) reading from the first writing assignment - this will serve as a reminder *why* you are reading an article so you can better understand *what* is important to get out of it.
+Prior to moving ahead, it is strongly encouraged that you take a moment to review the [**How to Read Empirical Articles**](assets/unit_9/Assessment_Empirical_Short.pdf){target="_blank”} reading from the first writing assignment - this will serve as a reminder *why* you are reading an article so you can better understand *what* is important to get out of it.
 
-Building upon that, also take some time to review [**How to Read a Journal Article in Social Psychology**](assets/unit_9/Assessment_Empirical_Long.pdf) - this article will help support your understanding of formal, empirical research journal articles.
+Building upon that, also take some time to review [**How to Read a Journal Article in Social Psychology**](assets/unit_9/Assessment_Empirical_Long.pdf){target="_blank”} - this article will help support your understanding of formal, empirical research journal articles.
 
 ### Finally {-}
 
@@ -4471,7 +4461,7 @@ After reviewing the resources above, we begin this assignment by reading the fol
 
 <!-- [plugin:content-inject](_alert) -->
 
-#### Rubric for Writing Assignment #2 {-}
+### Rubric for Writing Assignment #2 {-}
 
 In addition to the criteria included in the rubric below, it is expected that students submit their assignments with an APA style title page.
 
@@ -4485,13 +4475,15 @@ In addition to the criteria included in the rubric below, it is expected that st
 
 ***To submit your completed assignment, scroll to the bottom of the page and click on the "Writing Assignment #2" tab - follow the directions there.***
 
-#### **Quiz #2** {-}
+### **Quiz #2** {-}
 
 Upon completing your Writing Assignment #2, you will next complete your second quiz.
 
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
 ***To begin your quiz,*** click on the **Quiz #2** tab at the bottom of the screen.
+
+```
 
 ## Checking your Learning {-}
 
@@ -4510,7 +4502,6 @@ Before you move on to the next unit, check that you are able to:
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
 
 ```
-
 
 <!--chapter:end:10-u9.Rmd-->
 
@@ -4545,16 +4536,16 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
 ```{block2, type='reflect'}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule) -->
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review **Unit 10- Slides**
+- Review **Unit 10- Slides**  
 
 <details> <summary>CLICK HERE</summary>
 
@@ -4986,19 +4977,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 10- Slides" link.*
 
-**Read and Reflect**
-
 - This activity offers additional descriptions of the disorders discussed in the textbook and provides opportunity to understand more about anxiety disorders. There is also an excellent write up on the many valid criticisms of being overly dependent on the DSM as a resource.  
 - In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.  
 - This activity presents current in-depth research and general information concerning schizophrenia that will illuminate the complexity of the development and treatment of this disorder.  
 - Our personalities allow others to predict and anticipate our responses to situations; a person with a “healthy” personality demonstrates a range of coping responses and styles when placed in a stressful situation. However, a disordered personality does not have this kind of adaptability and flexibility. The lack of adaptability and the limited repertoire of coping responses can result in distress for the person and for those around him or her. In this activity, you can gain more insight into defined patterns of personality disorders.  
 
-**Key Terms Quiz**
+<span class="blockhead">Key Terms Quiz</span>
 
 - Practice quiz to assess how well you know key terms from Chapter 15.  
 - Not for formal evaluation.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -5031,19 +5020,17 @@ Here is a list of comparisons between normal personality characteristics on the 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 The following articles augment your understanding of the descriptions of the disorders discussed in the textbook and provide opportunity to understand more about anxiety disorders. Due to the pervasiveness of disorders, especially anxiety related problems, this information could prove invaluable in helping yourself and others find hope and help in challenging circumstances. There is also an excellent write up on the many valid criticisms of being overly dependent on the DSM as a resource.
 
-- [**Psychological Problems and Disorders**](http://www.psychologyinfo.com/problems/){target="_blank”}
-- [**Anxiety Disorders**](http://www.psychologyinfo.com/problems/anxiety.html){target="_blank”}
-- [**Criticism of America's Diagnostic Bible- The DSM**](http://www.oregoncounseling.org/Diagnosis/CriticismOfDSM.htm){target="_blank”}
+- [**Psychological Problems and Disorders**](http://www.psychologyinfo.com/problems/){target="_blank”}  
+- [**Anxiety Disorders**](http://www.psychologyinfo.com/problems/anxiety.html){target="_blank”}  
+- [**Criticism of America's Diagnostic Bible- The DSM**](http://www.oregoncounseling.org/Diagnosis/CriticismOfDSM.htm){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5077,18 +5064,16 @@ In the end, people with major depression were at least three times as likely as 
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 How do you know the difference between depression and normal sadness? In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. Additionally, though children may suffer from a disorder, there are additional challenges in noticing it in them due to their immature language, cognitive, and emotion processing abilities and developmental stage. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.
 
-- [**Information about Depression**](http://www.psychologyinfo.com/problems/depression.html)
-- [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577)
+- [**Information about Depression**](http://www.psychologyinfo.com/problems/depression.html){target="_blank”}  
+- [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5118,17 +5103,15 @@ This strange behavior and apparent loss of contact with reality we would probabl
 <!-- [plugin:content-inject](_activities) -->
 
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 Schizophrenia is a truly fascinating condition that continues to draw much attention. This activity presents current in-depth research and general information concerning schizophrenia that will illuminate the complexity of the development and treatment of this disorder.
 
-- [**Schizophrenia**](http://schizophrenia.com/){target="_blank”}
+- [**Schizophrenia**](http://schizophrenia.com/){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5148,17 +5131,15 @@ A former professor at UBC, Dr. Robert Hare (an internationally known expert on a
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 Recall from Chapter 12 that our personalities allow others to predict and anticipate our responses to situations. A person with a “healthy” personality demonstrates a range of coping responses and styles when placed in a stressful situation. However, a disordered personality does not have this kind of adaptability and flexibility. At times, the person doesn’t feel they like they have any problems, at other times, the lack of adaptability and the limited repertoire of coping responses can result in distress for the person and for those around him or her. In this activity, you can gain more insight into defined patterns of personality disorders.
 
-- [**Personality Disorders**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/personality-disorders){target="_blank”}
+- [**Personality Disorders**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/personality-disorders){target="_blank”}  
 
-#### Key Terms Quiz {-}
+<span class="blockhead">Key Terms Quiz</span>
 
 In order to review some of the major terms from Chapter 15 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
@@ -5168,7 +5149,7 @@ In order to review some of the major terms from Chapter 15 in your textbook, tak
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=84" width="622" height="822" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 10 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5182,7 +5163,7 @@ Prior to your Learning Lab, take some time to think about the following question
 
 While there is no "formal" assignment that you will be responsible for submitting for Unit 10, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
-### Learning Lab {-}
+<span class="blockhead">Learning Lab</span>
 
 Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
 
@@ -5248,19 +5229,19 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
+```{block2, type='reflect'}
+
 Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your work:
 
-```{block2, type='reflect'}
-
 <!-- [plugin:content-inject](_schedule) -->
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review *Unit 11- Slides*  
 
-<details> <summary>CLICK HERE</summary>
+<details><summary>CLICK HERE</summary>
 
 <h5>An Introduction to Psychological Science - Chapter 16 - Therapies</h5>
 
@@ -5598,7 +5579,7 @@ completing this unit. You may find it useful for planning your work:
 
 - For many people unfamiliar with the journey of counselling, finding suitable resources may feel daunting. It is important to know that there are many different approaches designed to help you accomplish the growth goals you have for your life. In this activity, you will have the opportunity to see some treatment options for a wide variety of conditions. Additionally, there is a resource on different theoretical approaches to behavior change, and a link to some information concerning the integration of Christianity and psychotherapy.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -5610,8 +5591,6 @@ Here are the resources you will need to complete this unit:
 
 - Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
-
-
 
 ## Therapies- Part 1
 
@@ -5637,11 +5616,9 @@ In a work for Christian counselors, Koteskey (1983) gives the example of his eig
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 For many people unfamiliar with the journey of counselling, finding suitable resources may feel daunting. It is important to know that there are many different approaches designed to help you accomplish the growth goals you have for your life. In this activity, the first resource, Psych Central is the oldest peer-reviewed psychology and mental health network on the Internet. Established in 1992, originally it was an index to mental health. Now it gives you the opportunity to see some treatment options for a wide variety of conditions. Additionally, there is a resource on different theoretical approaches to behavior change, and a link to some information concerning the integration of Christianity and psychotherapy.
 
@@ -5649,7 +5626,7 @@ For many people unfamiliar with the journey of counselling, finding suitable res
 - [**Behaviour Online**](http://www.behavior.net){target="_blank”}  
 - [**Integration Models**](http://www.psyche.gr/lpsycrel.htm){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5666,7 +5643,7 @@ Prior to your Learning Lab, take some time to think about the following question
 
 While there is no "formal" assignment that you will be responsible for submitting for Unit 11, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
-#### Learning Lab {-}
+<span class="blockhead">Learning Lab</span>
 
 Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
 
@@ -5729,18 +5706,18 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-```{block2, type='reflect'}
-
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+
+```{block2, type='reflect'}
 
 <!-- [plugin:content-inject](_schedule) -->
 
 
-**Read and Reflect**
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 //todo #8
-- Review [*Unit 12 - Slides*](PSYC106-CH16Therapies3rdEd.pptx)
+- Review [*Unit 12 - Slides*](PSYC106-CH16Therapies3rdEd.pptx)  
 
 *Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 12 - Slides" link.*
 
@@ -5750,11 +5727,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
-**Assessment**
+<span class="blockhead">Assessment</span>
 
 - Upon completing this unit, you will be writing your Quiz #3. This will be 60 multiple choice questions that cover content learned since Unit 9.  
 
@@ -5775,7 +5752,6 @@ Here are the resources you will need to complete this unit:
 
 In a previous chapter, we looked at various ways of understanding personality. In the first part of this chapter we have been considering different therapies that grow out of these personality theories. Now it is time to ask the question, “Does it work? Is psychotherapy effective?” The answer seems to be “Yes,” but there are qualifications. First, many people who do not receive treatment get better anyway. And second, placebo treatments also produce improvements, as do non-professional caring relationships. As David Myers says,
 
-
 *“All types of psychotherapy seem to offer three benefits: new hope, a fresh perspective, and an empathic, trusting, caring relationship.” (p. 592)*
 
 When you stop and think about it, isn't this what a good friend offers? Maybe if we all experienced (and offered) this kind of friendship, therapists wouldn’t be so much in demand.
@@ -5788,18 +5764,16 @@ Paul Pedersen (1985; 1987; 2000) suggests that we do not need to look at culture
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 As mentioned earlier, this activity gives you an opportunity to explore the American Psychological Association (APA) website. In many ways, the APA leads the discipline and profession of psychology. It is an excellent resource for finding information on a number of areas of psychology, contemporary issues in psychology, a plethora of resources for self-help. They also have the opportunity for students to become student affiliates and enjoy member privileges that will contribute to your development as a professional. Follow the link below:
 
-- [**American Psychological Association**](https://www.apa.org/){target="_blank”}
+- [**American Psychological Association**](https://www.apa.org/){target="_blank”}  
 
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5828,18 +5802,16 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+## Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 It is important, when considering biological treatments, to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters. To learn more, read below:
 
 - [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.webmd.com/depression/guide/electroconvulsive-therapy#1){target="_blank”}
 - [**International Society for Neuroregulation and Research**](https://isnr.org/){target="_blank”}
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5869,19 +5841,17 @@ Being aware of the possible causes of psychological problems as well as the appr
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activities {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.
 
-- [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}
-- [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}
-- [**Rights and Responsibilities in Psychotherapy**](assets/unit_12/Rights-and-Responsibilities-in-Psychotherapy.pdf){target="_blank”}
+- [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
+- [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}  
+- [**Rights and Responsibilities in Psychotherapy**](assets/unit_12/Rights-and-Responsibilities-in-Psychotherapy.pdf){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -5904,7 +5874,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 |-|--|
 Ner to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), nitiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
 
-### Quiz #3 {-}
+<span class="blockhead">Quiz #3</span>
 
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
@@ -5963,11 +5933,12 @@ In their introduction, the author(s) will describe previous research. In your su
 //todo #9
 ### Activity Checklist {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
 ```{block2, type='reflect'}
 
-**Read and Reflect**
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+
+
+<span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 
@@ -5982,11 +5953,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 - Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.  
 
-***Learning Lab Preparation***
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
-**Final Assessments**
+<span class="blockhead">Final Assessments</span>
 
 - As mentioned, each student will be responsible for submitting a Term Paper, as well as completing a Final Exam. More information can be found by clicking on the **"Final Assessment"** tab at the top of the screen.  
 
@@ -6011,21 +5982,19 @@ Paul Pedersen (1985; 1987; 2000) suggests that we do not need to look at culture
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 As mentioned earlier, this activity gives you an opportunity to explore the American Psychological Association (APA) website. In many ways, the APA leads the discipline and profession of psychology. It is an excellent resource for finding information on a number of areas of psychology, contemporary issues in psychology, a plethora of resources for self-help. They also have the opportunity for students to become student affiliates and enjoy member privileges that will contribute to your development as a professional. Follow the link below:
 
-- [**American Psychological Association**](https://www.apa.org/){target="_blank”}
+- [**American Psychological Association**](https://www.apa.org/){target="_blank”}  
 
-#### **Learning Lab Preparation**
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
- - ***Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?***
+ - ***Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?***  
 
 ```
 
@@ -6050,11 +6019,9 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-#### Read and Reflect {-}
 
 It is important, when considering biological treatments, to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters. To learn more, read below:
 
@@ -6062,13 +6029,13 @@ It is important, when considering biological treatments, to receive input from m
 
 - [**International Society for Neuroregulation and Research**](https://isnr.org/){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
-- ***As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”***
+- ***As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”***  
 
-- ***Will biological therapies eventually replace old style talk therapies?***
+- ***Will biological therapies eventually replace old style talk therapies?***  
 
 ```
 
@@ -6093,21 +6060,19 @@ Being aware of the possible causes of psychological problems as well as the appr
 
 <!-- [plugin:content-inject](_activities) -->
 
-### Learning Activity {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
-#### Read and Reflect {-}
-
 Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.
 
-- [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}
+- [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
 
-- [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}
+- [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}  
 
-- [**Rights and Responsibilities in Psychotherapy**](Rights-and-Responsibilities-in-Psychotherapy.pdf){target="_blank”}
+- [**Rights and Responsibilities in Psychotherapy**](Rights-and-Responsibilities-in-Psychotherapy.pdf){target="_blank”}  
 
-#### Learning Lab Preparation {-}
+<span class="blockhead">Learning Lab Preparation</span>
 
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
@@ -6131,7 +6096,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
 
-### Quiz #3 {-}
+<span class="blockhead">Quiz #3</span>
 
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
@@ -6160,7 +6125,7 @@ Before you move on to the next unit, check that you are able to:
 
 ```
 
-<!--chapter:end:14-u14.Rmd-->
+<!--chapter:end:14-u13.Rmd-->
 
 # Sample Unit Format
 
