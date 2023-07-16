@@ -24,12 +24,12 @@ After reading the article, you should begin to summarize the main points. Just a
 In their introduction, the author(s) will describe previous research. In your summary indicate the main findings of that previous research. Additionally, in the introduction the author(s) will describe the purpose of the study they conducted and how it relates to the previous research. In your summary you should identify the question that the author(s) were trying to answer and the hypotheses they were evaluating.`
 
 //todo #9
-### Activity Checklist {-}
 
-```{block2, type='reflect'}
+### Activity Checklist {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
+```{block2, type='reflect'}
 
 <span class="blockhead">Read and Reflect</span>
 

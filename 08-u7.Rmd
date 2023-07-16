@@ -173,7 +173,7 @@ What is it that makes you think that someone is attractive, kind, evil, competen
 
 In order to review some of the major terms from Chapter 13 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course. Type the correct answer in the boxes below:
 
-[h5p id="89"]
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=89" width="936" height="794" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 7 Terminology"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <span class="blockhead">Learning Lab Preparation</span>
 

@@ -185,7 +185,7 @@ Take some time to ponder the messages in these resources. The questions during L
 
 In order to review some of the major terms from Chapter 14 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
-[h5p id="83"]
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=83" width="936" height="706" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 9 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <span class="blockhead">Learning Lab Preparation</span>
 
