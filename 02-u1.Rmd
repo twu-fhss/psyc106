@@ -2,7 +2,7 @@
 
 ## Overview {-}
 
-***Welcome to Psych 106***
+Welcome to Psych 106
 
 We begin this course by reviewing some important information on scientific research methodologies. While this review will be self-guided, it is critical that you understand the important elements that constitute valid and reliable scientific research as it is these methodologies that serve as the backbone for psychological studies.
 
@@ -12,12 +12,11 @@ After taking time to review scientific research methodologies, we will turn our 
 
 This unit is divided into the following topics:
 
- 1. Review- Scientific Research  
- 2. Thinking and Problem Solving  
- 3. Cognitive Biases  
- 4. Language and Thought  
- 5. Animal Language  
-
+1. Review- Scientific Research  
+2. Thinking and Problem Solving  
+3. Cognitive Biases  
+4. Language and Thought  
+5. Animal Language  
 
 ### Learning Outcomes {-}
 
@@ -29,7 +28,6 @@ When you have completed this unit, you should be able to:
 - Apply the concepts of reliability and validity to examples and concepts of experimental methods to research examples.  
 - Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.  
 - Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.  
-
 
 ### Activity Checklist {-}
 
@@ -74,7 +72,9 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Blood or saliva  
   - Self-reporting  
 
+
 ![](assets/unit_1/PSYC106-Chs2-ResearchandThoughtandLanguage-3rdEd.png)
+
 
 *slide showing Operational Definitions*
 
@@ -538,10 +538,8 @@ Networks</h5>
 
 </details>
 
-
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 1- Slides" link.*
 
-```
 
 
 ### Learning Activities: {-}
