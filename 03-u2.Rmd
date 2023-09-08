@@ -67,7 +67,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 *Modules*
 
-<h5>9.1 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology associated with intelligence and intelligence testing.  
 - Understand the reasoning behind the eugenics movements and its use of intelligence tests.  
@@ -131,7 +131,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Can we critically evaluate this research?  
 - Why is this relevant?  
 
-<h5>9.2 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology related to understanding intelligence.  
 - Understand why intelligence is described as a hierarchy.  
@@ -218,7 +218,7 @@ Here is a checklist of learning activities you will benefit from in completing t
   - Males: visuospatial  
   - Stereotype threat  
 
-<h5>9.3 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology related to heredity, environment, and intelligence.  
 - Understand different approaches to studying the genetic basis of intelligence.  

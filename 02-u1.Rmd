@@ -37,7 +37,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <!-- [plugin:content-inject](_schedule) -->
 
-```{block2, type='reflect'}
+
 
 <span class="blockhead">Read and Reflect</span>
 
@@ -158,7 +158,7 @@ Participant Behaviour</h5>
 - Appeal to common sense (p. 39)  
   - Earth is centre of universe  
 
-<h5>2.2 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology related to research designs.  
 - Understand what it means when variables are positively or negatively correlated.  
@@ -202,7 +202,7 @@ Participant Behaviour</h5>
     - Comparing men and women  
   - Cannot determine cause-and-effect  
 
-<h5>2.4 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology of statistics.  
 - Understand how and why psychologists use significance tests.  
@@ -272,7 +272,7 @@ Participant Behaviour</h5>
 
 *Slide showing - Modules*
 
-<h5>8.1 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology associated with concepts and categories.  
 - Understand theories of how people organize their knowledge about the world.  
@@ -350,7 +350,7 @@ Networks</h5>
   - Drifting snow  
   - Yellow snow  
 
-<h5>8.2 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology of problem solving and decision making.  
 - Understand the characteristics that problems have in common.  
@@ -427,7 +427,7 @@ Networks</h5>
 - Why is this relevant?  
   - Planning for the future  
   
-<h5>8.3 Learning Objectives</h5>
+<h5>Learning Objectives</h5>
 
 - Know the key terminology from the study of language.  
 - Understand how language is structured.  
@@ -537,10 +537,8 @@ Networks</h5>
 
 </details>
 
-
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 1- Slides" link.*
 
-```
 
 
 ### Learning Activities: {-}
