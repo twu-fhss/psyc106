@@ -12,7 +12,7 @@ biblio-style: apalike
 
 # Welcome {-}
 
-This is the course book for [insert]. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
+This is the course book for PSYC 106. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
 Below you will find information about how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
 
@@ -294,7 +294,6 @@ Participant Behaviour</h5>
   - Stereotypes  
 
 ![](assets/unit_1/slide_23.png)
-
 
 *Slide showing - Elements of an Experiment*
 
@@ -990,7 +989,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <h5>Proverbs 2:6</h5> 
 
- For the LORD gives wisdom, and from his mouth come knowledge and understanding.  
+- | ^6^ For the LORD gives wisdom, and from his mouth come knowledge and understanding.  
 
 <h5>Greek Word Study</h5> 
 
@@ -1415,9 +1414,9 @@ In this Unit (Part 1), you will learn about various strategies for researching h
 
 This unit is divided into the following topics:
 
-1. Prenatal Development  
-2. Infancy and Childhood  
-3. Adolescence  
+ 1. Prenatal Development  
+ 2. Infancy and Childhood  
+ 3. Adolescence  
 
 ### Learning Outcomes {-}
 

@@ -5,19 +5,16 @@
 \documentclass[
 ]{book}
 \usepackage{amsmath,amssymb}
+\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math} % this also loads fontspec
+  \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-\fi
-\usepackage{lmodern}
-\ifPDFTeX\else
-  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -147,7 +144,7 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same}
+\urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={Introduction to Psychology},
   pdfauthor={Todd Dutka},
@@ -169,7 +166,7 @@
 \chapter*{Welcome}\label{welcome}}
 \addcontentsline{toc}{chapter}{Welcome}
 
-This is the course book for {[}insert{]}. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
+This is the course book for PSYC 106. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
 Below you will find information about how to navigate this book. Please also refer the schedule in Moodle, as well as the Asseessment section in Moodle for instructions on required readings and assignments.
 
@@ -1751,7 +1748,7 @@ While there is no ``formal'' assignment that you will be responsible for submitt
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -1759,11 +1756,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -1870,7 +1866,10 @@ An Introduction to Psychological Science - Chapter 9:Intelligence Testing
 
 Proverbs 2:6
 
-For the LORD gives wisdom, and from his mouth come knowledge and understanding.
+\begin{itemize}
+\item
+  \textsuperscript{6} For the LORD gives wisdom, and from his mouth come knowledge and understanding.
+\end{itemize}
 
 Greek Word Study
 
@@ -2599,7 +2598,7 @@ While there is no ``formal'' assignment that you will be responsible for submitt
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -2607,11 +2606,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -3875,7 +3873,7 @@ While there is no ``formal'' assignment that you will be responsible for submitt
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -3883,11 +3881,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -4201,7 +4198,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -4209,11 +4206,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 
 {Writing Assignment \#1}
@@ -5258,7 +5254,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -5266,11 +5262,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Nvr to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -6348,7 +6343,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -6356,11 +6351,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -6685,7 +6679,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -6693,11 +6687,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -7763,7 +7756,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -7771,11 +7764,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -8115,7 +8107,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -8123,11 +8115,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 
 \hypertarget{writing-assignment-2}{%
@@ -9540,7 +9531,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -9548,11 +9539,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -10599,7 +10589,7 @@ Your facilitator will be providing a participation mark based on your contributi
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -10607,11 +10597,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 \end{assessment}
 
@@ -10924,17 +10913,16 @@ In addition to your participation in this unit's Learning Lab, you will also be 
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Developing (65-89\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Ner to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks), nitiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. \\
+\bottomrule()
 \end{longtable}
 
 {Quiz \#3}
@@ -11223,7 +11211,7 @@ In addition to your participation in this unit's Learning Lab, you will also be 
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
-\toprule\noalign{}
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Emerging (0-64\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
@@ -11231,11 +11219,10 @@ Developing (65-89\%)
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Mastering (90-100\%)
 \end{minipage} \\
-\midrule\noalign{}
+\midrule()
 \endhead
-\bottomrule\noalign{}
-\endlastfoot
 Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others' remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others' remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak. & Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others' remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others. \\
+\bottomrule()
 \end{longtable}
 
 {Quiz \#3}
