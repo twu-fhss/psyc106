@@ -378,7 +378,7 @@ To supplement our understanding of this topic, take a moment to explore the foll
 After considering the above, and having read the textbook’s discussion of intelligence testing, you might want to try some tests yourself. The value in doing this is not that you will get an accurate idea of your IQ score, but rather that you might get a better understanding for some of the problems in testing. As you try some of the tests at the following sites, remind yourself of the problems of test standardization, validity, and reliability. How well do you think these tests measure up?
 
 - [**Queendom IQ Test**](https://www.queendom.com/tests/index.htm){target="_blank”}  
-- [**davideck.com**](http://www.davideck.com/){target="_blank”}  
+- [**Mensa IQ Challenge**](https://www.mensa.org/public/mensa-iq-challenge){target="_blank”}  
 
 
 <span class="blockhead">Learning Lab Preparation</span>
@@ -399,11 +399,11 @@ While the debate rages over the relative contributions of nature and nurture to 
 
 “If we are concerned for the future of the (hopefully) millions of generations still to be born, we must realize that their fate lies to a considerable extent in the breeding practices of those who are currently alive.” *(Intelligence and Eugenics)*
 
-## What Will You Do?
+#### What Will You Do?
 
 If or when you have children, will you ban screens (TV, smart phone, tablet, laptop) as a “brain rotter” and read to them every day? Or will you just let nature take its course and allow both screens and reading?
 
-## Test Biases?
+#### Test Biases?
 
 IQ tests are generally valid for their original purpose—as predictors of aca­demic performance. Controversy arises when IQ scores are taken to mean over­all intelligence and even overall worth. IQ scores consistently predict that some cultural and racial groups will do better at school than will other groups. These differ­ences are an indication of bias not in the IQ tests but in the back­grounds and academic settings that first create and then magnify differences.
 
