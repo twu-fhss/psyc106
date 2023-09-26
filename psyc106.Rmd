@@ -974,7 +974,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 ```{block2, type='reflect'}
 
 <!-- [plugin:content-inject](_schedule) -->
-
+### Learning Activities
 <span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
