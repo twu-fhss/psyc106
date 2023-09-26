@@ -289,9 +289,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ### Resources {-}
 
-Here are some additional resources that will help you complete this unit:
+Here are the resources you will need to complete this unit.
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Krause, M., Corts, D., Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
 
 ## What is Intelligence?
@@ -312,19 +312,24 @@ Robert Sternberg wanted to show that intelligence was more than just one general
 
 - [**Three Components of Intelligence**](https://www.thoughtco.com/triarchic-theory-of-intelligence-4172497){target="_blank”}
 
-### Gardner's Eight Types of Intelligence {-}
+### Howard Gardner’s Nine Types of Intelligence  {-}
 
 Howard Gardner put together a robust, research-based theory of Multiple Intelligences. He put forth an understanding of intelligence promoting our abilities are best classified into nine independent intelligences, which include a broad range of skills beyond traditional school smarts. This illuminating read that can help you understand what your primary intelligences are. Follow the link below:
 
-- [**Eight Types of Intelligence**](https://www.institute4learning.com/resources/articles/multiple-intelligences/){target="_blank”}
+- [**Theory of Multiple Intelligences**](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml”}
 
-### Resources: Online Articles of Interest {-}
+<!-- [plugin:content-inject](_activities) -->
+
+```{block2, type='reflect'}
+
+### Activity: Read and Learn {-}
 
 To add to your exploration of this topic, take a moment to read the following articles:
 
 - [**Emotional Intelligence Consortium Website**](http://www.eiconsortium.org/){target="_blank”}  
 
 - [**EQI Web Resource**](http://eqi.org/){target="_blank”}  
+```
 
 <!-- [plugin:content-inject](_activities) -->
 
