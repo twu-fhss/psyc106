@@ -972,10 +972,12 @@ By the end of this unit, students will be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-<span class="blockhead">Learning Activities</span>
+
 <!-- [plugin:content-inject](_schedule) -->
 
-<span class="blockhead">Read and Reflect</span>
+<span class="blockhead">Learning Activities</span>
+
+  <span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review **Unit 2 - Slides**
