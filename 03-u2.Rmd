@@ -316,7 +316,7 @@ Robert Sternberg wanted to show that intelligence was more than just one general
 
 Howard Gardner put together a robust, research-based theory of Multiple Intelligences. He put forth an understanding of intelligence promoting our abilities are best classified into nine independent intelligences, which include a broad range of skills beyond traditional school smarts. This illuminating read that can help you understand what your primary intelligences are. Follow the link below:
 
-- [**Theory of Multiple Intelligences**](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml)
+- [**Theory of Multiple Intelligences**](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml){target="_blank”}
 
 
 
@@ -329,6 +329,7 @@ To add to your exploration of this topic, take a moment to read the following ar
 - [**Emotional Intelligence Consortium Website**](http://www.eiconsortium.org/){target="_blank”}  
 
 - [**EQI Web Resource**](http://eqi.org/){target="_blank”}  
+
 ```
 
 
