@@ -48,10 +48,10 @@ Using these self-check activities in this way is designed to help you to succeed
 ### How To Navigate This Book {-}
 
 To move quickly to different portions of the book, click on the appropriate chapter or section in the table of contents on the left. The buttons at the top of the page allow you to show/hide the table of contents, search the book, change font settings, download a pdf or ebook copy of this book, or get hints on various sections of the book.
-<img src="assets/course-intro/menu.png" alt="Top menu bar"  />
+![(\#fig:unnamed-chunk-1)Top menu bar](assets/course-intro/menu.png) 
 
 The faint left and right arrows at the sides of each page (or bottom of the page if it’s narrow enough) allow you to step to the next/previous section. Here’s what they look like:
-<img src="assets/course-intro/left_arrow.png" alt="Left and right navigation arrows"  /><img src="assets/course-intro/right_arrow.png" alt="Left and right navigation arrows"  />
+![(\#fig:unnamed-chunk-2)Left and right navigation arrows](assets/course-intro/left_arrow.png) ![(\#fig:unnamed-chunk-2)Left and right navigation arrows](assets/course-intro/right_arrow.png) 
 
 You can also download an offline copy of this book in various formats, such as pdf or an ebook. If you are having any accessibility or navigation issues with this book, please reach out to your instructor or our online team at elearning@twu.ca.
 
@@ -64,24 +64,34 @@ This course is organized into 6 units. Each unit of the course will provide you 
 - Learning activities to help you engage with the concepts. These often include key readings, videos, and reflective prompts.  
 - The Assessment section provides details on assignments you will need to complete throughout the course to demonstrate your understanding of the course learning outcomes.  
 
-\BeginKnitrBlock{caution}<div class="caution">Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.</div>\EndKnitrBlock{caution}
+\BeginKnitrBlock{caution}
+Note that assessments, including assignments and discussion posts will be submitted in Moodle.  See the Assessment tab in Moodle for the assignment dropboxes.
+\EndKnitrBlock{caution}
 
 ### Course Activities{-}
 
 Below is some key information on features you will see throughout the course. 
 
-\BeginKnitrBlock{reflect}<div class="reflect">***Learning Activity***  
-This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.</div>\EndKnitrBlock{reflect}
+\BeginKnitrBlock{reflect}
+***Learning Activity***  
+This box will prompt you to engage in course concepts, often by viewing resources and reflecting on your experience and/or learning. Most learning activities are ungraded and are designed to help prepare you for the assessment in this course.
+\EndKnitrBlock{reflect}
 
-\BeginKnitrBlock{assessment}<div class="assessment">***Assessment***  
-This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.</div>\EndKnitrBlock{assessment}
+\BeginKnitrBlock{assessment}
+***Assessment***  
+This box will signify an assignment or discussion post you will submit in Moodle.  Note that these demonstrate your understanding of the course learning outcomes. Be sure to review the grading rubrics for each assignment.
+\EndKnitrBlock{assessment}
 
-\BeginKnitrBlock{progress}<div class="progress">***Checking Your Learning***  
+\BeginKnitrBlock{progress}
+***Checking Your Learning***  
 This box is for checking your understanding, to make sure you are ready for what follows. Ways to check your learning might include self-check quizzes or questions for discussion. These activities are not graded but are critical for you to be able to begin to develop evaluative judgement in this domain of knowledge.
-</div>\EndKnitrBlock{progress}
 
-\BeginKnitrBlock{caution}<div class="caution">***Note***  
-This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!</div>\EndKnitrBlock{caution}
+\EndKnitrBlock{progress}
+
+\BeginKnitrBlock{caution}
+***Note***  
+This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
+\EndKnitrBlock{caution}
 
 <!--chapter:end:index.Rmd-->
 
@@ -631,7 +641,8 @@ Networks</h5>
 ### Learning Activities: {-}
 
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Chapter 2 Review Quiz</span>
 
 - Practice Quiz to self-assess your own comprehension of important terms from Chapter 2.  
@@ -652,7 +663,8 @@ Networks</h5>
 <span class="blockhead">Learning Lab Preparatione</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -680,11 +692,13 @@ I think psychology is one of the most interesting areas of study there is, first
 
 ### Learning Activity {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Chapter 2 Review Quiz</span>
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Thinking and Problem Solving
 
@@ -724,7 +738,8 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In addition to the content above, you are also responsible for reading through the following:
 
 *Krause et. al (2018). Revel for An Introduction to Psychological Science, 2nd Canadian Edition. Chapter 8*
@@ -776,7 +791,8 @@ Consider the following prompts to help better prepare for the discussion:
 
 - ***Do you agree or disagree with this claim?***  
 - ***Do you know people that fit in the second category? What causes this difference? How might it be changed?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Cognitive Biases
 
@@ -840,7 +856,8 @@ Mental practice is now widely accepted in many areas. The following excerpt is t
 
 ### Activity: Introduction to Visualization {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In this Topic, we learned about the notion of mental practice. Below is an article that will take you through the process of visualization. Take some time to read the article and practice for yourself. Pay careful attention to your thoughts, your focus, your feelings as you engage in the process.
 
 - [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}   
@@ -852,7 +869,8 @@ The subject of our focus for this Topic has been on the power of language in inf
 To prepare for this discussion, consider the following prompt:
 
 ***Give some examples of the importance of language in the Bible or other religious writings.***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Animal Language
 
@@ -878,17 +896,20 @@ To add to our exploration of this topic, take a moment to read the following art
 
 ### Activity: Learning Lab Preparation {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Finally, take a moment to consider the following questions:
 
 ***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
 
 Be prepared to share your thoughts during discussion at your Learning Lab.
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 1, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -898,11 +919,13 @@ While there is no "formal" assignment that you will be responsible for submittin
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 |-|-|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define key terminology related to principles of scientific research, research designs, and statistics.  
@@ -911,7 +934,8 @@ Before you move on to the next unit, check that you are able to:
 - Apply the concepts of reliability and validity to examples and concepts of experimental methods to research examples.  
 - Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.  
 - Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:02-u1.Rmd-->
 
@@ -942,7 +966,8 @@ By the end of this unit, students will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-\BeginKnitrBlock{reflect}<div class="reflect"><span class="blockhead">Learning Activities</span>
+\BeginKnitrBlock{reflect}
+<span class="blockhead">Learning Activities</span>
 <!-- [plugin:content-inject](_schedule) -->
 
 <span class="blockhead">Read and Reflect</span>
@@ -1198,7 +1223,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Practice quiz to assess how well you know key terms from Chapter 9.  
 - Not for formal evaluation.  
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -1243,7 +1269,8 @@ To add to your exploration of this topic, take a moment to read the following ar
 
 ### Activity: Intelligence Testing  {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In this unit we investigated Intelligence Testing. One of the important concepts we learned was that Intelligence Testing can be controversial due to its socially constructed nature.
 
 Below is a link to a website that will allow you to take some Intelligence Tests for yourself. As you work through each test, and see the results, think about why we might consider these types of tests beneficial, and why they might be considered controversial.
@@ -1257,7 +1284,8 @@ Our Learning Lab for this unit will focus on Intelligence Testing. As we have se
 - ***How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illumined by the test?***  
 - ***Is ‘emotional intelligence’ a valid concept worth measuring?***  
 - ***Do you believe E-IQ is more important than "intelligence" as measured by IQ scores for success and happiness in your life?”***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Extremes of Intelligence
 
@@ -1278,7 +1306,8 @@ To supplement our understanding of this topic, take a moment to explore the foll
 
 ### Activity: IQ Testing {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 After considering the above, and having read the textbook’s discussion of intelligence testing, you might want to try some tests yourself. The value in doing this is not that you will get an accurate idea of your IQ score, but rather that you might get a better understanding for some of the problems in testing. As you try some of the tests at the following sites, remind yourself of the problems of test standardization, validity, and reliability. How well do you think these tests measure up?
 
 - [**Queendom IQ Test**](https://www.queendom.com/tests/index.htm){target="_blank”}  
@@ -1294,7 +1323,8 @@ As we prepare for our Learning Lab this week, we consider intelligence from a Ch
 *My brothers, as believers in our glorious Lord Jesus Christ, don't show favoritism. Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in. If you show special attention to the man wearing fine clothes and say, "Here's a good seat for you," but say to the poor man, "You stand there" or "Sit on the floor by my feet," have you not discriminated among yourselves and become judges with evil thoughts?*
 
 - ***Could we be guilty of favoritism in esteeming more intelligent people above less intelligent people? In society? In Church?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Nature-Nature and IQ
 
@@ -1321,7 +1351,8 @@ To supplement our understanding of this topic, take a moment to read through the
 
 ### Activity: Ch. 9 Key Terms Quiz {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In order to review some of the major terms from Chapter 9 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
 
 <span class="blockhead">Learning Lab Preparation</span>
@@ -1332,11 +1363,13 @@ Consider the following scenario (and questions) as you continue to prepare for t
 
 - ***What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?***  
 - ***If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 2, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -1346,18 +1379,21 @@ While there is no "formal" assignment that you will be responsible for submittin
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), Initiates any contributions in class or small groups,  Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.| Sometimes to fairly often:  Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology associated with understanding intelligence, intelligence testing, and heredity, environment, and intelligence.  
 - Understand the reasoning behind the eugenics movements and its use of intelligence tests, why intelligence is divided into fluid and crystallized types, and the genetic basis of intelligence.  
 - Apply the concepts of entity theory and incremental theory to help kids succeed in school, to identify examples from the triarchic and multiple theories of intelligence, and to recognize environmental and behavioral effects on intelligence to understand how to enhance your own cognitive abilities.  
 - Analyze why it is difficult to remove all cultural bias from intelligence testing and whether teachers should spend time tailoring lessons to each individual student’s learning style.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:03-u2.Rmd-->
 
@@ -1392,7 +1428,8 @@ By the end of this unit, student's will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <!-- [plugin:content-inject](_schedule) -->
 
 <span class="blockhead">Read and Reflect</span> 
@@ -1808,7 +1845,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -1848,7 +1886,8 @@ At the moment the technique is used for therapeutic purposes only, to screen for
 
 ### Activity: Designer Babies {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 This activity involves some reading and reflection around the topic of genetic engineering. As this is a contemporary issue, it will be valuable to familiarize yourself with some of the complexities of this technology and think critically about some of the ethical challenges. Your task is to read the following resources and carefully consider the implications of this technology:
 
 - [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/){target="_blank”}  
@@ -1868,7 +1907,8 @@ Prior to your Learning Lab, take some time to think about the following scenario
 
 1. ***How do you feel about this request?***
 2. ***What problems might you anticipate?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Infancy and Childhood
 
@@ -1915,7 +1955,8 @@ Although cognitive equilibrium is restored via either assimilation or accommodat
 
 ### Activity:Cognitive Change  {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 The first three links below are articles that are intended to give you an opportunity to reflect upon your own considerations around development. The last link is a test - along with the first three links, it is intended to provide some insights about your developmental trajectory in light of your crisis resolution, attachment style, and parenting styles:
 
 - [**Erik Erikson’s Stages of Social-Emotional Development**](http://www.childdevelopmentinfo.com/development/erickson.shtml ){target="_blank”}  
@@ -1929,7 +1970,8 @@ Prior to your Learning Lab, take some time to think about the following question
 
  - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***  
  - ***Would children even have an idea of God if they were not taught it?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Adolescence
 
@@ -1957,7 +1999,8 @@ The concept of identity is a rich topic for consideration. The most familiar asp
 <!-- [plugin:content-inject](_activities) -->
 ### Learning Activities {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Read and Reflect</span>
 
 In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding:
@@ -1975,11 +2018,13 @@ In order to review some of the major terms from Chapter 10 in your textbook, pra
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Would you want to live your adolescence over again if you could? Why or why not?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 3, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -1989,11 +2034,13 @@ While there is no "formal" assignment that you will be responsible for submittin
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology related to prenatal and infant physical development, infancy and childhood, and adolescent development.  
@@ -2002,7 +2049,8 @@ Before you move on to the next unit, check that you are able to:
 - Understand the process of identity formation, relationships, and moral emotions during adolescence.  
 - Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus, how to promote learning, and how to categorize moral reasoning.  
 - Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:04-u3.Rmd-->
 
@@ -2034,7 +2082,8 @@ By the end of this unit, student's will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <!-- [plugin:content-inject](_schedule)  -->
 
 <span class="blockhead">Read and Reflect</span>
@@ -2101,7 +2150,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 - ***Writing Assignment #1*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
 
 - After completing this assignment, you will also be expected to complete ***Quiz #1.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -2178,7 +2228,8 @@ The following issues are often subject to cul­tural variations:
 
 ## Assessment
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 In addition to your participation in this unit's Learning Lab, you will also be responsible for two formal assessments. The first, is your **Writing Assignment #1** - more information can be found on this assignment by scrolling down the page. The second assessment that will take place is **Quiz #1** - more information can be found by scrolling down the page.
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -2240,11 +2291,13 @@ Upon completing your first Writing Assignment, you will next complete your first
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
 ***To begin your quiz,*** click on the **Quiz #1** tab at the bottom of the screen.
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology concerning adulthood and aging.  
@@ -2258,7 +2311,8 @@ Before you move on to the next unit, check that you are able to:
 - Apply effective communication principles to the challenge of improving your own relationships.  
 
 - Analyze the stereotype that old age is a time of unhappiness.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:05-u4.Rmd-->
 
@@ -2293,7 +2347,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <!-- [plugin:content-inject](_schedule) -->
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
@@ -2566,7 +2621,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -2613,7 +2669,8 @@ You will not always be right—but neither was Adler. The important thing is to 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Having just introduced Personality Theories to the course, we begin to explore psychoanalytic views of human development. Dreams and birth order are but two of the constructs that help shape and reflect who we are as individuals- there are many different theories and interpretations on the role dreams and birth order play. Take a moment to consider the following articles:
 
 - [**Christian Perspective on Dreams**](https://www.cgg.org/index.cfm/fuseaction/Library.sr/CT/BQA/k/96/What-Is-Proper-Christian-Perspective-on-Dreams-Visions.htm){target="_blank”}  
@@ -2626,7 +2683,8 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***Does God speak through dreams?***  
 - ***What reasons do you have for your opinion? Can you give an example?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Humanistic View
 
@@ -2663,7 +2721,8 @@ Some Christians object to the humanistic perspective because of its unqualified 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 As we explore a humanistic view, as it relates to personality, we start to see the development of self-esteem. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
 - [**Kids Health: Self Esteem**](https://kidshealth.org/en/kids/self-esteem.html){target="_blank”}  
@@ -2677,7 +2736,8 @@ As we explore a humanistic view, as it relates to personality, we start to see t
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***If you wanted to study the psychologically healthiest individuals, whom would you study? How would you decide?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Trait View
 
@@ -2707,7 +2767,8 @@ Do you have a desire to know what “kind” of person you are? This common desi
 
 ### Activity: Practice, Read, and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In this topic we have continued to develop our understanding of personality. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resource:
 
 - [**Queendom.com**](https://www.queendom.com/){target="_blank”}  
@@ -2735,7 +2796,8 @@ Author Tim LaHaye has taken the Greek idea of types and body humors and adapted 
 
 - ***Does the bible support an approach to personality that links individual differences to inherited traits?***  
 - ***What is the role of the Holy Spirit in relationship to traits?  - Are these different “gifts” (I Cor. 12)? Different “fruit (Gal 5:22)? Can they be changed?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Social-Cognitive View
 
@@ -2749,7 +2811,8 @@ In summary, the Social-Cognitive view recognizes the mutual interdependence (“
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Who we are is, in large part, shaped by the environment in which live. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
 - [**Learned Helplessness**](http://www.ldonline.org/article/6154/){target="_blank”}  
@@ -2770,11 +2833,13 @@ Prior to your Learning Lab, take some time to think about the following question
 *Research indicates that an internal locus of control is associated with more positive psychological outcomes than an external locus of control.*
 
 - ***Does this mean that Christians (and others who believe in God) are less psychologically healthy because they believe an external force (God) is in control?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 5, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. 
 
 Below is some information to consider prior to attending your Learning Lab:
@@ -2790,11 +2855,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 |-|-|-|
 Nvr to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Know the key terminology associated with contemporary approaches, cultural and biological approaches, and psychodynamic and humanistic approaches to personality.  
@@ -2802,7 +2869,8 @@ Before you move on to the next unit, check that you are able to:
 - Apply the Big Five personality traits, psychodynamic, and humanistic perspectives to understand personality.  
 - Analyze the roots of violence and prejudice, roles of personality traits and psychological and physical states, and the genetic basis of personality in determining behaviour.  
 - Analyze claims that males and females have fundamentally different personalities and whether projective tests are valid measures of personality.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:06-u5.Rmd-->
 
@@ -2835,7 +2903,8 @@ By the end of this unit, student's will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <!-- [plugin:content-inject](_schedule) -->
 
 
@@ -3142,7 +3211,8 @@ to frequent*, stay in, a place;
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -3169,7 +3239,8 @@ The ultimate attribution error tends to perpetuate our false stereotypes and pre
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Attributes, and our perception of attributes, has been the focus of this lesson. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
  - [**Attribution Theory**](http://healthyinfluence.com/wordpress/steves-primer-of-practical-persuasion-3-0/thinking/attribution/){target="_blank”}  
@@ -3183,7 +3254,8 @@ Prior to your Learning Lab, take some time to think about the following scenario
 
 - ***Describe a time when you were forced to act in a certain way, and then later found you had come to enjoy what you were doing. That is, your attitude followed your actions.***  
 - ***Could this happen with religious attitudes and beliefs too?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Conformity
 
@@ -3217,7 +3289,8 @@ The "Mach Test" is a twenty-item inventory designed to reveal Machiavellian tend
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 We investigated conformity, and the role it plays. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
  - [**Introduction to Social Influence**](http://www.workingpsychology.com/intro.html){target="_blank”}  
@@ -3232,7 +3305,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***What pressures for conformity exist in your community? On your campus?***  
 - ***What happens to people who do not conform?***  
 - ***Is conformity good or bad? What would society be like without conformity?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Obedience
 
@@ -3289,7 +3363,8 @@ Bartleby manages to defy his employer and yet keep his job because his meek repl
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 This unit, we learned about obedience. We saw that obedience is strongest level of social influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
 - [**Conformity, Compliance, and Obedience**](https://www.units.miamioh.edu/psybersite/cults/cco.shtml){target="_blank”}  
@@ -3308,7 +3383,8 @@ Prior to your Learning Lab, take some time to think about the following scenario
 
 - ***Does the severity of the problem studied—in this case destructive obedience—justify more extreme steps to manipulate and deceive experimental subjects?***  
 - ***Under what circumstances do you personally think that deceiving subjects in a scientific experiment might be ethically warranted or justified?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Compliance
 
@@ -3332,7 +3408,8 @@ These and other techniques have been shown to greatly increase the effectiveness
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In this Topic we studied compliance and its use as a tool of influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
 - [**Social Media and Its Stark Influence on Society **](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1004&context=writ){target="_blank”}  
@@ -3349,11 +3426,13 @@ Prior to your Learning Lab, take some time to think about the following question
 If you have not been taught a sales technique, you certainly have experienced many as a consumer. Can you give an example? Here is one:
 
 ***One of the standard ways that door-to-door salespersons will try to get you to buy something is the so-called foot-in-the-door technique: They will ask you to do them a small favor. Having done so, you will have to justify your own behavior to yourself by think­ing nice things about the seller. Hence, you are more likely to comply when they ask you to sign on the dotted line.***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 6, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 <span class="blockhead">Learning Lab Preparation</span>
@@ -3367,11 +3446,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology associated with social influence, social cognition, and on attitudes, behaviour, and effective communication.  
@@ -3383,7 +3464,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether guards who participate in abuse are inherently bad people, or if their behaviour is the product of social influences and whether people who commit discriminatory acts are necessarily prejudiced.  
 
 - Describe how behaviours influence attitudes in terms of cognitive dissonance theory.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:07-u6.Rmd-->
 
@@ -3416,7 +3498,8 @@ By the end of this unit, student's will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <!-- [plugin:content-inject](_schedule) -->
 
 
@@ -3443,7 +3526,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 ### Resources {-}
 
 Here are the resources you will need to complete this unit:
@@ -3492,7 +3576,8 @@ Fumie Kumagai and Murray Straus report significant differences in the way con­f
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 The following articles are intended to deepen your understanding of discrimination, racism, hate and violence. Hopefully this information will cause you to consider how you’ve been informed about these topics. Additionally, it may be valuable, in light of the research, to consider how much hate and violence you have exposure to through gaming and TV and how this is impacting your attitude and behaviour towards other people. Click on the articles below:
 
 - [**Discussing Hate and Violence with Children**](https://www.adl.org/education/resources/tools-and-strategies/discussing-hate-and-violence-with-children){target="_blank”}  
@@ -3505,7 +3590,8 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***If removing parts of the brain reliably reduced aggression, do you think violent criminals should be forced to have this operation?***
 - ***Should violent content be removed from video games, movies, and TV (why or why not)?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Attraction & Altruism
 
@@ -3545,7 +3631,8 @@ In another setting, Perry London (1970) found Christian teaching often played a 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 What is it that makes you think that someone is attractive, kind, evil, competent, upset, and the like? These resources will look at some of the factors that contribute to how you judge others and yourself. The first article outlines some of the ways your face has shaped your social experiences. The second article adds to this discussion by looking at how willing people are to acknowledge the role of attractiveness in their own thought processes and decision-making. Next, the topic shifts to altruism. The first of these articles proposes that only reciprocal altruism exists. Again, I would encourage you to read this article through the lens of, *“Is it truly possible to know another’s motivation or intention?”* Lastly, Random Acts of Kindness is a website that offers great resources and opportunities to increase kindness in your, and others, lives. I encourage you to participate in some of these activities to see how it makes you feel. Click on the links below:
 
  - [**Facial Attractiveness**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130383/){target="_blank”}  
@@ -3565,11 +3652,13 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***What do you think contribute to you being able to quickly judge whether or not you think someone is attractive?***  
 - ***Some social psychologists believe that there is always a reward for helping and that this motivates people to help. In other words, people never help without expecting a reward of some kind (either in this life or in the next). What do you think?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 7, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 <span class="blockhead">Learning Lab Preparation</span>
@@ -3583,11 +3672,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 | -| -|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), Initiates any contributions in class or small groups,  Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks),  Initiates a contribution at least once in a class or small group discussion;  Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks),  Initiates more than one contribution in a class or small group discussion,  Makes insightful or constructive comments,  Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology associated with social influence, social cognition, and on attitudes, behaviour, and effective communication.  
@@ -3599,7 +3690,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether guards who participate in abuse are inherently bad people, or if their behaviour is the product of social influences and whether people who commit discriminatory acts are necessarily prejudiced.  
 
 - Describe how behaviours influence attitudes in terms of cognitive dissonance theory.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:08-u7.Rmd-->
 
@@ -3635,7 +3727,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <!-- [plugin:content-inject](_schedule)-->
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
@@ -3972,7 +4065,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -3994,7 +4088,8 @@ The close connection between mind and body is the basis for so-called “lie-det
 <!-- [plugin:content-inject](_activities) -->
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 What do you think...*could you beat a lie detector device?* This activity will allow you to delve more deeply into the physiological aspects of human emotion (though, cognitions and behaviours do influence physiological processes) and how they can be monitored using a polygraph machine. To learn more about Lie Detectors, follow the link below:
 
 - [**How Lie Detectors Work**](https://people.howstuffworks.com/lie-detector.htm){target="_blank”}  
@@ -4008,7 +4103,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***How many ancient or old-fashioned methods for telling if someone is lying can you find on the internet?***  
 
 *Often a person’s life depended on these highly questionable methods.*
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Communicating Emotion
 
@@ -4022,7 +4118,8 @@ The study of emotion has long been linked with the study of facial expressions. 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Is there a practical use to understanding how we communicate emotions? Yes, actually there are several possible uses. One very interesting use is in the understanding of deception. For as long as we have records, we know that people have understood that liars don’t seem to be able to control all of their communication channels. Verbally, they deny they are lying, but the truth screams out from eye movements; *a slightly irregular smile, a faint blush....* This activity provides additional information for your consideration:
 
 - [**Body Language Speaks Volumes**](http://www.positive-way.com/body.htm){target="_blank”}  
@@ -4036,7 +4133,8 @@ Another possible use of understanding emotional communication better is the deve
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Experiencing Emotion
 
@@ -4070,7 +4168,8 @@ Despite controversy at the theoretical level concerning the exact relationship b
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 How well do you handle your emotions? If you are finding that you are being led emotionally in directions that are not the best for your life or you find that you’re avoiding your emotions, it may be time to find out how to make your emotions work for you. The following resources can help you discern between helpful vs. harmful ways of dealing with emotions. The second link is a resource that offers help for emotionally dealing with disaster in your life.
 
 - [**Ways to Handle Emotion**](https://www.mhanational.org/helpful-vs-harmful-ways-manage-emotions){target="_blank”}  
@@ -4082,11 +4181,13 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***Do you think that we can “put on a happy face” and really feel different?***  
 - ***Can we make ourselves happy or sad by what we think?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 8, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 <span class="blockhead">Learning Lab</span>
@@ -4100,11 +4201,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 |-|-|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.| Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology related to health psychology, stress and illness, and coping and well-being.  
@@ -4116,7 +4219,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:09-u8.Rmd-->
 
@@ -4149,7 +4253,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule) -->
@@ -4188,7 +4293,8 @@ At the end of this unit, not only will you be assessed on your participation dur
 - ***Writing Assignment #2*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
 
 - After completing this assignment, you will also be expected to completed ***Quiz #2.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -4222,7 +4328,8 @@ Assertiveness represents a third alternative but one that is often confused with
 
 ### Activity: Personal Reflection {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 
 Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. Share these in your Learning Lab/Forum.
 
@@ -4265,7 +4372,8 @@ Finally, in your forum, comment/respond on the following:
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Each of us has some minor annoyances that add to our stress level more than they should. What gets you stressed out? What are your everyday "pet peeves" (annoyances)? Does the stress that these things produce seem justified? What are some things you can do to decreases your stress responses to these situations?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Health Psychology
 
@@ -4287,7 +4395,8 @@ This summary of Geller’s past activities demonstrates that with motivation and
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 In this activity you will watch Dr. Kelly McGonigal’s *TED talk* titled, ***"How to Make Stress your Friend."***  This video is groundbreaking research to help people transform their perspective on stress:
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src=https://embed.ted.com/talks/lang/en/kelly_mcgonigal_how_to_make_stress_your_friend" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
@@ -4311,11 +4420,13 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?***  
 - ***Is there a good time to just laugh something off?***  
 - ***What are some potential stress related consequences of habitually turning to humour when dealing with stress?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 In addition to your participation in this unit's Learning Lab, you will also be responsible for two formal assessments. The first, is your **Writing Assignment #2** - more information can be found on this assignment by scrolling down the page. The second assessment that will take place is your second quiz - again, more information can be found by scrolling down the page.
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -4364,11 +4475,13 @@ Upon completing your Writing Assignment #2, you will next complete your second q
 Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
 
 ***To begin your quiz,*** click on the **Quiz #2** tab at the bottom of the screen.
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define and apply the key terminology related to health psychology, stress and illness, and coping and well-being.  
@@ -4380,7 +4493,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:10-u9.Rmd-->
 
@@ -4415,7 +4529,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 <!-- [plugin:content-inject](_schedule) -->
@@ -4868,7 +4983,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -4899,7 +5015,8 @@ Here is a list of comparisons between normal personality characteristics on the 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 The following articles augment your understanding of the descriptions of the disorders discussed in the textbook and provide opportunity to understand more about anxiety disorders. Due to the pervasiveness of disorders, especially anxiety related problems, this information could prove invaluable in helping yourself and others find hope and help in challenging circumstances. There is also an excellent write up on the many valid criticisms of being overly dependent on the DSM as a resource.
 
 - [**Psychological Problems and Disorders**](http://www.psychologyinfo.com/problems/){target="_blank”}  
@@ -4913,7 +5030,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***Would you expect Christians to be more mentally healthy than non-Christians? Why or why not?***  
 - ***What about people with other religious/spiritual beliefs?***  
 - ***What about people with no religious/spiritual beliefs?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Mood Disorders
 
@@ -4941,7 +5059,8 @@ In the end, people with major depression were at least three times as likely as 
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 How do you know the difference between depression and normal sadness? In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. Additionally, though children may suffer from a disorder, there are additional challenges in noticing it in them due to their immature language, cognitive, and emotion processing abilities and developmental stage. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.
 
 - [**Information about Depression**](http://www.psychologyinfo.com/problems/depression.html){target="_blank”}  
@@ -4955,7 +5074,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***What do their examples suggest about possible causes? (Hint: Elijah, David, Saul, others?)***  
 
 *If you are not familiar with biblical personages, give an example from literature or contemporary public life.*
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Schizophrenia
 
@@ -4978,7 +5098,8 @@ This strange behavior and apparent loss of contact with reality we would probabl
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Schizophrenia is a truly fascinating condition that continues to draw much attention. This activity presents current in-depth research and general information concerning schizophrenia that will illuminate the complexity of the development and treatment of this disorder.
 
 - [**Schizophrenia**](http://schizophrenia.com/){target="_blank”}  
@@ -4988,7 +5109,8 @@ Schizophrenia is a truly fascinating condition that continues to draw much atten
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Before the development of modern psychology, how do you think people suffering from schizophrenia were treated? How much better is treatment today?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Personality Disorders
 
@@ -5004,7 +5126,8 @@ A former professor at UBC, Dr. Robert Hare (an internationally known expert on a
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Recall from Chapter 12 that our personalities allow others to predict and anticipate our responses to situations. A person with a “healthy” personality demonstrates a range of coping responses and styles when placed in a stressful situation. However, a disordered personality does not have this kind of adaptability and flexibility. At times, the person doesn’t feel they like they have any problems, at other times, the lack of adaptability and the limited repertoire of coping responses can result in distress for the person and for those around him or her. In this activity, you can gain more insight into defined patterns of personality disorders.
 
 - [**Personality Disorders**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/personality-disorders){target="_blank”}  
@@ -5021,11 +5144,13 @@ In order to review some of the major terms from Chapter 15 in your textbook, tak
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Do you ever wonder if someone you know seems to have a personality disorder? What are some indications that you have seen that make you curious if there may be a problem? (If you don’t know anyone personally, you can describe someone you know about or have seen in a movie/TV show.)***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 10, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 <span class="blockhead">Learning Lab</span>
@@ -5039,11 +5164,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 |-|-|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Sometimes to fairly often:  Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion;  Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Very often to nearly always:  Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion,  Makes insightful or constructive comments,  Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology associated with defining and classifying psychological disorders, personality and dissociative disorders, anxiety, obsessive-compulsive, and depressive disorders, and schizophrenia.  
@@ -5063,7 +5190,8 @@ Before you move on to the next unit, check that you are able to:
 - Describe how different neurotransmitters affect individuals with schizophrenia and the genetic and environmental contributions to this disorder.  
 
 - Analyze claims that schizophrenia is related to genius or violent behaviour.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:11-u10.Rmd-->
 
@@ -5091,7 +5219,8 @@ By the end of this unit, student's will be able to:
 
 ### Activity Checklist {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Here is a checklist of learning activities you will benefit from in
 completing this unit. You may find it useful for planning your work:
 
@@ -5443,7 +5572,8 @@ completing this unit. You may find it useful for planning your work:
 <span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -5478,7 +5608,8 @@ In a work for Christian counselors, Koteskey (1983) gives the example of his eig
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 For many people unfamiliar with the journey of counselling, finding suitable resources may feel daunting. It is important to know that there are many different approaches designed to help you accomplish the growth goals you have for your life. In this activity, the first resource, Psych Central is the oldest peer-reviewed psychology and mental health network on the Internet. Established in 1992, originally it was an index to mental health. Now it gives you the opportunity to see some treatment options for a wide variety of conditions. Additionally, there is a resource on different theoretical approaches to behavior change, and a link to some information concerning the integration of Christianity and psychotherapy.
 
 - [**PsychCentral**](https://psychcentral.com/){target="_blank”}  
@@ -5493,11 +5624,13 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?***  
 
 ***As we approach our final unit, please take a moment to look ahead to the "Term Paper" tab. Here you will find important information that ties to completing the course. It is important to begin preparing now, for these final assessments, in order to manage your time and avoid being overwhelmed. Not only will you have to complete your Quiz #3 at the end of Unit 12, but you will also be responsible for submitting a Term Paper and writing a Final Exam- it is strongly recommended that you begin planning now!***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 While there is no "formal" assignment that you will be responsible for submitting for Unit 11, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 <span class="blockhead">Learning Lab</span>
@@ -5511,11 +5644,13 @@ Your facilitator will be providing a participation mark based on your contributi
 | Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
 |-|-|-|
 |Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology related to health psychology, stress and illness, and coping and well-being.  
@@ -5527,7 +5662,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:12-u11.Rmd-->
 
@@ -5562,7 +5698,8 @@ By the end of this unit, student's will be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <!-- [plugin:content-inject](_schedule) -->
 
 
@@ -5589,7 +5726,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Upon completing this unit, you will be writing your Quiz #3. This will be 60 multiple choice questions that cover content learned since Unit 9.  
 
 ***After completing Unit 12, you will be responsible for writing a final exam and submitting a term paper.***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ### Resources {-}
 
@@ -5618,7 +5756,8 @@ Paul Pedersen (1985; 1987; 2000) suggests that we do not need to look at culture
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 As mentioned earlier, this activity gives you an opportunity to explore the American Psychological Association (APA) website. In many ways, the APA leads the discipline and profession of psychology. It is an excellent resource for finding information on a number of areas of psychology, contemporary issues in psychology, a plethora of resources for self-help. They also have the opportunity for students to become student affiliates and enjoy member privileges that will contribute to your development as a professional. Follow the link below:
 
 - [**American Psychological Association**](https://www.apa.org/){target="_blank”}  
@@ -5629,7 +5768,8 @@ As mentioned earlier, this activity gives you an opportunity to explore the Amer
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
 - ***Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Biological Treatments
 
@@ -5654,7 +5794,8 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 ## Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 It is important, when considering biological treatments, to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters. To learn more, read below:
 
 - [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.webmd.com/depression/guide/electroconvulsive-therapy#1){target="_blank”}
@@ -5666,7 +5807,8 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”***
 - ***Will biological therapies eventually replace old style talk therapies?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Preventing Problems
 
@@ -5691,7 +5833,8 @@ Being aware of the possible causes of psychological problems as well as the appr
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.
 
 - [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
@@ -5704,11 +5847,13 @@ Prior to your Learning Lab, take some time to think about the following question
 
 - ***What role do your religious or other beliefs play in your efforts to avoid psychological difficulties and promote growth?***
 - ***Do your beliefs affect your choice of the kind of help you would look for?***
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 In addition to your participation in this unit's Learning Lab, you will also be responsible for completing **Quiz #3** - more information can be found by scrolling down to the bottom of the page.
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -5727,11 +5872,13 @@ Your instructor will provide additional instructions. Student's will be provided
 
 
 **REMEMBER:** *You are also responsible for two final assessments found on the "Final Assessments" page*
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define, and apply, the key terminology related to health psychology, stress and illness, and coping and well-being.  
@@ -5743,7 +5890,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:13-u12.Rmd-->
 
@@ -5778,7 +5926,8 @@ In their introduction, the author(s) will describe previous research. In your su
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Read and Reflect</span>
 
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
@@ -5801,7 +5950,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Final Assessments</span>
 
 - As mentioned, each student will be responsible for submitting a Term Paper, as well as completing a Final Exam. More information can be found by clicking on the **"Final Assessment"** tab at the top of the screen.  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Evaluating Therapy
 
@@ -5824,7 +5974,8 @@ Paul Pedersen (1985; 1987; 2000) suggests that we do not need to look at culture
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 As mentioned earlier, this activity gives you an opportunity to explore the American Psychological Association (APA) website. In many ways, the APA leads the discipline and profession of psychology. It is an excellent resource for finding information on a number of areas of psychology, contemporary issues in psychology, a plethora of resources for self-help. They also have the opportunity for students to become student affiliates and enjoy member privileges that will contribute to your development as a professional. Follow the link below:
 
 - [**American Psychological Association**](https://www.apa.org/){target="_blank”}  
@@ -5834,7 +5985,8 @@ As mentioned earlier, this activity gives you an opportunity to explore the Amer
 Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
 
  - ***Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Biological Treatments
 
@@ -5859,7 +6011,8 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 It is important, when considering biological treatments, to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters. To learn more, read below:
 
 - [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.webmd.com/depression/guide/electroconvulsive-therapy#1){target="_blank”}  
@@ -5873,7 +6026,8 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”***  
 
 - ***Will biological therapies eventually replace old style talk therapies?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Preventing Problems
 
@@ -5898,7 +6052,8 @@ Being aware of the possible causes of psychological problems as well as the appr
 
 ### Activity: Read and Reflect {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.
 
 - [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
@@ -5914,11 +6069,13 @@ Prior to your Learning Lab, take some time to think about the following question
 - ***What role do your religious or other beliefs play in your efforts to avoid psychological difficulties and promote growth?***  
 
 - ***Do your beliefs affect your choice of the kind of help you would look for?***  
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Assessment {-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 In addition to your participation in this unit's Learning Lab, you will also be responsible for completing **Quiz #3** - more information can be found by scrolling down to the bottom of the page.
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -5937,11 +6094,13 @@ Your instructor will provide additional instructions. Student's will be provided
 
 
 **REMEMBER:** *You are also responsible for two final assessments found on the "Final Assessments" page*
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ## Checking your Learning {-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define, and apply, the key terminology related to health psychology, stress and illness, and coping and well-being.  
@@ -5953,7 +6112,8 @@ Before you move on to the next unit, check that you are able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
-</div>\EndKnitrBlock{progress}
+
+\EndKnitrBlock{progress}
 
 <!--chapter:end:14-u13.Rmd-->
 
@@ -5984,18 +6144,22 @@ When you have completed this unit, you should be able to:
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 <span class="blockhead">Learning Activities </span>
 
 - Chapter 1: sections 1.1, 1.2, 1.3 of the course text *Principles of Management.*  
 - Read or listen to the blog post from Bill Davis, *5 Principles of Great Management*, and reflect on the chart provided.  
-</div>\EndKnitrBlock{reflect}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\EndKnitrBlock{reflect}
+
+\BeginKnitrBlock{assessment}
+
 <span class="blockhead">Assessment</span> 
 
 - Unit 2 Team Memo  
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ### Resources {-}
 
@@ -6010,7 +6174,8 @@ Here are the resources you will need to complete this unit.
 
 ### Activity: Introductory Readings & Video {-}
 
-\BeginKnitrBlock{reflect}<div class="reflect">
+\BeginKnitrBlock{reflect}
+
 - Read ...  
 - Watch this short informative video that helps you understand the competitive environment by using the case of Amazon books Vs. Independent bookstores.  
 
@@ -6030,7 +6195,8 @@ After watching the above video, consider the following questions:
 - ...  
 
 **Note:** *Learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
-</div>\EndKnitrBlock{reflect}
+
+\EndKnitrBlock{reflect}
 
 ## Topic 2 Title
 
@@ -6046,7 +6212,8 @@ After watching the above video, consider the following questions:
 
 ## Assessment{-}
 
-\BeginKnitrBlock{assessment}<div class="assessment">
+\BeginKnitrBlock{assessment}
+
 <span class="blockhead">Assessment 1 Title</span>
 
 - Do a thing  
@@ -6058,11 +6225,13 @@ After watching the above video, consider the following questions:
 - Do another thing  
 
 **Note:** *This is an example of a note pertaining to an assessment*
-</div>\EndKnitrBlock{assessment}
+
+\EndKnitrBlock{assessment}
 
 ### Checking your Learning{-}
 
-\BeginKnitrBlock{progress}<div class="progress">
+\BeginKnitrBlock{progress}
+
 Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
 
 - Describe...  
@@ -6072,14 +6241,17 @@ Now that you have completed the learning activities and assignments for this uni
 - Create...  
 
 Feel free to review topics more in depth or continue on to the next unit.
-</div>\EndKnitrBlock{progress}
 
-\BeginKnitrBlock{caution}<div class="caution">
+\EndKnitrBlock{progress}
+
+\BeginKnitrBlock{caution}
+
 **Sample courses:** 
 
 - [LDRS 375](https://ba-leadership.github.io/ldrs375/){targt="_blank"}  
 - [LDRS 440](https://ba-leadership.github.io/ldrs440/){target="_blank"}  
-</div>\EndKnitrBlock{caution}
+
+\EndKnitrBlock{caution}
 
 <!--chapter:end:97-sample-unit.Rmd-->
 
