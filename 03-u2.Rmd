@@ -26,7 +26,7 @@ By the end of this unit, students will be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-
+### Learning Activities
 <!-- [plugin:content-inject](_schedule) -->
 
 <span class="blockhead">Read and Reflect</span>
