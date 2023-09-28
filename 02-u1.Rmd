@@ -37,11 +37,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <!-- [plugin:content-inject](_schedule) -->
 
+```{block2, type='reflect'}
 
+<span class="blockhead">Learning Activity : Read and Reflect</span>
 
-<span class="blockhead">Read and Reflect</span>
-
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
+- Read *Chapters 2 and 8 in Krause et al. (2024). Revel for An Introduction to Psychological Science, 4th Canadian Edition*. 
 - Review **UNIT 1 Slides**
 
 <details> <summary>CLICK HERE</summary>
@@ -539,13 +539,6 @@ Networks</h5>
 
 **Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 1- Slides" link.*
 
-
-
-### Learning Activities: {-}
-
-
-```{block2, type='reflect'}
-
 <span class="blockhead">Chapter 2 Review Quiz</span>
 
 - Practice Quiz to self-assess your own comprehension of important terms from Chapter 2.  
@@ -563,7 +556,7 @@ Networks</h5>
 
 - Article introduces visualization and provides an opportunity to practice this skill.  
 
-<span class="blockhead">Learning Lab Preparatione</span>
+<span class="blockhead">Learning Lab Preparation</span>
 
 - Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
@@ -571,9 +564,9 @@ Networks</h5>
 
 ### Resources {-}
 
-Here are some additional resources that will help you complete this unit:
+Here are the resources you will need to complete this unit:
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science*, 4th Canadian Edition. Pearson Ed.
 - Other resources will be provided online.  
 
 ## What is Psychology
@@ -597,7 +590,7 @@ I think psychology is one of the most interesting areas of study there is, first
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Chapter 2 Review Quiz</span>
+<span class="blockhead">Activity: Chapter 2 Review Quiz</span>
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
