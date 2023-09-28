@@ -310,7 +310,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are some additional resources that will help you complete this unit:
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed. 
 - Other resources will be provided online.  
 
 ## Psychoanalytic View
@@ -498,7 +498,7 @@ In summary, the Social-Cognitive view recognizes the mutual interdependence (“
 Who we are is, in large part, shaped by the environment in which live. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
 
 - [**Learned Helplessness**](http://www.ldonline.org/article/6154/){target="_blank”}  
-- [**Learned Optimism Test**](https://web.stanford.edu/class/msande271/onlinetools/LearnedOpt.html){target="_blank”}  
+- [**Learned Optimism**](https://nesslabs.com/learned-optimism){target="_blank”}  
 
 The above resources will help you to think about how your environment can impact your sense of agency (the ability to choose your behaviours to impact the environment) and how your sense of agency can influence your environment. This demonstrates the key idea of Social-Cognitive Theory, that you are in a constant, dynamic relationship with your environment and each factor is shaped by the other.
 
