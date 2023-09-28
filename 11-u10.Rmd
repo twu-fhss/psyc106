@@ -490,7 +490,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete this unit:
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
 
 ## Looking at What is Normal and Anxiety Disorders
@@ -519,9 +519,9 @@ Here is a list of comparisons between normal personality characteristics on the 
 
 The following articles augment your understanding of the descriptions of the disorders discussed in the textbook and provide opportunity to understand more about anxiety disorders. Due to the pervasiveness of disorders, especially anxiety related problems, this information could prove invaluable in helping yourself and others find hope and help in challenging circumstances. There is also an excellent write up on the many valid criticisms of being overly dependent on the DSM as a resource.
 
-- [**Psychological Problems and Disorders**](http://www.psychologyinfo.com/problems/){target="_blank”}  
-- [**Anxiety Disorders**](http://www.psychologyinfo.com/problems/anxiety.html){target="_blank”}  
-- [**Criticism of America's Diagnostic Bible- The DSM**](http://www.oregoncounseling.org/Diagnosis/CriticismOfDSM.htm){target="_blank”}  
+- [**Psychological Problems and Disorders**](https://psychologyinfo.com/){target="_blank”}  
+- [**Anxiety Disorders**](https://psychologyinfo.com/){target="_blank”}  
+- [**Criticism of America's Diagnostic Bible- The DSM**](https://www.pchtreatment.com/dsm-5-issues/){target="_blank”}  
 
 <span class="blockhead">Learning Lab Preparation</span>
 
@@ -563,7 +563,7 @@ In the end, people with major depression were at least three times as likely as 
 
 How do you know the difference between depression and normal sadness? In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. Additionally, though children may suffer from a disorder, there are additional challenges in noticing it in them due to their immature language, cognitive, and emotion processing abilities and developmental stage. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.
 
-- [**Information about Depression**](http://www.psychologyinfo.com/problems/depression.html){target="_blank”}  
+- [**Information about Depression**](https://psychologyinfo.com/){target="_blank”}  
 - [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577){target="_blank”}  
 
 <span class="blockhead">Learning Lab Preparation</span>
