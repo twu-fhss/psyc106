@@ -35,71 +35,12 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
 - Review [*Unit 4 - Slides*]  
 
-//todo #4
-
-<details> <summary>CLICK HERE</summary>
-
-<h5>Chapter 10 - Lifespan Development</h5>
-
-<h5>Psalm 92:12-15</h5> 
-
-| ^12^ The righteous will flourish like a palm tree, they will grow like a cedar of Lebanon;  
-| ^13^ planted in the house of the Lord, they will flourish in the courts of our God.  
-| ^14^ They will still bear fruit in old age, they will stay fresh and green,  
-| ^15^ proclaiming, “The Lord is upright; he is my Rock, and there is no wickedness in him.”  
-
-//todo #3
-
--  Video: (Annie Murphy Paul: What we learn before we're born)[http://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born.html]{target="_blank”}..
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology related to prenatal and infant physical development.  
-- Understand pros and cons to different research designs in developmental psychology.  
-- Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus.  
-- Analyze the effects of preterm birth.  
-
-<h5>Developmental Psychology</h5>
-
-- Developmental psychology (p. 362)  
-- Early development influences later behaviours  
-
-![](assets/unit_4/slide_7.png)
-
-*Slide showing - Cross-Sectional and Longitudinal Methods*
-
-<h5>Developmental Psychology</h5>
-
-</details>
-
-
-**Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 4 - Slides" link.*
-
-<span class="blockhead">Relationships and Aging</span>
-
-- Read about Erikson's Eight Psychosocial Stages that highlight the importance of relationships in healthy aging.  
-
-<span class="blockhead">Death and Dying</span>
-
-- Take a moment to read through some resources that are focused on aging and dying. These readings are intended to provoke thought around the inevitability of death.  
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-
-<span class="blockhead">Assessment</span>
-
-- At the end of this unit, not only will you be assessed on your participation during the Learning Lab discussions, but you will also be responsible for submitting your first writing assignment.  
-
-- ***Writing Assignment #1*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
-
-- After completing this assignment, you will also be expected to complete ***Quiz #1.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
 
 ```
 
 ### Resources {-}
 
-Here are some additional resources that will help you complete this unit:
+Here are the resources you will need to complete this unit:
 
 - Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed. 
 - Other resources will be provided online.  
