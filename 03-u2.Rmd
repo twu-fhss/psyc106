@@ -27,7 +27,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Learning Activity</span>
+<span class="blockhead">Learning Activities</span>
 
 - Read Chapter 9 of your textbook
 - Review Unit 2 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
