@@ -21,23 +21,34 @@ By the end of this unit, students will be able to:
 - Apply the concepts of entity theory and incremental theory to help kids succeed in school, to identify examples from the triarchic and multiple theories of intelligence, and to recognize environmental and behavioural effects on intelligence to understand how to enhance your own cognitive abilities.  
 - Analyze why it is difficult to remove all cultural bias from intelligence testing and whether teachers should spend time tailoring lessons to each individual student’s learning style.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-
-<!-- [plugin:content-inject](_schedule) -->
 
 <span class="blockhead">Learning Activity</span>
 
 - Read Chapters 2 and 8 of your textbook
 - Review Unit 1 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
 - Complete the Chapter 2 Review Question (ungraded)
-- Complete the Problem-Solving Activity (ungraded)
-- Explore the Problem-Solving Practice Activity
+- Complete the Problem Solving Activity (ungraded)
+- Explore the Problem Solving Practice Activity
 - Read the article Introduction to Visualization
-  Krause et al. (2024). Revel for An Introduction to Psychological Science, 4th Canadian Edition.
+
+```
+
+```{block2, type='caution'}
+
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+
+```
+
+```{block2, type='assessment'}
+
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
 
