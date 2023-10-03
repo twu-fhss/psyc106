@@ -25,39 +25,36 @@ By the end of this unit, student's will be able to:
 - Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus, how to promote learning, and how to categorize moral reasoning.  
 - Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<!-- [plugin:content-inject](_schedule) -->
+<span class="blockhead">Learning Activities</span>
 
-<span class="blockhead">Read and Reflect</span> 
-
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Continue our study of development - in particular, some of the major changes adolescents go through in their growth.  
-- Review *Unit 3 - Slides*  
-
-
-
-<span class="blockhead">Designer Babies</span>
-
- - Explore and reflect upon this contemporary and controversial issue. Designer babies pose many ethical issues and requires careful consideration.
-
-<span class="blockhead">Cognitive Change</span>
-
- - Reflect on your own development before taking a "test" to develop additional insights into your own developmental trajectory.
-
-<span class="blockhead">Terminology Practice</span>
-
-- Take this flip-card activity to self-evaluate how well you know some of the important terms from Chapter 10.   
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
+- Read Chapter 10 of your textbook
+- Review Unit 3 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Read about *Designer Babies* and reflect on the controversial topic
+- Reflect and take the *Cognitive Change* test
+- Complete the Terminology Practice flip-card activity (ungraded)
 
 ```
+
+```{block2, type='caution'}
+
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+
+```
+
+```{block2, type='assessment'}
+
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
+
+```
+
 
 ### Resources {-}
 
