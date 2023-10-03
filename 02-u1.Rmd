@@ -541,39 +541,29 @@ Networks</h5>
 
 
 
-### Learning Activities: {-}
+### Activity Checklist: {-}
 
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Chapter 2 Review Quiz</span>
+<span class="blockhead">Learning Activity</span>
 
-- Practice Quiz to self-assess your own comprehension of important terms from Chapter 2.  
-- Not for formal evaluation.  
-
-**Problem Solving Activity**
-
-- Solve some problems by utilizing some of the cognitive strategies we learned about in this topic.  
-
-<span class="blockhead">Problem Solving Practice</span>
-
-- Explore problem solving activities and reflect on the strategies you incorporate as you discover solutions.  
-
-<span class="blockhead">Introduction to Visualizatione</span>
-
-- Article introduces visualization and provides an opportunity to practice this skill.  
-
-<span class="blockhead">Learning Lab Preparatione</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
+- Read Chapters 2 and 8 of your textbook
+- Review Unit 1 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Complete the Chapter 2 Review Question (ungraded)
+- Complete the Problem Solving Activity (ungraded)
+- Explore the Problem Solving Practice Activity
+- Read the article Introduction to Visualization
+  
 
 ```
 
 ### Resources {-}
 
-Here are some additional resources that will help you complete this unit:
+Here are the resources you will need to complete this unit:
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- •Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
 
 ## What is Psychology
