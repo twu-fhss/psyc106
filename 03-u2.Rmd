@@ -29,12 +29,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 <span class="blockhead">Learning Activity</span>
 
-- Read Chapters 2 and 8 of your textbook
-- Review Unit 1 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
-- Complete the Chapter 2 Review Question (ungraded)
-- Complete the Problem Solving Activity (ungraded)
-- Explore the Problem Solving Practice Activity
-- Read the article Introduction to Visualization
+- Read Chapter 9 of your textbook
+- Review Unit 2 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Explore the Intelligence Testing Resources
+- Perform the I.Q. Testing (from provided resources)
+- Complete the Chapter 9 Key Terms Quiz (ungraded)
 
 ```
 
