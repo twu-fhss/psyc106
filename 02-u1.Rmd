@@ -96,6 +96,8 @@ I think psychology is one of the most interesting areas of study there is, first
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=78" width="648" height="969" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Chapter 2 Review"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ```
 
 ## Thinking and Problem Solving
