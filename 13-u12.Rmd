@@ -64,7 +64,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete this unit:
 
-- Krause, M., Corts, D., Smith, S. C., & Dolderman, D. (2018). *Revel for An Introduction to Psychological Science, 2nd Canadian Edition.* Pearson Ed.  
+- Krause, M., Corts, D., & Smith, S. C. (2024). *Revel for An Introduction to Psychological Science, 4th Canadian Edition.* Pearson Ed.  
 - Other resources will be provided online.  
 
 ## Evaluating Therapy
@@ -129,7 +129,7 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 It is important, when considering biological treatments, to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters. To learn more, read below:
 
-- [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.webmd.com/depression/guide/electroconvulsive-therapy#1){target="_blank”}
+- [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/electroconvulsive-therapy){target="_blank”}
 - [**International Society for Neuroregulation and Research**](https://isnr.org/){target="_blank”}
 
 <span class="blockhead">Learning Lab Preparation</span>
@@ -170,7 +170,7 @@ Looking intently at how you are spending your time and taking preventative steps
 
 - [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
 - [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}  
-- [**Rights and Responsibilities in Psychotherapy**](assets/unit_12/Rights-and-Responsibilities-in-Psychotherapy.pdf){target="_blank”}  
+- [**Rights and Responsibilities in Psychotherapy**](https://psychcentral.com/blog/your-patient-rights-in-therapy#1){target="_blank”}  
 
 <span class="blockhead">Learning Lab Preparation</span>
 

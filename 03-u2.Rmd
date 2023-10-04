@@ -21,269 +21,33 @@ By the end of this unit, students will be able to:
 - Apply the concepts of entity theory and incremental theory to help kids succeed in school, to identify examples from the triarchic and multiple theories of intelligence, and to recognize environmental and behavioural effects on intelligence to understand how to enhance your own cognitive abilities.  
 - Analyze why it is difficult to remove all cultural bias from intelligence testing and whether teachers should spend time tailoring lessons to each individual student’s learning style.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<!-- [plugin:content-inject](_schedule) -->
-
 <span class="blockhead">Learning Activities</span>
 
-  <span class="blockhead">Read and Reflect</span>
+- Read Chapter 9 of your textbook
+- Review Unit 2 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Explore the Intelligence Testing Resources
+- Perform the I.Q. Testing (from provided resources)
+- Complete the Chapter 9 Key Terms Quiz (ungraded)
 
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review **Unit 2 - Slides**
+```
 
-<details> <summary>CLICK HERE</summary>
+```{block2, type='caution'}
 
-<h5>An Introduction to Psychological Science - Chapter 9:Intelligence Testing </h5> 
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
-- Chapter 9 – Intelligence Testing  
-  - Biblical Word Study Related to Ch. 8  
+```
 
-<h5>Proverbs 2:6</h5> 
+```{block2, type='assessment'}
 
-- | ^6^ For the LORD gives wisdom, and from his mouth come knowledge and understanding.  
-
-<h5>Greek Word Study</h5> 
-
-- Wisdom  
-  - Gr. $\Sigma\omicron\phi\iota\alpha$ (Sophia) (Noun) – wisdom in general, knowledge; ability; practical wisdom, prudence; learning, science; scientific skill; professed wisdom, human philosophy, superior knowledge and enlightenment; in N.T. divine wisdom, Christian enlightenment  
-- Wise  
-  - Gr. $\Sigma\omicron\phi\omicron\varsigma$ (Sophos) (Adjective) – wise generally; shrewd, clever; learned, intelligent; in N.T. divinely instructed; furnished with Christian wisdom, spiritually enlightened
-- Intelligence  
-  - Gr.$\Sigma\upsilon\nu\eta\sigma\iota\varsigma$ (Noun) – pr. a sending together, a junction, as of streams; met. understanding, intelligence, discernment; the understanding, intellect, mind  
-- Intelligent  
-  - Gr. $\Sigma\upsilon\nu\eta\tau\omicron\sigma$ (Synetos) (Adj.) – intelligent, discerning, wise, prudent (cautious; worldly wise; exercising sound judgment)  
-
-<h5>The Psychology of Wisdom</h5> 
-
-- Difficult life dilemmas:
-  - “A 15yearold girl wants to get married right away. What should one/she do and consider?” 
-- Or, “Imagine a good friend of yours calls you up and tells you that she can’t go on anymore and has decided to commit suicide. What would one/you be thinking about? How would one deal with this situation?”  
-- Or, “A 60 year old widow has recently completed a college degree and opened a business, only to learn that her son has been left alone with two small children to care for. What should she do?”  
-
-![](assets/unit_2/slide_9.png)
-
-*Modules*
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology associated with intelligence and intelligence testing.  
-- Understand the reasoning behind the eugenics movements and its use of intelligence tests.  
-- Apply the concepts of entity theory and incremental theory to help kids succeed in school.  
-- Analyze why it is difficult to remove all cultural bias from intelligence testing.  
-
-<h5>Different Approaches to Intelligence Testing (1 of 2)</h5>
-
-- Sir Francis Galton  
-  - Anthropometrics (p. 329)  
-- Alfred Binet  
-  - Intelligence (p. 330)  
-  - Mental age (p. 330)  
-- Lewis Terman  
-  - Stanford-Binet Test (p. 330)  
-- William Stern  
-  - Intelligence Quotient (IQ) (p. 330)  
-
-![](assets/unit_2/slide_12.png)
-
-*Slide showing - The Normal Distribution of Scores for a Standardized Intelligence Test*
-
-
-![](assets/unit_2/slide_13.png)
-
-*Slide showing - Subscales of the Wechsler Adult Intelligence Scale*
-
-![](assets/unit_2/slide_14.png)
-
-*Slide showing - The Wechsler Adult Intelligence Scale*
-
-![](assets/unit_2/slide_15.png)
-
-*Slide showing - Sample Problem from Raven’s Progressive Matrices*
-
-<h5>The Checkered Past of Intelligence Testing</h5>
-
-- IQ Testing and Eugenics  
-  - Historical context  
-  - Social Darwinism  
-  - Eugenics  
-
-<h5>The Race and IQ Controversy</h5> 
-
-- Racial differences in IQ scores Problems with the racial superiority interpretation  
-  - Culturally biased test content  
-  - Culturally biased test process  
-  - Stereotype threat (p. 336)  
-
-<h5>Working the Scientific Literacy Model: Beliefs About Intelligence</h5> 
-
-- What do we know about the kinds of beliefs that may affect test scores?  
-  - Entity theory (p. 336)  
-  - Incremental theory (p. 336)  
-- How can science test whether beliefs affect performance?  
-
-![](assets/unit_2/slide_19.png)
-
-*Slide showing - Personal Beliefs Influence Grades*
-
-- Can we critically evaluate this research?  
-- Why is this relevant?  
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology related to understanding intelligence.  
-- Understand why intelligence is described as a hierarchy.  
-- Understand intelligence differences between males and females.  
-- Apply your knowledge to identify examples that reflect fluid vs. crystallized intelligence.  
-- Analyze whether teachers should spend time tailoring lessons to each individual student’s learning style.  
-
-<h5>Intelligence as a Single, General Ability</h5>
-
-- Spearman’s general intelligence  
-  - General intelligence factor, “g” (p. 340)  
-
-![](assets/unit_2/slide_23.png)
-
-*Slide showing - General Intelligence Is Related to Many Different Life Outcomes*
-
-
-![](assets/unit_2/slide_24.png)
-
-*Slide showing - General Intelligence Is Related to Many Different Life Outcomes*
-
-<h5>Spearman’s General Intelligence</h5>
-
-- Does “g” tell us the whole story?  
-
-<h5>Intelligence as Multiple, Specific Abilities</h5>
-
-- Spearman  
-  - Two factors: “g” and “s”  
-- Thurstone  
-  - 7 primary mental abilities  
-- Hierarchical model of intelligence  
-  - Nesting  
-
-![](assets/unit_2/slide_26.png)
-
-*Slide showing - Fluid and Crystallized Intelligence*
-
-![](assets/unit_2/slide_27.png)
-
-*Slide showing - Measuring Fluid Intelligence*
-
-![](assets/unit_2/slide_28.png)
-
-*Slide showing - Measuring Crystallized Intelligence*
-
-- Can we critically evaluate crystalized and fluid intelligence?  
-  - Gf is a blend of several different cognitive abilities  
-  - Gf and Gc are not entirely separable  
-
-<h5>Why is this relevant?</h5>
-
-- Stereotypes related to intelligence and age  
-
-![](assets/unit_2/slide_30.png)
-
-*Slide showing - Gardner’s Proposed Forms of Intelligence*
-
-![](assets/unit_2/slide_31.png)
-
-*Slide showing - Gardner’s Proposed Forms of Intelligence*
-
-<h5>Myths in Mind: Learning Styles</h5>
-
-- Visual learners should learn more with visual materials?  
-  - Lack of supporting evidence  
-- Focus on learning the meaning  
-
-<h5>PSYCH @ The NHL</h5>
-
-- Head injuries in the NHL  
-- Chronic traumatic encephalopathy  
-- ImPACT  
-  - Regular testing checks for declines on specific abilities  
-
-<h5>The Battle of the Sexes?</h5>
-
-- Differences in intelligence?  
-  - No sex differences found  
-  - Male scores have greater variability  
-
-- Do males and females have unique cognitive abilities?  
-  - Females: verbal, memory, emotions  
-  - Males: visuospatial  
-  - Stereotype threat  
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology related to heredity, environment, and intelligence.  
-- Understand different approaches to studying the genetic basis of intelligence.  
-- Apply your knowledge of environmental and behavioural effects on intelligence to understand how to enhance your own cognitive abilities.  
-- Analyze the belief that older children are more intelligent than their younger siblings.  
-
-![](assets/unit_2/slide_36.png)
-
-*Slide showing - Intelligence and Genetic Relatedness*
-
-<h5>Working the Scientific Literacy Model: Brain Size and Intelligence</h5>
-
-- What do we know about brain size and intelligence?  
-  - Once believed brain size was related to intelligence  
-    - Contributed to prejudice  
-
-
-![](assets/unit_2/slide_38.png)
-
-*Slide showing - Does Intelligence Increase with Brain Size?*
-
-- Can we critically evaluate the issue?  
-  - Which abilities underlie the correlation?  
-  - Third-variable problem  
-
-- Why is this relevant?  
-  - Brain size and IQ used to understand clinical conditions  
-    - Prolonged anorexia nervosa and alcohol abuse  
-
-<h5>Environmental Influences on Intelligence</h5>
-
-- Nutrition  
-- Socioeconomic Status (SES)  
-- Stress  
-- Birth Order  
-- Education  
-
-![](assets/unit_2/slide_41.png)
-
-*Slide showing - The Flynn Effect*
-
-<h5>Behavioural Influences on Intelligence</h5>
-
-- Brain training programs  
-- Nootropic drugs (p. 358)  
-
-</details>
-
-**Note:** the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 2 - Slides" link.*
-
-<span class="blockhead">Intelligence Testing</span>
-
-- Take some intelligence tests for yourself. As you complete them, consider how they might be considered beneficial, and controversial, as measures of intelligence.  
-
-<span class="blockhead">I.Q. Testing</span>
-
-- Take some I.Q. Tests. Consider how valid and reliable these results are and think about how meaningful the results are.  
-
-<span class="blockhead">Ch. 9 Key Terms Quiz</span>
-
-- Practice quiz to assess how well you know key terms from Chapter 9.  
-- Not for formal evaluation.  
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
 
