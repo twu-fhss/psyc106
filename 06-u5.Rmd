@@ -23,288 +23,37 @@ By the end of this unit, student's will be able to:
 - Analyze the roots of violence and prejudice, roles of personality traits and psychological and physical states, and the genetic basis of personality in determining behaviour.  
 - Assess claims that males and females have fundamentally different personalities and whether projective tests are valid measures of personality.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
-<!-- [plugin:content-inject](_schedule) -->
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<span class="blockhead">Read and Reflect</span>
+<span class="blockhead">Learning Activities</span>
 
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-- Review **Unit 5- Slides**
+- Read the relevant sections of Chapter 10 of your textbook
+- Review Unit 4 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Read about *Erikson’s Eight Psychosocial Stages* that highlight the importance of relationships in healthy aging.
+- Read and Reflect: Explore the resources that focus on again and dying and consider how these concepts affect individuals.
 
-<details> <summary>CLICK HERE</summary>
-
-<h5>An Introduction to Psychological Science - Chapter 12 - Personality</h5>
-
-<h5>True or False?</h5>
-
-1. Freud believed that boys develop sexual desires for their mother when they are between 3 and 6 years of age.  
-2. One of the most reliable and valid measures of personality is the Rorschach inkblot test.  
-3. Dreams are disguised wish fulfillments that can be interpreted by skilled analysts.  
-4. Psychologists generally agree that painful experiences commonly get pushed out of awareness and into the unconscious.  
-5. Most Americans believe that self-esteem is very important for motivating a person to work hard and succeed.  
-6. Personality differences among dogs are as evident and as consistently judged as personality differences among humans.  
-7. Most people recognize that personality descriptions based on horoscopes are invalid.  
-8. From a few minutes’ inspection of our living and working spaces, someone can, with reasonable accuracy, assess our emotional stability.  
-9. Older people are happiest when they do not have to take responsibility for everyday decisions that affect their lives.  
-10. The majority of people suffer from low self-esteem.  
-
-<h5>Modules</h5>
-
-- Contemporary Approaches to Personality  
-- Cultural and Biological Approaches to Personality  
-- Psychodynamic and Humanistic Approaches to Personality  
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology associated with contemporary approaches to personality.  
-- Understand the behaviourist and social-cognitive views of personality.  
-- Apply self-report methods to understand your own personality.  
-- Analyze the personality roots of violence and prejudice.  
-- Analyze the relative roles of personality traits and psychological and physical states in determining behaviour.  
-
-<h5>Personality Exercise: Who am I?</h5>
-
-- Describe your own personality by simply answering the question “Who am I?” on a piece of paper. Write at the top of the page “I am . . .” and then list about 20 characteristics that describe you. List what you consider to be some of your own positive and negative personality qualities.  
-
-<h5>Personality Exercise: Some Terms</h5>
-
-- Sincere, honest, faithful, loyal, modest/unassuming, fair-minded, sly, greedy, pretentious, hypocritical, boastful, pompous, emotional, oversensitive, sentimental, fearful, anxious, vulnerable,  brave, tough, independent, self-assured, stable, intellectual, creative, unconventional, innovative, shallow, absentminded  
-- Outgoing, lively, extraverted, sociable, talkative, cheerful, active, shy, passive, withdrawn, introverted, quiet, reserved, patient, tolerant, peaceful, mild, agreeable, lenient, gentle, ill-tempered, stubborn, quarrelsome, choleric (easily angered), organized, disciplined, diligent, careful, thorough, precise, sloppy, negligent, reckless, lazy, irresponsible  
-
-<h5>Approaches to Studying Personality</h5>
-
-- Personality (p. 458)  
-- Idiographic approach (p. 458)  
-- Serial killer  
-- Person-centred  
-- Nomothetic approach (p. 458)  
-- Descriptive labels  
-
-<h5>The Trait Perspective</h5>
-
-- Personality traits (p. 459)  
-- Allport and Odbert  
-- 18,000 descriptors  
-- Factor analysis (p. 459)  
-
-![](assets/unit_5/slide_11.png)
-
-*Slide showing - The Big Five Personality Dimensions*
-
-<h5>Beyond the Big Five: The Personality of Evil?</h5>
-
-- Authoritarian Personality
-- HEXACO (p. 462)
-- Honesty-Humility
-- Right-wing authoritarianism (p. 463)
-- The Dark Triad (p. 462)
-- Machiavellianism
-- Psychopathy
-- Narcissism
-
-<h5>Working the Scientific Literacy Model: Right-Wing Authoritarianism at the Group Level </h5>
-
-- What do we know about RWA?  
-- More RWA in society – leads to prejudice, aggression  
-- How can science determine how RWA affects groups?  
-- Global Change Game  
-- Can we critically evaluate this research?  
-- External validity  
-- Chance  
-- Student participants  
-- Why is this relevant?  
-- 21st century warning bell  
-
-![](assets/unit_5/slide_15.png)
-
-*Slide showing - Personality Stability and Change over the Lifespan*
-
-<h5>Personality Traits and States</h5>
-
-- State (p. 466)  
-- Four general aspects of situations  
-  - Locations  
-  - Associations  
-  - Activities  
-  - Subjective states  
-
-![](assets/unit_5/slide_17.png)
-
-*Slide showing - Behavioural and Social-Cognitive Approaches to Personality*
-
-<h5>Learning Objectives</h5>
-
-- Know key terminology associated with cultural and biological approaches to personality.  
-- Understand how evolutionary theories explain personality.  
-- Apply your knowledge to arrive at accurate conclusions about the influences of biological and cultural factors on personality.  
-- Analyze claims that males and females have fundamentally different personalities.  
-- Analyze the genetic basis of personality.  
-
-<h5>Culture and Personality</h5>
-
-- Personality structures in different cultures  
-- Comparing personality traits between nations  
-- Challenges in cross-cultural research  
-- Response styles (p. 472)  
-
-![](assets/unit_5/slide_20.png)
-
-*Slide showing - How Genes affect Personality*
-
-<h5>Working the Scientific Literacy Model: From Molecules to Personality </h5>
-
-- What do we know about specific genes and personality?  
-  - Genes code for brain chemicals related to personality  
-    - Serotonin  
-- How do scientists study genes and personality?  
-
-![](assets/unit_5/slide_22.png)
-
-*Slide showing - Genes, Serotonin, and Personality*
-
-- Can we critically evaluate this evidence?  
-  - Multiple genes interact with environment  
-  - Should not infer causality  
-- Why is this relevant?  
-  - Understanding of biological basis of disorders  
-  - Better treatments  
-
-<h5>The Role of Evolution in Personality: Animal Behaviour</h5>
-
-- Big Five traits found in a number of species  
-  - Parus major  
-    - Some bold, others shy  
-- Chimpanzees  
-  - Extraversion, conscientiousness, and agreeableness  
-- Octopuses  
-  - Activity, reactivity, and avoidance  
-
-<h5>Why There Are So Many Different Personalities: The Evolutionary Explanation</h5>
-
-- Core personality traits across cultures  
-- Individuals select environments that match personality characteristics  
-
-<h5>MYTHS IN MIND: Men are from Mars, Women are from Venus</h5>
-
-- Gender differences greatly exaggerated  
-  - Influenced by resource availability  
-
-<h5>The Brain and Personality</h5>
-
-- Four Humours (400 BC)
-- Phrenology (1700s)
-- Extraversion and arousal: brain regions (1967)
-- Approach/Inhibition model of motivation (1991)
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology related to psychodynamic and humanistic approaches to personality.  
-- Understand how people use defense mechanisms to cope with conflicting thoughts and feelings.  
-- Understand the developmental stages Freud used to explain the origins of personality.  
-- Apply both psychodynamic and humanistic perspectives to explain personality.  
-- Analyze whether projective tests are valid measures of personality.  
-- Analyze the strengths and weaknesses of psychodynamic perspectives.  
-
-<h5>The Psychodynamic Perspective</h5>
-
-- Unconscious processes and psychodynamics  
-  - Sigmund Freud (1800s)  
-  - Key observations  
-    - Unconscious influences behaviour  
-    - Personality forms in early childhood  
-    - Mental representations shape behaviours  
-
-<h5>Unconscious Processes and Psychodynamics</h5>
-
-- Unconscious mind (p. 483)  
-  - Impulses and drives  
-- Conscious mind (p. 483)  
-  - Aware of these  
-
-![](assets/unit_5/slide_31.png)
-
-*Slide showing - Personality Stability and Change over the Lifespan*
-
-![](assets/unit_5/slide_32.png)
-
-*Slide showing - Examples of Some Major Defence Mechanisms*
-
-![](assets/unit_5/slide_33.png)
-
-![](assets/unit_5/slide_34.png)
-
-![](assets/unit_5/slide_35.png)
-
-*Slide showing - Freud’s Stages of Psychosexual Development*
-
-![](assets/unit_5/slide_36.png)
-
-*Slide showing - The Rorschach Inkblot Test*
-
-![](assets/unit_5/slide_37.png)
-
-*Slide showing - The Thematic Apperception Test*
-
-![](assets/unit_5/slide_38.png)
-
-*Slide showing - Figure Drawing as a Projective Test*
-
-<h5>Working the Scientific Literacy Model: Perceiving Others as a Projective Test</h5>
-
-- What do we know about the way people perceive others?  
-  - We make assumptions of others  
-    - May reflect our personality  
-- How can scientists study how projection relates to personality?  
-  - Self-ratings on Big Five can been seen in perceptions of others  
-- Can we critically evaluate this research?  
-  - Small correlations  
-  - Only with positive and negative attributions  
-- Why is this relevant?  
-  - Problems and controversy with projective tests  
-    - Need more objective measures  
-
-<h5>Alternatives to the Psychodynamic Approach</h5>
-
-- Carl Jung (1875-1961)  
-  - Analytical psychology (p. 490)  
-  - Personal, Collective unconscious (p. 490)  
-  - Archetypes (p. 490)  
-- Alfred Adler (1870-1937) and Karen Horney (1885-1952)  
-  - Inferiority complex (p. 490)  
-
-<h5>Humanistic Perspectives</h5>
-
-- Carl Rogers, Abraham Maslow  
-  - Self-actualization (p. 491)  
-  - Person-centred perspective (p. 491)  
-
-</details>
-
-*Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 5- Slides" link.*
-
-- This Learning Activity is an opportunity to explore dreams and birth order, two of the constructs that help shape and reflect who we are as individuals. Keep in mind, though, there are many different theories and interpretations on the role dreams and birth order play.  
-- The humanistic view, as it relates to personality, sees self-esteem as key ingredient for success in life. The articles in this activity illuminate how a healthy self-esteem can benefit personality development. It will also be helpful for preparation for discussion this week.  
-- In this activity you will have the opportunity to analyze the power of the environment in influencing your perceived options. The concepts of Learned Helplessness vs. Learned Optimism will be used to highlight how important environmental factors are.  
-
-<span class="blockhead">Practice, Read, and Reflect</span>
-
-- In this activity you will have the opportunity to take a personality test (from a list of options). I would encourage you to interact with the results and ponder whether or not you think the test is accurate or inaccurate and whether or not the information provided seems unique to you or could it be applied to anyone given the right situation.  
-
-<span class="blockhead">Key Terms Quiz</span>
-
-- Practice quiz to assess how well you know key terms from Chapter 12.  
-- Not for formal evaluation.  
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
 ```
+
+```{block2, type='caution'}
+
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+
+```
+
+```{block2, type='assessment'}
+
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
+
+```
+
+
 
 ### Resources {-}
 
