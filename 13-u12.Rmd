@@ -25,38 +25,35 @@ By the end of this unit, student's will be able to:
 - Describe how the drugs described in this module, and the other major medical approaches to therapy, affect brain functioning.  
 
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<!-- [plugin:content-inject](_schedule) -->
+<span class="blockhead">Learning Activities</span>
+
+- Read the relevant sections of Chapter 16 of your textbook
+- Review Unit 12 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Read and reflect about the section from the *American Psychological Association*
+- Read and reflect about the articles *Electroconvulsive Therapy and Other Depression Treatments* and *International Society for Neuroregulation and Research*
+- Read and reflect about the articles *Psychology Help Center,* *How to Choose a Therapist,* and *Rights and Responsibilities in Psychotherapy*
 
 
-<span class="blockhead">Read and Reflect</span>
 
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-//todo #8
-- Review [*Unit 12 - Slides*](PSYC106-CH16Therapies3rdEd.pptx)  
+```
 
-*Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 12 - Slides" link.*
+```{block2, type='caution'}
 
-- This activity gives you an opportunity to explore the American Psychological Association website. In many ways, the APA leads the discipline and profession of psychology. It is an excellent resource for finding information on a number of areas of psychology, contemporary issues in psychology, a plethora of resources for self-help. They also have the opportunity for students to become student affiliates and enjoy member privileges that will contribute to your development as a professional.  
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
-- It is important when considering biological treatments to receive input from more than one professional and to do adequate research on the treatment to understand the potential risks and benefits. This activity serves as a resource for electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), and vagus nerve stimulation (VNS) as treatments for depression. It also has a link to explore an alternative therapy known as neurotherapy/neurofeedback, which is a safe (when administered by a well-trained professional), non-invasive option for a number of different developmental and psychological matters.  
+```
 
-- Looking intently at how you are spending your time and taking preventative steps to contribute to your mental/emotional health and overall well-being is a great gift to give to yourself (and ultimately others). This activity offers a resource where you can find information on a variety of (usually research-based) preventative strategies. Moreover, if you decide that you would like to explore therapy for yourself, there are resources here to inform you as to how to find a suitable therapist and what some of your rights and responsibilities are in therapy.  
+```{block2, type='assessment'}
 
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-
-<span class="blockhead">Assessment</span>
-
-- Upon completing this unit, you will be writing your Quiz #3. This will be 60 multiple choice questions that cover content learned since Unit 9.  
-
-***After completing Unit 12, you will be responsible for writing a final exam and submitting a term paper.***
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
 
