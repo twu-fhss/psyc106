@@ -25,50 +25,37 @@ By the end of this unit, student's will be able to:
 - Analyze whether media depictions of smoking affect smoking in adolescents, the claim that ulcers are caused by stress, and whether activities such as relaxation techniques, meditation, and biofeedback actually help people cope with stress and problems.  
 - Describe how control over the environment and positive and negative styles of coping influences well-being.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+<span class="blockhead">Learning Activities</span>
 
-<!-- [plugin:content-inject](_schedule) -->
-
-<span class="blockhead">Read and Reflect</span>
-
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-//todo #6
-- Review [*Unit 9 - Slides*](PSYC106-CH14HealthStressandCoping3rdEd.pptx)  
-
-*Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 9 - Slides" link.*
-
-<span class="blockhead">Personal Reflection</span>
-
-If you are like most people, you likely have experienced some form of relational stress. Three common ways of handling this form of stress are to become aggressive, submissive, or assertive. In this activity, you look these different interpersonal conflict responses and determine what kind of outcome will likely follow a particular approach.
-
-<span class="blockhead">Watch, Read, and Reflect</span>
-
-In this activity you will watch Dr. Kelly McGonigal use some groundbreaking research to help people transform their perspective on stress. This just over 14 minute TED talk could actually change the course of your life. The second resource looks critically at the widely held belief that humour is good for your health.  
-
-<span class="blockhead">Key Terms Quiz</span>
-
-**NOTE:** *Units 8 & 9 both covered content from Chapter 14 in your textbook - this quiz will also cover terms from both units.*
-
-- Practice quiz to assess how well you know key terms from Chapter 14.  
-- Not for formal evaluation.  
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
-
-<span class="blockhead">Assessment</span>
-
-At the end of this unit, not only will you be assessed on your participation during the Learning Lab discussions, but you will also be responsible for submitting your first writing assignment.
-
-- ***Writing Assignment #2*** is outlined on the "Assessment" page - expectations for this assignment, as  well as a grading rubric, can be found by clicking on that tab.  
-
-- After completing this assignment, you will also be expected to completed ***Quiz #2.*** Again, information about the quiz can be found by clicking on the "Assessment" tab.  
+- Read the relevant sections of Chapter 14 of your textbook
+- Review Unit 9 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Complete the Personal Reflection activity (ungraded) 
+- Watch and reflect upon the *How to Make Stress Your Friend* video
+- Read the article from *Psychology Today* 
+- Complete the Key Terms Quiz (ungraded)
 
 ```
+
+```{block2, type='caution'}
+
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+
+```
+
+```{block2, type='assessment'}
+
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
+
+```
+
 
 ### Resources {-}
 
