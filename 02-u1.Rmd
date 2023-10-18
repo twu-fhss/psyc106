@@ -150,24 +150,7 @@ While all of these pages may not relate directly to this unit’s discussion, co
 
 In this lesson, we spent time exploring cognitive strategies used to solve problems and make decisions. We now have an opportunity to practice this on our own Take a look at the following problems and see if you can find a solution. As you work through the problems, think about what cognitive strategies you are implementing as you make each decision:
 
-<span class="blockhead">Problem A</span>
-
-- Take a look at the following Roman Numeral: **IX**
-- Now add one line to the Roman numeral **IX** to make it six
-
-<details> 
-<summary>Click here for the solution.</summary>
-
-The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.
-</details>
-
-<span class="blockhead">Problem B</span>
-
-Your task is to plant trees on Arbor Day. You have ten trees that must be planted in five rows of four trees each. How would you plant the trees?
-
-<details>
-<summary>Click here for the solution.</summary>
-The answer is that you would arrange them at the vertices and cross-points of a 5-pointed star </details>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=573" width="760" height="383" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 - Problem Solving Activity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <span class="blockhead">Problem Solving Practice</span>
 
