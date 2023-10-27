@@ -37,7 +37,6 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-
 <span class="blockhead">Learning Activity</span>
 
 - Read Chapters 2 and 8 of your textbook
@@ -46,21 +45,16 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Complete the Problem Solving Activity (ungraded)
 - Explore the Problem Solving Practice Activity
 - Read the article Introduction to Visualization
-
 ```
 
 ```{block2, type='caution'}
-
 ***Note***  
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
-
 ```
 
 ```{block2, type='assessment'}
-
 ***Assessment***  
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
 ```
 
 
@@ -88,16 +82,12 @@ I think psychology is one of the most interesting areas of study there is, first
 
 <!-- [plugin:content-inject](_alert)-->
 
-### Learning Activity {-}
+### Learning Activity: Chapter 2 Review Quiz {-}
 
 ```{block2, type='reflect'}
-
-<span class="blockhead">Activity: Chapter 2 Review Quiz</span>
-
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=78" width="648" height="969" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Chapter 2 Review"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
 ```
 
 ## Thinking and Problem Solving
@@ -139,15 +129,16 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 ### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
 In addition to the content above, you are also responsible for reading through the following:
 
 *Krause et. al (2018). Revel for An Introduction to Psychological Science, 2nd Canadian Edition. Chapter 8*
 
 While all of these pages may not relate directly to this unit’s discussion, consistent reading will help you keep pace, as well as provide necessary background knowledge when you need it.
+```
 
-<span class="blockhead">Problem Solving Activity</span>
+### Activity: Problem Solving Activities {-}
 
+```{block2, type='reflect'}
 In this lesson, we spent time exploring cognitive strategies used to solve problems and make decisions. We now have an opportunity to practice this on our own Take a look at the following problems and see if you can find a solution. As you work through the problems, think about what cognitive strategies you are implementing as you make each decision:
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=573" width="760" height="383" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 - Problem Solving Activity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -159,6 +150,7 @@ Below is a website that provides more opportunity to work through, and solve, so
 Click on the following link and read through the information as you continue to practice your problem solving:
 
 [**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
+```
 
 <span class="blockhead">Learning Lab Preparation</span>
 
