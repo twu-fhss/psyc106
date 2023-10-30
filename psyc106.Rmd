@@ -662,7 +662,6 @@ By the end of this unit, student's will be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
-
 <span class="blockhead">Learning Activities</span>
 
 - Read the relevant sections of Chapter 10 of your textbook
@@ -703,14 +702,16 @@ Prenatal development is a time of rapid growth and change. This rapid change con
 
 <!-- [plugin:content-inject](_alert) -->
 
-### Questions to Consider {-}
+### Activity: Questions to Consider {-}
 
+```{block2, type='reflect'}
 After you have read the first few pages of this chapter you should be able to answer the following questions:
 
 - ***How is the gender of an offspring determined?***  
 - ***What differentiates zygotes from embryos and embryos from fetuses?***  
 
-*(These questions are intended for personal reflection - you are not intended to submit anything for assessment)*
+*(These questions are intended for personal reflection - you are not intended to submit anything for assessment - but be prepared to share your thoughts with other members of the class*
+```
 
 ### Designer Babies {-}
 
@@ -727,27 +728,29 @@ At the moment the technique is used for therapeutic purposes only, to screen for
 ### Activity: Designer Babies {-}
 
 ```{block2, type='reflect'}
-
 This activity involves some reading and reflection around the topic of genetic engineering. As this is a contemporary issue, it will be valuable to familiarize yourself with some of the complexities of this technology and think critically about some of the ethical challenges. Your task is to read the following resources and carefully consider the implications of this technology:
 
-- [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/){target="_blank”}  
-- [**Designer Babies, CRISPR, & Genetic Engineering**](https://www.geneticsandsociety.org/internal-content/designer-babies-crispr-genetic-engineering){target="_blank”}  
+- [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/){target="_blank”}
+- [**Designer Babies, CRISPR, & Genetic Engineering**](https://www.geneticsandsociety.org/internal-content/designer-babies-crispr-genetic-engineering){target="_blank”}
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following scenario and questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+Take some time to think about the following scenario and questions before you move on:
 
-*Modern techniques of conception and human genetic engineer­ing raise important new issues for human development. A pam­phlet containing the following message was left at doorsteps in TWU professor Philipchalk's neighborhood:*
+*Modern techniques of conception and human genetic engineering raise important new issues for human development. A pamphlet containing the following message was left at doorsteps in TWU professor Philipchalk's neighborhood:*
 
 ![](assets/unit_3/U3_T1_LearningACtivitity.JPG)
 
-*Image showing an example of surrogacy message *
+*Image showing an example of surrogacy message*
 
-(*You may also wish to comment on the “Designer Babies” topic above.*)
+(*You may also wish to consider how the “Designer Babies” topic connects to this activity as well.*)
 
-1. ***How do you feel about this request?***
-2. ***What problems might you anticipate?***
+- ***How do you feel about this request?***
+- ***What problems might you anticipate?***
 
+*Be prepared to share your thoughts with other members of the class*
 ```
 
 ## Infancy and Childhood
@@ -796,21 +799,23 @@ Although cognitive equilibrium is restored via either assimilation or accommodat
 ### Activity:Cognitive Change  {-}
 
 ```{block2, type='reflect'}
-
 The first three links below are articles that are intended to give you an opportunity to reflect upon your own considerations around development. The last link is a test - along with the first three links, it is intended to provide some insights about your developmental trajectory in light of your crisis resolution, attachment style, and parenting styles:
 
 - [**Erik Erikson’s Stages of Social-Emotional Development**](http://www.childdevelopmentinfo.com/development/erickson.shtml ){target="_blank”}  
 - [**Attachment Issues in Children: Causes, Symptoms, Treatment**](https://www.helpguide.org/articles/childhood-issues/attachment-issues-in-children.htm){target="_blank”}  
 - [**Seven Tips for Stepfamily Success**](https://www.gottman.com/blog/seven-tips-for-stepfamily-success/){target="_blank”} 
 - [**What is Your Parenting Style**](https://www.3smartcubes.com/pages/tests/parentingstyle/parentingstyle_instructions/){target="_blank”}  
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+Before moving on, take a moment to consider the following questions:
 
  - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***  
- - ***Would children even have an idea of God if they were not taught it?***  
-
+ - ***Would children even have an idea of God if they were not taught it?***
+  
+*Be prepared to share your thoughts with other members of the class*
 ```
 
 ## Adolescence
@@ -837,28 +842,31 @@ In other times and in other cultures to­day, adolescence does not exist as a si
 The concept of identity is a rich topic for consideration. The most familiar aspect of identity is occupational identity, since much of “who we are” in our society rests on the kind of work we do. Perhaps you can readily relate to this in your choice of major. Less familiar, but equally important, is ideological identity. Ideologi­cal identity, including both religious and political orientations, may un­dergo a tremen­dous upheaval during your student years. Do you have the same political beliefs as your parents? What about religious beliefs? Conflict and questioning of parental beliefs and values may be a necessary part of establishing your personal iden­tity—even if the beliefs and values you ultimately adopt are the same as those of your parents.
 
 <!-- [plugin:content-inject](_activities) -->
-### Learning Activities {-}
+
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-
-<span class="blockhead">Read and Reflect</span>
-
-In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding:
+In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding - consider how they connect to the content examined above:
 
 - [**Journal of Adolescence**](https://www.sciencedirect.com/journal/journal-of-adolescence){target="_blank”}  
 - [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv){target="_blank”}  
-- [**Connecting Parents, Teens, & Jesus in a Disconnected World**](https://axis.org/){target="_blank”}  
+- [**Connecting Parents, Teens, & Jesus in a Disconnected World**](https://axis.org/){target="_blank”}
+```
 
-<span class="blockhead">Terminology Practice</span>
+### Activity: Chapter 10 Terminology {-}
 
+```{block2, type='reflect'}
 In order to review some of the major terms from Chapter 10 in your textbook, practice using the activity below. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Question for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+Consider what you have learned in this section and take a moment to reflect on the following question:
 
 - ***Would you want to live your adolescence over again if you could? Why or why not?***  
-
+  
+*Be prepared to share your thoughts and insights with other members of the class.*
 ```
 
 ## Assessment {-}
@@ -880,7 +888,6 @@ While there is no "formal" assignment that you will be responsible for submittin
 ## Checking your Learning {-}
 
 ```{block2, type='progress'}
-
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology related to prenatal and infant physical development, infancy and childhood, and adolescent development.  
@@ -889,7 +896,6 @@ Before you move on to the next unit, check that you are able to:
 - Understand the process of identity formation, relationships, and moral emotions during adolescence.  
 - Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus, how to promote learning, and how to categorize moral reasoning.  
 - Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.  
-
 ```
 
 <!--chapter:end:04-u3.Rmd-->
