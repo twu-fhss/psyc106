@@ -231,11 +231,7 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 ### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
-In addition to the content above, you are also responsible for reading through the following:
-
-*Krause et. al (2018). Revel for An Introduction to Psychological Science, 2nd Canadian Edition. Chapter 8*
-
-While all of these pages may not relate directly to this unit’s discussion, consistent reading will help you keep pace, as well as provide necessary background knowledge when you need it.
+Read Chapter 8 from your text and review the notes.
 ```
 
 ### Activity: Problem Solving Activities {-}
@@ -254,9 +250,10 @@ Click on the following link and read through the information as you continue to 
 [**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
 ```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Your Learning Lab for this unit will focus on group discussion as explore the topics of this unit in more detail. As you prepare for your Learning Lab, one possible scenario that discussion will focus on is below- please prepare some thoughts to share with the group:
+```{block2, type='reflect'}
+Read the following and consider the questions below:
 
 In the largest sense, society is breaking into two classes:
 
@@ -264,11 +261,9 @@ In the largest sense, society is breaking into two classes:
 
 *The second class, the vast majority of society, are people who cannot think for themselves. I call these people ‘idea consumers’ – metaphorically speaking, they wander around in a gigantic open-air mall of facts and ideas. The content of their experience is provided by television, the Internet and other shallow data pools. These people believe collecting images and facts makes them educated and competent, and all their experiences reinforce this belief. The central, organizing principle of this class is that ideas come from somewhere else, from magical persons, geniuses, ‘them.’*
 
-Consider the following prompts to help better prepare for the discussion:
-
-- ***Do you agree or disagree with this claim?***  
-- ***Do you know people that fit in the second category? What causes this difference? How might it be changed?***  
-
+- Do you agree or disagree with this claim?
+- Do you know people that fit in the second category? What causes this difference? How might it be changed? 
+**Be prepared to share your thoughts and insights with other members of the class**
 ```
 
 ## Cognitive Biases
@@ -301,21 +296,24 @@ Research by Douglass Kenrick and his colleagues indicates that we also show cont
 
 By now you may be wondering why we fall prey to so many cognitive biases and errors. Well don’t worry; our biases are actually a side effect of our cognitive efficiency. Most of our biases result from using heuristics, rules of thumb, or mental shortcuts that work very well. Sometimes they let us down, but overall, they improve the speed with which we handle mental problems—much like Mr. Feynman’s safe-cracking tricks. As we noted in the previous discussion, you could certainly open a safe much faster if you found the combination on the edge of the secretary's drawer. However, you won’t always find the combination there, so limiting yourself to this approach would produce a kind of “cognitive bias” in your safe-cracking strategy.
 
-### RESOURCES: Online Articles of Interest {-}
 
+```{block2, type='caution'}
+**Online Articles of Interest**  
 For additional information and examples, click on the link below:
 
 [**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases){target="_blank”}
-
-<!-- [plugin:content-inject](_activities) -->
-
-### Learning Lab Preparation {-}
-
-Another focus of our discussion during our Learning Lab for this unit, will focus on biases. In order to prepare for participation in this discussion, consider the guiding prompt below- be sure to have some thoughts to contribute to the discussion:
-
-***Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
+```
 
 
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+Consider what you have learned in this section - take a moment to reflect on the following:
+
+***Can you think of an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
+```
 
 ## Language and Thought
 
@@ -334,19 +332,22 @@ Mental practice is now widely accepted in many areas. The following excerpt is t
 ### Activity: Introduction to Visualization {-}
 
 ```{block2, type='reflect'}
-
 In this Topic, we learned about the notion of mental practice. Below is an article that will take you through the process of visualization. Take some time to read the article and practice for yourself. Pay careful attention to your thoughts, your focus, your feelings as you engage in the process.
 
-- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}   
+- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-The subject of our focus for this Topic has been on the power of language in influencing how we see the world. Our discussion during Learning Lab this week will focus on the importance of language in the Bible (and other religious writings) and how it "shapes" how we see the world.
+```{block2, type='reflect'}
 
-To prepare for this discussion, consider the following prompt:
+The subject of our focus for this section has been on the power of language in influencing how we see the world. In this activity, you are asked to focus on the importance of language in the Bible (and other religious writings) and how it "shapes" how we see the world.
+
+Carefully consider the following question:
 
 ***Give some examples of the importance of language in the Bible or other religious writings.***
 
+*Be prepared to share your thoughts and insights with other members of the class*
 ```
 
 ## Animal Language
@@ -361,32 +362,29 @@ But is this truly language? There is no doubt that the animals are using symbols
 
 Christians need to think carefully about what they mean when they talk about the image of God in man. The area of human learning and psycholinguistics offers some intriguing questions for thoughtful Christians. What is the origin of human speech-is it learned (as Skinner would say) or largely innate (as Chomsky would say)? Is human speech unique? Do the studies of language in animals necessitate a redefinition of the uniqueness of man? (Based on Psychology and Christianity by Ron Philipchalk, p. 102)
 
-### RESOURCES: Online Articles of Interest {-}
+```{block2, type='caution'}
+**Online Articles of Interest**  
 
 To add to our exploration of this topic, take a moment to read the following articles:
 
 - [**Chimp Talk Debate: Is It Really Language?**](http://tuvalu.santafe.edu/~johnson/articles.chimp.html){target="_blank”}  
 
 - [**Animal Language and Cognition Projects**](https://www.massey.ac.nz/~alock/hbook/ristau.htm){target="_blank”}  
+```
 
-<!-- [plugin:content-inject](_activities) -->
-
-### Activity: Learning Lab Preparation {-}
+### Activity: Questions for Consideration {-}
 
 ```{block2, type='reflect'}
-
-Finally, take a moment to consider the following questions:
+Take a moment to consider the following questions:
 
 ***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
 
-Be prepared to share your thoughts during discussion at your Learning Lab.
-
+*Be prepared to share your thoughts and insights with other members of the class*
 ```
 
 ## Assessment {-}
 
 ```{block2, type='assessment'}
-
 While there is no "formal" assignment that you will be responsible for submitting for Unit 1, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
 
 *Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
@@ -402,7 +400,6 @@ While there is no "formal" assignment that you will be responsible for submittin
 ## Checking your Learning {-}
 
 ```{block2, type='progress'}
-
 Before you move on to the next unit, check that you are able to:
 
 - Define key terminology related to principles of scientific research, research designs, and statistics.  
@@ -411,7 +408,6 @@ Before you move on to the next unit, check that you are able to:
 - Apply the concepts of reliability and validity to examples and concepts of experimental methods to research examples.  
 - Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.  
 - Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.  
-
 ```
 
 <!--chapter:end:02-u1.Rmd-->
