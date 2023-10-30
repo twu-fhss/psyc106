@@ -489,6 +489,7 @@ Howard Gardner put together a robust, research-based theory of Multiple Intellig
 
 ```{block2, type='reflect'}
 To add to your exploration of this topic, take a moment to read the following articles:
+  
 -[**Emotional Intelligence Consortium Website**](http://www.eiconsortium.org/){target="_blank”}  
 -[**EQI Web Resource**](http://eqi.org/){target="_blank”}  
 Consider how these articles connect to what you have learned in this section.
@@ -499,6 +500,7 @@ Consider how these articles connect to what you have learned in this section.
 ```{block2, type='reflect'}
 In this section we examined Intelligence Testing. One of the important concepts we learned was that Intelligence Testing can be controversial due to its socially constructed nature.
 Below is a link to a website that will allow you to take some Intelligence Tests for yourself. As you work through each test, and see the results, think about why we might consider these types of tests beneficial, and why they might be considered controversial.
+
 -[**Emotional Intelligence Test**](https://www.queendom.com/tests/){target="_blank”}   
 ```
 
@@ -507,7 +509,8 @@ Below is a link to a website that will allow you to take some Intelligence Tests
 ```{block2, type='reflect'}
 This section focused on Intelligence Testing. As we have seen, Intelligence Testing is best implemented after careful consideration. 
 Take a moment to reflect on the following questions:
--***How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illumined by the test?***  
+  
+- ***How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illuminated by the test?***  
 -***Is ‘emotional intelligence’ a valid concept worth measuring?*** -***Do you believe E-IQ is more important than "intelligence" as measured by IQ scores for success and happiness in your life?”***  
 *Be prepared to share your thoughts and insights with other members of the class*
 ```
@@ -521,6 +524,7 @@ In this section we continue to build upon our understanding of intelligence and 
 ```{block2, type='caution'}
 **Online Articles of Interest** 
 To supplement our understanding of this topic, take a moment to explore the following resources:
+  
 -[**The Arc**](https://thearc.org/){target="_blank”}  
 -[**MENSA International**](https://www.mensa.org){target="_blank”}
 ```
@@ -531,6 +535,7 @@ To supplement our understanding of this topic, take a moment to explore the foll
 
 ```{block2, type='reflect'}
 After considering the above, and having read the textbook’s discussion of intelligence testing, you might want to try some tests yourself. The value in doing this is not that you will get an accurate idea of your IQ score, but rather that you might get a better understanding for some of the problems in testing. As you try some of the tests at the following sites, remind yourself of the problems of test standardization, validity, and reliability. How well do you think these tests measure up?
+  
 -[**Queendom IQ Test**](https://www.queendom.com/tests/index.htm){target="_blank”}  
 -[**Mensa IQ Challenge**](https://www.mensa.org/public/mensa-iq-challenge){target="_blank”}  
 ```
@@ -541,6 +546,7 @@ After considering the above, and having read the textbook’s discussion of inte
 Take a moment to reflect on intelligence from a Christian perspective. Read the following passage and carefully consider the questions below to help prepare for our discussion:
 The Bible says, in James; Chapter 2:
 *My brothers, as believers in our glorious Lord Jesus Christ, don't show favoritism. Suppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in shabby clothes also comes in. If you show special attention to the man wearing fine clothes and say, "Here's a good seat for you," but say to the poor man, "You stand there" or "Sit on the floor by my feet," have you not discriminated among yourselves and become judges with evil thoughts?*
+
 - ***Could we be guilty of favoritism in esteeming more intelligent people above less intelligent people? In society? In Church?***
 *Be prepared to share your thoughts and insights with other members of the class*
 ```
@@ -562,6 +568,7 @@ IQ tests are generally valid for their original purpose—as predictors of acade
 ```{block2, type='caution'}
 **Online Articles of Interest** 
 To supplement our understanding of this topic, take a moment to read through the following:
+  
 -[**The Adoption History Project**](https://darkwing.uoregon.edu/~adoption/topics/naturenurturestudies.htm){target="_blank”}  
 -[**Nature-Nature and IQ**](http://unisci.com/stories/20012/0417014.htm){target="_blank”}
 ```
