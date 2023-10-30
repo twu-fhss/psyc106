@@ -67,20 +67,20 @@ I have to admit that when I first heard of emotional intelligence (EI) I was ske
 
 Robert Sternberg wanted to show that intelligence was more than just one general ability (known as *g theory*). He believed our intelligence is best classified into three areas that predict real - world success: ***analytical, creative, and practical.*** The following article does a great job explaining the Triarchic Theory of Intelligence and its three sub-theories. It also makes note of the criticisms that have been brought against this theory. *To better understand Sternberg’s Three Components of Intelligence follow the link below:*
 
-- [**Three Components of Intelligence**](https://www.thoughtco.com/triarchic-theory-of-intelligence-4172497){target="_blank”}
+-[**Three Components of Intelligence**](https://www.thoughtco.com/triarchic-theory-of-intelligence-4172497){target="_blank”}
 
 #### Howard Gardner’s Nine Types of Intelligence  {-}
 
 Howard Gardner put together a robust, research-based theory of Multiple Intelligences. He put forth an understanding of intelligence promoting our abilities are best classified into nine independent intelligences, which include a broad range of skills beyond traditional school smarts. This illuminating read that can help you understand what your primary intelligences are. Follow the link below:
 
-- [**Theory of Multiple Intelligences**](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml){target="_blank”}
+-[**Theory of Multiple Intelligences**](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml){target="_blank”}
 
 ### Activity: Read and Learn {-}
 
 ```{block2, type='reflect'}
 To add to your exploration of this topic, take a moment to read the following articles:
-- [**Emotional Intelligence Consortium Website**](http://www.eiconsortium.org/){target="_blank”}  
-- [**EQI Web Resource**](http://eqi.org/){target="_blank”}  
+-[**Emotional Intelligence Consortium Website**](http://www.eiconsortium.org/){target="_blank”}  
+-[**EQI Web Resource**](http://eqi.org/){target="_blank”}  
 Consider how these articles connect to what you have learned in this section.
 ```
 
@@ -89,7 +89,7 @@ Consider how these articles connect to what you have learned in this section.
 ```{block2, type='reflect'}
 In this section we examined Intelligence Testing. One of the important concepts we learned was that Intelligence Testing can be controversial due to its socially constructed nature.
 Below is a link to a website that will allow you to take some Intelligence Tests for yourself. As you work through each test, and see the results, think about why we might consider these types of tests beneficial, and why they might be considered controversial.
-- [**Emotional Intelligence Test**](https://www.queendom.com/tests/){target="_blank”}   
+-[**Emotional Intelligence Test**](https://www.queendom.com/tests/){target="_blank”}   
 ```
 
 ### Activity: Questions for Consideration  {-}
@@ -97,9 +97,8 @@ Below is a link to a website that will allow you to take some Intelligence Tests
 ```{block2, type='reflect'}
 This section focused on Intelligence Testing. As we have seen, Intelligence Testing is best implemented after careful consideration. 
 Take a moment to reflect on the following questions:
-- ***How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illumined by the test?***  
-- ***Is ‘emotional intelligence’ a valid concept worth measuring?***  
-- ***Do you believe E-IQ is more important than "intelligence" as measured by IQ scores for success and happiness in your life?”***  
+-***How do you feel about the EMOTIONAL INTELLIGENCE TESTS? Did you learn anything? If so, what were the important areas that were illumined by the test?***  
+-***Is ‘emotional intelligence’ a valid concept worth measuring?*** -***Do you believe E-IQ is more important than "intelligence" as measured by IQ scores for success and happiness in your life?”***  
 *Be prepared to share your thoughts and insights with other members of the class*
 ```
 
@@ -112,8 +111,8 @@ In this section we continue to build upon our understanding of intelligence and 
 ```{block2, type='caution'}
 **Online Articles of Interest** 
 To supplement our understanding of this topic, take a moment to explore the following resources:
-- [**The Arc**](https://thearc.org/){target="_blank”}  
-- [**MENSA International**](https://www.mensa.org){target="_blank”}
+-[**The Arc**](https://thearc.org/){target="_blank”}  
+-[**MENSA International**](https://www.mensa.org){target="_blank”}
 ```
 
 <!-- [plugin:content-inject](_activities) -->
@@ -122,8 +121,8 @@ To supplement our understanding of this topic, take a moment to explore the foll
 
 ```{block2, type='reflect'}
 After considering the above, and having read the textbook’s discussion of intelligence testing, you might want to try some tests yourself. The value in doing this is not that you will get an accurate idea of your IQ score, but rather that you might get a better understanding for some of the problems in testing. As you try some of the tests at the following sites, remind yourself of the problems of test standardization, validity, and reliability. How well do you think these tests measure up?
-- [**Queendom IQ Test**](https://www.queendom.com/tests/index.htm){target="_blank”}  
-- [**Mensa IQ Challenge**](https://www.mensa.org/public/mensa-iq-challenge){target="_blank”}  
+-[**Queendom IQ Test**](https://www.queendom.com/tests/index.htm){target="_blank”}  
+-[**Mensa IQ Challenge**](https://www.mensa.org/public/mensa-iq-challenge){target="_blank”}  
 ```
 
 ### Activity: Question for Consideration {-}
@@ -142,19 +141,19 @@ While the debate rages over the relative contributions of nature and nurture to 
 
 “If we are concerned for the future of the (hopefully) millions of generations still to be born, we must realize that their fate lies to a considerable extent in the breeding practices of those who are currently alive.” *(Intelligence and Eugenics)*
 
-#### What Will You Do?
+<span class="blockhead">What Will You Do?</span>
 
 If or when you have children, will you ban screens (TV, smart phone, tablet, laptop) as a “brain rotter” and read to them every day? Or will you just let nature take its course and allow both screens and reading?
 
-#### Test Biases?
+<span class="blockhead">Test Biases?</span>
 
 IQ tests are generally valid for their original purpose—as predictors of academic performance. Controversy arises when IQ scores are taken to mean overall intelligence and even overall worth. IQ scores consistently predict that some cultural and racial groups will do better at school than will other groups. These differences are an indication of bias not in the IQ tests but in the backgrounds and academic settings that first create and then magnify differences.
 
 ```{block2, type='caution'}
 **Online Articles of Interest** 
 To supplement our understanding of this topic, take a moment to read through the following:
-- [**The Adoption History Project**](https://darkwing.uoregon.edu/~adoption/topics/naturenurturestudies.htm){target="_blank”}  
-- [**Nature-Nature and IQ**](http://unisci.com/stories/20012/0417014.htm){target="_blank”}
+-[**The Adoption History Project**](https://darkwing.uoregon.edu/~adoption/topics/naturenurturestudies.htm){target="_blank”}  
+-[**Nature-Nature and IQ**](http://unisci.com/stories/20012/0417014.htm){target="_blank”}
 ```
 
 <!-- [plugin:content-inject](_activities) -->
@@ -170,8 +169,8 @@ In order to review some of the major terms from Chapter 9 in your textbook, take
 ```{block2, type='reflect'}
 Consider the following scenario (and questions):
 *If you suggest that Asians have darker skin than Caucasians, you are not considered racist; this is an obvious fact with a genetic basis. However, if you suggest that Asians are more intelligent than Caucasians (as IQ tests show), or that African Americans are less intelligent, watch out
-- ***What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?***  
-- ***If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?***  
+-***What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?***  
+-***If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?***  
 *Be prepared to share your thoughts and insights with other members of the class.
 ```
 
