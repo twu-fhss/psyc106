@@ -159,7 +159,7 @@ IQ tests are generally valid for their original purpose—as predictors of acade
 **Online Articles of Interest** 
 To supplement our understanding of this topic, take a moment to read through the following:
   
--[**The Adoption History Project**](https://darkwing.uoregon.edu/~adoption/topics/naturenurturestudies.htm){target="_blank”}  
+-[**The Adoption History Project**](https://darkwing.uoregon.edu/~adoption/topics/naturenurturestudies.htm){target="_blank”}
 -[**Nature-Nature and IQ**](http://unisci.com/stories/20012/0417014.htm){target="_blank”}
 ```
 
@@ -201,6 +201,7 @@ While there is no "formal" assignment that you will be responsible for submittin
 
 ```{block2, type='progress'}
 Before you move on to the next unit, check that you are able to:
+  
 - Define the key terminology associated with understanding intelligence, intelligence testing, and heredity, environment, and intelligence.  
 - Understand the reasoning behind the eugenics movements and its use of intelligence tests, why intelligence is divided into fluid and crystallized types, and the genetic basis of intelligence.  
 - Apply the concepts of entity theory and incremental theory to help kids succeed in school, to identify examples from the triarchic and multiple theories of intelligence, and to recognize environmental and behavioral effects on intelligence to understand how to enhance your own cognitive abilities.  
