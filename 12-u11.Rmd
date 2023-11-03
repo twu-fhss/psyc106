@@ -87,16 +87,24 @@ For many people unfamiliar with the journey of counselling, finding suitable res
 
 - [**PsychCentral**](https://psychcentral.com/){target="_blank”}  
 - [**Behaviour Online**](http://www.behavior.net){target="_blank”}  
-- [**Integration Models**](http://www.psyche.gr/lpsycrel.htm){target="_blank”}  
+- [**Integration Models**](http://www.psyche.gr/lpsycrel.htm){target="_blank”}
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Read the questions below and consider how they connect to what you have learned:
 
 - ***What is your view of the role of sin (or questionable moral behaviours) or other religious/spiritual beliefs in the treatment of psychological disorders?***  
-- ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?***  
+- ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?*** 
 
-***As we approach our final unit, please take a moment to look ahead to the "Term Paper" tab. Here you will find important information that ties to completing the course. It is important to begin preparing now, for these final assessments, in order to manage your time and avoid being overwhelmed. Not only will you have to complete your Quiz #3 at the end of Unit 12, but you will also be responsible for submitting a Term Paper and writing a Final Exam- it is strongly recommended that you begin planning now!***
+*Be prepared to share your thoughts with other members of the class.*
+  
+```
+
+
 
 ```
 
