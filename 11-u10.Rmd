@@ -96,15 +96,20 @@ The following articles augment your understanding of the descriptions of the dis
 - [**Psychological Problems and Disorders**](https://psychologyinfo.com/){target="_blank”}  
 - [**Anxiety Disorders**](https://psychologyinfo.com/){target="_blank”}  
 - [**Criticism of America's Diagnostic Bible- The DSM**](https://www.pchtreatment.com/dsm-5-issues/){target="_blank”}  
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+
+Consider what you have learned in this section. Use the following questions to guide your reflection:
 
 - ***Would you expect Christians to be more mentally healthy than non-Christians? Why or why not?***  
 - ***What about people with other religious/spiritual beliefs?***  
 - ***What about people with no religious/spiritual beliefs?***  
 
+*Be prepared to share your thoughts and insights with other members of the class*
+  
 ```
 
 ## Mood Disorders
@@ -138,16 +143,22 @@ In the end, people with major depression were at least three times as likely as 
 How do you know the difference between depression and normal sadness? In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. Additionally, though children may suffer from a disorder, there are additional challenges in noticing it in them due to their immature language, cognitive, and emotion processing abilities and developmental stage. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.
 
 - [**Information about Depression**](https://psychologyinfo.com/){target="_blank”}  
-- [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577){target="_blank”}  
+- [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577){target="_blank”}
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider the how the following questions relate to what you have learned in this section:
 
 - ***Can you think of some examples of biblical characters that apparently suffered from a mood disorder? Describe their behavior?***  
 - ***What do their examples suggest about possible causes? (Hint: Elijah, David, Saul, others?)***  
 
 *If you are not familiar with biblical personages, give an example from literature or contemporary public life.*
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -178,11 +189,17 @@ Schizophrenia is a truly fascinating condition that continues to draw much atten
 
 - [**Schizophrenia**](http://schizophrenia.com/){target="_blank”}  
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Question for Consideration {-}
 
-- ***Before the development of modern psychology, how do you think people suffering from schizophrenia were treated? How much better is treatment today?***  
+```{block2, type='reflect'}
+
+Take a moment to reflec on what you have learned using the question below:
+
+- ***Before the development of modern psychology, how do you think people suffering from schizophrenia were treated? How much better is treatment today?***
+  
+*Be prepared to share your thoughts and insights with other members of the class.*
 
 ```
 
@@ -204,20 +221,28 @@ A former professor at UBC, Dr. Robert Hare (an internationally known expert on a
 
 Recall from Chapter 12 that our personalities allow others to predict and anticipate our responses to situations. A person with a “healthy” personality demonstrates a range of coping responses and styles when placed in a stressful situation. However, a disordered personality does not have this kind of adaptability and flexibility. At times, the person doesn’t feel they like they have any problems, at other times, the lack of adaptability and the limited repertoire of coping responses can result in distress for the person and for those around him or her. In this activity, you can gain more insight into defined patterns of personality disorders.
 
-- [**Personality Disorders**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/personality-disorders){target="_blank”}  
+- [**Personality Disorders**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/personality-disorders){target="_blank”}
 
-<span class="blockhead">Key Terms Quiz</span>
+```
+
+### Activity: Chapter 15 Key Terms Quiz {-}
+
+```{block2, type='reflect'}
 
 In order to review some of the major terms from Chapter 15 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=84" width="936" height="678" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 10 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
 
-- ***Do you ever wonder if someone you know seems to have a personality disorder? What are some indications that you have seen that make you curious if there may be a problem? (If you don’t know anyone personally, you can describe someone you know about or have seen in a movie/TV show.)***  
+```{block2, type='reflect'}
+
+- ***Do you ever wonder if someone you know seems to have a personality disorder? What are some indications that you have seen that make you curious if there may be a problem? (If you don’t know anyone personally, you can describe someone you know about or have seen in a movie/TV show.)***
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
