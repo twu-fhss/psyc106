@@ -72,6 +72,7 @@ The close connection between our minds and our bodies usually makes it difficult
 The close connection between mind and body is the basis for so-called “lie-detectors.” Of course, they do not detect lies but physical responses to cognitive information. While their "hit" rate is better than a coin toss, lie detectors can accuse the in­nocent and vindicate the guilty. Moreover, some experts claim there are simple techniques for beating the ma­chine.
 
 <!-- [plugin:content-inject](_activities) -->
+
 ### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
@@ -82,13 +83,19 @@ What do you think...*could you beat a lie detector device?* This activity will a
 
 The reason polygraph machines can work better than flipping a coin is because they are measuring responses that often occur automatically and can be difficult, though not impossible, to bring under voluntary control.
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Question for Consideration {-}
+
+```{block2, type='reflect'}
+
+Take a moment to consider what you have learned and reflect on the following question:
 
 - ***How many ancient or old-fashioned methods for telling if someone is lying can you find on the internet?***  
 
 *Often a person’s life depended on these highly questionable methods.*
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -114,11 +121,17 @@ Is there a practical use to understanding how we communicate emotions? Yes, actu
 
 Another possible use of understanding emotional communication better is the development of computers that can read human emotions from speech or facial expressions. This would enable far better communication between computers and their human masters.
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Question for Consideration {-}
 
-- ***Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.***  
+```{block2, type='reflect'}
+
+Consider what you have learned in this section - reflect on the following question:
+
+- ***Do you think that people make distinctive facial expressions when they lie? Give your answer, and an example if you can.***
+
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -161,13 +174,19 @@ How well do you handle your emotions? If you are finding that you are being led 
 - [**Ways to Handle Emotion**](https://www.mhanational.org/helpful-vs-harmful-ways-manage-emotions){target="_blank”}  
 - [**Recovering Emotionally from a Disaster**](https://www.apa.org/helpcenter/recovering-disasters){target="_blank”}  
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Take a moment to reflect on what you have learned in this section. Consider the following questions:
 
 - ***Do you think that we can “put on a happy face” and really feel different?***  
 - ***Can we make ourselves happy or sad by what we think?***  
 
+*Be prepared to share your thoughts with other members of the class*
+  
 ```
 
 ## Assessment {-}
