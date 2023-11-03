@@ -37,8 +37,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Read and Reflect on the articles *Facial Attractiveness,* *Survival of the Prettiest,* *Altruism in Advertising,* and *Random Acts of Kindess*
 - Complete the Key Terms quiz (ungraded)
 
-
-
 ```
 
 ```{block2, type='caution'}
@@ -87,7 +85,11 @@ Marshall Segall and his colleagues point out that cultures typically expect men 
 
 Segall and his associates explain, "We suggest that in societies that have the preconditions requiring a stamping-in of masculinity, but which don't achieve this through initiation ceremonies or other institutionalized practices, adolescent males will try on their own to assert their masculinity" (p. 281). The Segall group calls the resultant aggression compensatory machoism. Compensatory machoism is the display of behavior intended to identify oneself with the cultural image of masculinity. The resulting aggression is rooted not in anger but in a "felt need to escape from womanliness and to mark one's masculine gender" (p. 281).
 
+```{block2, type='caution'}
+
 ***Can you think of a cultural group in North America that seems to illustrate this process particularly well?***
+
+```
 
 Marshall Segall and his colleagues suggest that many young black American males illustrate this process. Social conditions (unemployment, educational deficits, racial discrimination) contribute to a prevalence of broken homes with female-headed households. Young men in these conditions attempt to assert their masculine identity through compensatory machoism. They are tough, independent, and violently aggressive. As a result, murder is their leading cause of death. A black man in stands a 1-in-21 chance of being murdered in his lifetime, compared with 1 in 131 for white men and 1 in 369 for white women. The Segall group quotes one young black male who says that in urban ghettos *"You must walk angry, talk angry, think angry . . . . You're either a chump or a champ . . . . You're macho or gay." (adapted from Invitation to Social Psychology by Ronald Philipchalk)*
 
@@ -109,14 +111,20 @@ The following articles are intended to deepen your understanding of discriminati
 
 - [**Discussing Hate and Violence with Children**](https://www.adl.org/education/resources/tools-and-strategies/discussing-hate-and-violence-with-children){target="_blank”}  
 - [**Resolution on Violent Video Games**](https://www.apa.org/about/policy/violent-video-games){target="_blank”}  
-- [**Television and Video Violence**](https://www.apa.org/action/resources/research-in-action/protect){target="_blank”}  
+- [**Television and Video Violence**](https://www.apa.org/action/resources/research-in-action/protect){target="_blank”} 
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Take a moment to reflect on what you have learned in this section. Use the following questions to guide your reflection:
 
 - ***If removing parts of the brain reliably reduced aggression, do you think violent criminals should be forced to have this operation?***
 - ***Should violent content be removed from video games, movies, and TV (why or why not)?***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
@@ -136,7 +144,11 @@ The characteristics that are attractive in the opposite sex, as well as the impo
 
 David Buss and 49 collaborators in 33 countries asked young men and women (average age 23 years) about the attributes they looked for in potential mates. The researchers found many differences among cultures. The most pervasive difference they found was the emphasis given to "traditional" versus "modern" attributes. Young people looking for a mate in, and place great value on the traditional attributes of chastity, home and children, domestic skills, and providing for the family. At the other extreme, in the , , , and , young people looking for mates did not consider these attributes very important.
 
-***(Canadian and American values were in between these extremes).***
+```{block2, type='caution'}
+
+***Canadian and American values were in between these extremes.***
+
+```
 
 American young people differed from the international average by placing a higher value on a college degree, earning capacity, heredity, and "an exciting personality." They placed a relatively low value on housekeeping skills, and intelligence (Buss, 1990). Without this kind of information it would be easy for us to assume that people in other cultures look for the same qualities in their potential mates as we do. *(adapted from Understanding Human Behavior by Ronald Philipchalk)*
 
@@ -144,7 +156,13 @@ American young people differed from the international average by placing a highe
 
 Ronald Johnson and George Danko (1989) report significant differences in altru­ism between cultures in , , , , the , and . Benjamin Colby reports that differences in altruism between stu­dents from 133 different cultures were predictive of their ability to adapt to university culture (altruistic students adapted better). In one study Wegner and Crano found that racial fac­tors affected helping behavior. An exper­i­menter who was apparently engrossed in examining a deck of 500 computer cards approached naive subjects. Approximately one step away from the subject, the experimenter "accidentally" dropped the entire deck. Blacks helped whites 17 percent of the time but they helped blacks 75 percent of the time. Whites helped both whites and blacks 44 percent of the time.
 
-*(Cross-cultural research seems particularly rele­vant to the topic of helping in that Jesus' point in the parable of the "Good Samaritan" was that cultural enemies, Jews and Samaritans, should love and help each other)*
+```{block2, type='caution'}
+
+***Note:***
+  
+*Cross-cultural research seems particularly relevant to the topic of helping in that Jesus point in the parable of the "Good Samaritan" was that cultural enemies, Jews and Samaritans, should love and help each other*
+
+```
 
 ### Altruism & Religion {-}
 
@@ -167,18 +185,28 @@ What is it that makes you think that someone is attractive, kind, evil, competen
  - [**Altruism in Advertising**](https://public.wsu.edu/~taflinge/altruism.html){target="_blank”}  
  - [**Random Acts of Kindess**](http://www.actsofkindness.org/){target="_blank”}  
 
-<span class="blockhead">Key Terms Quiz</span>
+```
+
+### Activity: Chapter 13 Key Terms Quiz {-}
+
+```{block2, type='reflect'}
 
 In order to review some of the major terms from Chapter 13 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course. Type the correct answer in the boxes below:
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=89" width="936" height="794" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 7 Terminology"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Read through the following questions and reflect on what you have learned:
 
 - ***What do you think contribute to you being able to quickly judge whether or not you think someone is attractive?***  
 - ***Some social psychologists believe that there is always a reward for helping and that this motivates people to help. In other words, people never help without expecting a reward of some kind (either in this life or in the next). What do you think?***  
+
+*Be prepared to share your thoughts and insights with other members of the class*  
 
 ```
 
