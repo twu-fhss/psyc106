@@ -3074,12 +3074,18 @@ As mentioned earlier, this activity gives you an opportunity to explore the Amer
 
 - [**American Psychological Association**](https://www.apa.org/){target="_blank”}  
 
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Question for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider the following:
 
 - ***Do you think an empathic, trusting, caring friend could be as effective as a trained psychotherapist or counselor?***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
@@ -3104,7 +3110,7 @@ All of the biological therapies produce side effects, some of them permanent. Si
 
 <!-- [plugin:content-inject](_activities) -->
 
-## Activity: Read and Reflect {-}
+### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
 
@@ -3113,12 +3119,18 @@ It is important, when considering biological treatments, to receive input from m
 - [**Electroconvulsive Therapy and Other Depression Treatments**](https://www.camh.ca/en/health-info/mental-illness-and-addiction-index/electroconvulsive-therapy){target="_blank”}
 - [**International Society for Neuroregulation and Research**](https://isnr.org/){target="_blank”}
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Read and Reflect {-}
+
+```{block2, type='reflect'}
+
+Consider the following questions in context of what you have learned about in this section:
 
 - ***As biological influence in psychological disorders becomes more obvious, what are the implications for psychologists and "talk therapy?”***
 - ***Will biological therapies eventually replace old style talk therapies?***
+
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -3151,14 +3163,20 @@ Looking intently at how you are spending your time and taking preventative steps
 
 - [**Psychology Help Center**](https://www.apa.org/helpcenter/){target="_blank”}  
 - [**How to Choose a Therapist**](http://psychcentral.com/therapst.htm){target="_blank”}  
-- [**Rights and Responsibilities in Psychotherapy**](https://psychcentral.com/blog/your-patient-rights-in-therapy#1){target="_blank”}  
+- [**Rights and Responsibilities in Psychotherapy**](https://psychcentral.com/blog/your-patient-rights-in-therapy#1){target="_blank”}
+                                                     
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+
+Consider the following questions:
 
 - ***What role do your religious or other beliefs play in your efforts to avoid psychological difficulties and promote growth?***
 - ***Do your beliefs affect your choice of the kind of help you would look for?***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
