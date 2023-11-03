@@ -2355,8 +2355,7 @@ Assertiveness represents a third alternative but one that is often confused with
 
 ```{block2, type='reflect'}
 
-
-Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. Share these in your Learning Lab/Forum.
+Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. *Be prepared to share your insights with other members of the class*
 
 ***Situation #1:*** *Someone is crowding in front of you in line at the grocery store.*
 
@@ -2388,15 +2387,21 @@ Now that you have some understanding concerning the differences between aggressi
 - Submissive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 - Assertive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-Finally, in your forum, comment/respond on the following:
+Finally, consider the following:
 
 - ***Are any of your responses affected by your religious beliefs? How so?***
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider the following question - how does it connect to what you have learned in this section:
 
 - ***Each of us has some minor annoyances that add to our stress level more than they should. What gets you stressed out? What are your everyday "pet peeves" (annoyances)? Does the stress that these things produce seem justified? What are some things you can do to decreases your stress responses to these situations?***
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -2430,21 +2435,29 @@ After watching the video, take a few minutes to read about Dr. Gil Greengross’
 
 - [***Psychology Today***](https://www.psychologytoday.com/intl/blog/humor-sapiens/201805/humor-may-not-be-so-good-your-health){target="_blank”}  
 
-Take some time to ponder the messages in these resources. The questions during Learning Lab will challenge you and your thoughts around the above sources.
+```
 
-<span class="blockhead">Key Terms Quiz</span>
+### Activity: Chapter 14 Key Terms Quiz {-}
+
+```{block2, type='reflect'}
 
 In order to review some of the major terms from Chapter 14 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=83" width="936" height="706" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 9 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
 
-- ***Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?***  
+Reflect on the following questions:
+
+- ***Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?***
 - ***Is there a good time to just laugh something off?***  
-- ***What are some potential stress related consequences of habitually turning to humour when dealing with stress?***  
+- ***What are some potential stress related consequences of habitually turning to humour when dealing with stress?*** 
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
