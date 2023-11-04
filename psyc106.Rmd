@@ -715,10 +715,11 @@ By the end of this unit, student's will be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
+
 <span class="blockhead">Learning Activities</span>
 
 - Read the relevant sections of Chapter 10 of your textbook
-- Review Unit 3 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Review Chapter 10 - Notes (intended to support your understanding of your readings) - *scroll to bottom of page*
 - Read about *Designer Babies* and reflect on the controversial topic
 - Reflect and take the *Cognitive Change* test
 - Complete the Terminology Practice flip-card activity (ungraded)
@@ -727,18 +728,19 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```{block2, type='caution'}
 
-***Note***  
+***Note***
+  
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
 
 ```{block2, type='assessment'}
 
-***Assessment***  
+***Assessment***
+  
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
-
 
 ### Resources {-}
 
@@ -758,12 +760,14 @@ Prenatal development is a time of rapid growth and change. This rapid change con
 ### Activity: Questions to Consider {-}
 
 ```{block2, type='reflect'}
+
 After you have read the first few pages of this chapter you should be able to answer the following questions:
 
 - ***How is the gender of an offspring determined?***  
 - ***What differentiates zygotes from embryos and embryos from fetuses?***  
 
 *(These questions are intended for personal reflection - you are not intended to submit anything for assessment - but be prepared to share your thoughts with other members of the class*
+    
 ```
 
 ### Designer Babies {-}
@@ -781,15 +785,18 @@ At the moment the technique is used for therapeutic purposes only, to screen for
 ### Activity: Designer Babies {-}
 
 ```{block2, type='reflect'}
+
 This activity involves some reading and reflection around the topic of genetic engineering. As this is a contemporary issue, it will be valuable to familiarize yourself with some of the complexities of this technology and think critically about some of the ethical challenges. Your task is to read the following resources and carefully consider the implications of this technology:
 
 - [**Editing the DNA of Embryos with CRISPR**](https://www.statnews.com/2019/09/16/could-editing-the-dna-of-embryos-with-crispr-help-save-people-who-are-already-alive/){target="_blank”}
 - [**Designer Babies, CRISPR, & Genetic Engineering**](https://www.geneticsandsociety.org/internal-content/designer-babies-crispr-genetic-engineering){target="_blank”}
+
 ```
 
 ### Activity: Questions for Consideration {-}
 
 ```{block2, type='reflect'}
+
 Take some time to think about the following scenario and questions before you move on:
 
 *Modern techniques of conception and human genetic engineering raise important new issues for human development. A pamphlet containing the following message was left at doorsteps in TWU professor Philipchalk's neighborhood:*
@@ -804,6 +811,7 @@ Take some time to think about the following scenario and questions before you mo
 - ***What problems might you anticipate?***
 
 *Be prepared to share your thoughts with other members of the class*
+
 ```
 
 ## Infancy and Childhood
@@ -823,7 +831,6 @@ Although schemas are important in helping us to understand the world, they are n
 ***Can you think of any examples of inaccurate schemas?***
 
 Although people at all ages can have inaccurate mental representations of the world, children are especially prone to view the world in an incorrect way. The reason children may view the world in an incorrect way is because the structure of their cognitive processing is developing. Piaget believed that inaccurate schemas are changed only when they are challenged in the cognitive structure of the child. This challenge has been termed cognitive conflict.
-
 
 Basically, the process of cognitive change works as follows:
 
@@ -852,23 +859,27 @@ Although cognitive equilibrium is restored via either assimilation or accommodat
 ### Activity:Cognitive Change  {-}
 
 ```{block2, type='reflect'}
+
 The first three links below are articles that are intended to give you an opportunity to reflect upon your own considerations around development. The last link is a test - along with the first three links, it is intended to provide some insights about your developmental trajectory in light of your crisis resolution, attachment style, and parenting styles:
 
 - [**Erik Erikson’s Stages of Social-Emotional Development**](http://www.childdevelopmentinfo.com/development/erickson.shtml ){target="_blank”}  
 - [**Attachment Issues in Children: Causes, Symptoms, Treatment**](https://www.helpguide.org/articles/childhood-issues/attachment-issues-in-children.htm){target="_blank”}  
 - [**Seven Tips for Stepfamily Success**](https://www.gottman.com/blog/seven-tips-for-stepfamily-success/){target="_blank”} 
 - [**What is Your Parenting Style**](https://www.3smartcubes.com/pages/tests/parentingstyle/parentingstyle_instructions/){target="_blank”}  
+
 ```
 
 ### Activity: Questions for Consideration {-}
 
 ```{block2, type='reflect'}
+
 Before moving on, take a moment to consider the following questions:
 
  - ***What is God like for children of different levels of cognitive development? If you can, give some examples from children you know....***  
  - ***Would children even have an idea of God if they were not taught it?***
   
 *Be prepared to share your thoughts with other members of the class*
+  
 ```
 
 ## Adolescence
@@ -899,48 +910,47 @@ The concept of identity is a rich topic for consideration. The most familiar asp
 ### Activity: Read and Reflect {-}
 
 ```{block2, type='reflect'}
+
 In this section we explore adolescence and the changes in development we go through. Below are some resources that help to help support your understanding - consider how they connect to the content examined above:
 
 - [**Journal of Adolescence**](https://www.sciencedirect.com/journal/journal-of-adolescence){target="_blank”}  
 - [**Erik Erikson’s Stages of Social-Emotional Development**](https://childdevelopmentinfo.com/child-development/erickson/#gs.d8mpcv){target="_blank”}  
 - [**Connecting Parents, Teens, & Jesus in a Disconnected World**](https://axis.org/){target="_blank”}
+
 ```
 
-### Activity: Chapter 10 Terminology {-}
+### Activity: Chapter 10 Terminology Practice {-}
 
 ```{block2, type='reflect'}
+
 In order to review some of the major terms from Chapter 10 in your textbook, practice using the activity below. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
+  
 ```
 
 ### Activity: Question for Consideration {-}
 
 ```{block2, type='reflect'}
+
 Consider what you have learned in this section and take a moment to reflect on the following question:
 
 - ***Would you want to live your adolescence over again if you could? Why or why not?***  
   
 *Be prepared to share your thoughts and insights with other members of the class.*
+  
 ```
 
 ## Assessment {-}
 
 ```{block2, type='assessment'}
 
-While there is no "formal" assignment that you will be responsible for submitting for Unit 3, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
-
-*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
-
-**Rubric for Participation in Learning Labs**
-
-| Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
-| -| -|-|
-|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
+While there is no "formal" assignment that you will be responsible for submitting for Unit 3, you will be expected to review each of the Learning Activities. They are intended to support your understanding of the content in this unit. 
 
 ```
 
 ## Checking your Learning {-}
 
 ```{block2, type='progress'}
+
 Before you move on to the next unit, check that you are able to:
 
 - Define the key terminology related to prenatal and infant physical development, infancy and childhood, and adolescent development.  
@@ -948,7 +958,8 @@ Before you move on to the next unit, check that you are able to:
 - Understand the cognitive changes that occur during infancy and childhood, and the importance of attachment and the different styles of attachment.  
 - Understand the process of identity formation, relationships, and moral emotions during adolescence.  
 - Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus, how to promote learning, and how to categorize moral reasoning.  
-- Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.  
+- Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.
+
 ```
 
 <!--chapter:end:04-u3.Rmd-->
