@@ -52,7 +52,7 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 ```{block2, type='assessment'}
 
 ***Assessment***
-  
+
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```

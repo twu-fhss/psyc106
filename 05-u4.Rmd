@@ -36,20 +36,21 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Review the Chapter 10 - Notes (intended to support your understanding of your readings) 
 - Read about *Erikson’s Eight Psychosocial Stages* that highlight the importance of relationships in healthy aging.
 - Read and Reflect: Explore the resources that focus on again and dying and consider how these concepts affect individuals.
+
 ```
 
 ```{block2, type='caution'}
 
 ***Note*** 
-  
+
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
 
 ```{block2, type='assessment'}
 
-***Assessment***  
-  
+***Assessment***
+
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```

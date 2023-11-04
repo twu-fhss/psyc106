@@ -48,7 +48,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 ```{block2, type='caution'}
 
 ***Note*** 
-  
+
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
@@ -60,7 +60,6 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
-
 
 ### Resources {-}
 
@@ -98,6 +97,7 @@ The following articles augment your understanding of the descriptions of the dis
 - [**Psychological Problems and Disorders**](https://psychologyinfo.com/){target="_blank”}  
 - [**Anxiety Disorders**](https://psychologyinfo.com/){target="_blank”}  
 - [**Criticism of America's Diagnostic Bible- The DSM**](https://www.pchtreatment.com/dsm-5-issues/){target="_blank”}  
+
 ```
 
 ### Activity: Questions for Consideration {-}
@@ -111,7 +111,7 @@ Consider what you have learned in this section. Use the following questions to g
 - ***What about people with no religious/spiritual beliefs?***  
 
 *Be prepared to share your thoughts and insights with other members of the class*
-  
+
 ```
 
 ## Mood Disorders
