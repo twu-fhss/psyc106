@@ -37,6 +37,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 
+
 ```{block2, type='caution'}
 
 ***Note***  
@@ -205,6 +206,8 @@ To supplement our understanding of this topic, take a moment to read through the
 ```{block2, type='reflect'}
 
 In order to review some of the major terms from Chapter 9 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course:
+  
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=83" width="760" height="819" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 9 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
   
 ```
 
