@@ -140,7 +140,7 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 
 ```{block2, type='reflect'}
 
-Read Chapter 8 from your text and review the notes.
+- Read Chapter 8 from your text and review the notes.
 
 ```
 
@@ -213,7 +213,8 @@ By now you may be wondering why we fall prey to so many cognitive biases and err
 
 ```{block2, type='caution'}
 
-**Online Articles of Interest**  
+**Online Articles of Interest** 
+  
 For additional information and examples, click on the link below:
 
 - [**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases){target="_blank”}
@@ -227,7 +228,7 @@ For additional information and examples, click on the link below:
 
 Consider what you have learned in this section - take a moment to reflect on the following:
 
-***Can you think of an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
+- ***Can you think of an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
   
 *Be prepared to share your thoughts and insights with other members of the class*
   
@@ -257,7 +258,7 @@ In this Topic, we learned about the notion of mental practice. Below is an artic
                                         
 ```
 
-### Activity: Questions for Consideration {-}
+### Activity: Question for Consideration {-}
 
 ```{block2, type='reflect'}
 
@@ -265,7 +266,7 @@ The subject of our focus for this section has been on the power of language in i
 
 Carefully consider the following question:
 
-***Give some examples of the importance of language in the Bible or other religious writings.***
+- ***Give some examples of the importance of language in the Bible or other religious writings.***
 
 *Be prepared to share your thoughts and insights with other members of the class*
   
@@ -301,7 +302,7 @@ To add to our exploration of this topic, take a moment to read the following art
 
 Take a moment to consider the following questions:
 
-***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
+- ***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
 
 *Be prepared to share your thoughts and insights with other members of the class*
   
