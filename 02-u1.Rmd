@@ -12,11 +12,11 @@ After taking time to review scientific research methodologies, we will turn our 
 
 This unit is divided into the following topics:
 
- 1. Review- Scientific Research  
- 2. Thinking and Problem Solving  
- 3. Cognitive Biases  
- 4. Language and Thought  
- 5. Animal Language  
+1. Review- Scientific Research  
+2. Thinking and Problem Solving  
+3. Cognitive Biases  
+4. Language and Thought  
+5. Animal Language  
 
 
 ### Learning Outcomes {-}
