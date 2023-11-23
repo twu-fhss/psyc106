@@ -23,320 +23,38 @@ By the end of this unit, student's will be able to:
 - Analyze whether guards who participate in abuse are inherently bad people, or if their behaviour is the product of social influences and whether people who commit discriminatory acts are necessarily prejudiced.  
 - Describe how behaviours influence attitudes in terms of cognitive dissonance theory.  
 
-### Activity Checklist {-}
+### Activity Checklist: {-}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
 ```{block2, type='reflect'}
 
-<!-- [plugin:content-inject](_schedule) -->
+<span class="blockhead">Learning Activities</span>
+
+- Read the relevant sections of Chapter 13 of your textbook
+- Review Unit 6 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Read about *Attribution Theory* and *Cognitive Dissonance*  
+- Read and Reflect on the two articles *Social Influence* and *Conformity and Obedience*
+- Read the four resources on ethical guidelines when performing research
+- Explore the two articles on the *Influence of Social Media* and *Cults*
 
-
-<span class="blockhead">Read and Reflect</span>
-
-- Read *Krause et al. (2021). Revel for An Introduction to Psychological Science, 3rd Canadian Edition*  
-
-- Review *Unit 6 - Slides*  
-
-<details> <summary>CLICK HERE</summary>
-
-<h5>An Introduction to Psychological Science - Chapter 13 - Social Psychology</h5> 
-
-<h5>Biblical Word Study</h5> 
-
-| ^2^ John 1:6 (NIV)
-| ^6^ And this is love: that we *walk* in obedience to his commands. As you have heard from the beginning, his command is that you *walk* in love.
-| Walk – Gr.$\pi\epsilon\rho\iota\pi\alpha\tau\epsilon\omega$ (peripateō) – to tread about, walk about, and generally, to walk, to be walking; *to make one's way, make progress; 
-to frequent*, stay in, a place; 
-*to regulate one's life, to conduct one's self*, of the standard to which one governs his life; denoting either the state in which one is living, or the virtue or vice to which he is given.
-
-- Questions to ask those you live and work with:
-  - What is my effect on you?
-  - What am I like to live with? Work with?
-  - What is something that is difficult for you to bring up with me?
-- A question to ask your self:
-  - Who am I in relationship with others? 
-  - Questions like these can open the space to explore fear, worthlessness, shame and isolation, and can reveal strengths, gratitude, peace, joy, benefits, and maturity.
-
-<h5>True or False?</h5> 
-
-- T F 1. Compared with people in Western countries, those in East Asian cultures are more sensitive to situational influences on behaviour.  
-- T F 2. To change people’s racist behaviours, we first need to change their racist attitudes.  
-- T F 3. Chimps are more likely to yawn after observing another chimp yawn.  
-- T F 4. Most people would refuse to obey an authority figure who told them to hurt an innocent person.  
-- T F 5. Studies of college and professional athletic events indicate that home teams win about 6 in 10 games.  
-- T F 6. Individuals pull harder in a team tug-of-war than when they pull in a one-on-one tug-of-war.  
-- T F 7. The higher the morale and harmony of a social group, the more likely are its members to make a good decision.  
-- T F 8. Researchers project that, other things being equal, global warming of 4 degrees Fahrenheit (or about 2 degrees centigrade) would induce more than 50,000 additional assaults and murders in the United States alone.  
-- T F 9. From research on liking and loving, it is clear that opposites do attract.  
-- T F 10. We are less likely to offer help to a stranger if other bystanders are present.  
-
-![](assets/unit_6/slide_7.png)
-
-*Slide showing - Modules for this chapter*
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology associated with social influence.  
-- Understand why individuals conform to others’ behaviours.  
-- Understand how individuals and groups can influence behaviours.  
-- Apply your knowledge of being a passive bystander or active altruist to understand your own likeliness to help.  
-- Analyze whether people who harm others are fundamentally hurtful, mean people or if their behaviour is the product of social influences.  
-
-<h5>The Person and the Environment</h5>
-
-- Kurt Lewin (1936): Behaviour is a function of the Person and the Environment
-  - B = f(P,E)
-
-<h5>Mimicry, Norms, and Roles</h5>
-
-- Mimicry (p. 495)  
-  - Important social and functional reasons for doing so  
-- Social Norms (p. 495)  
-  - Unwritten guidelines for how to behave in social contexts  
-- Ostracism (p. 496)  
-  - Powerful form of social pressure  
-- The Stanford Prison Study (Zimbardo)  
-- Social roles (p. 496)  
-
-<h5>Group Dynamics: Social Loafing and Social Facilitation</h5>
-
-- Social loafing (p. 497)  
-  - When individuals put less effort into tasks when working with others  
-- Social facilitation (p. 498)  
-  - When one’s performance is affected by the presence of others  
-
-![](assets/unit_6/slide_13.png)
-
-*Slide showing - The Asch Conformity Experiment*
-
-![](assets/unit_6/slide_14.png)
-
-*Slide showing - Personal and Situational Factors Contribute to Conformity*
-
-<h5>Groupthink</h5>
-
-- Groupthink (p. 499)
-  - When group members tend toward the same ideas to minimize conflict  
-
-![](assets/unit_6/slide_16.png)
-
-*Slide showing - The Milgram Experiment*
-
-![](assets/unit_6/slide_17.png)
-
-*Slide showing - The Milgram Experiment 2*
-
-<h5>Obedience to Authority: The Milgram Experiment</h5>
-
-- Variants of the experiment  
-  - Change of clothing  
-  - Different location  
-  - Proximity of experimenter and “learner”  
-  - Confederate dissenters  
-
-<h5>The Bystander Effect</h5>
-
-- The bystander effect (p. 503)  
-- Diffusion of responsibility (p. 503)  
-
-![](assets/unit_6/slide_20.png)
-
-*Slide showing - Diffusion of Responsibility*
-
-<h5>Working the Scientific Literacy Model: The Bystander Effect</h5>
-
-- What do we know about the bystander effect?  
-- How can science study the bystander effect?  
-- Latané & Darley (1968)  
-  - Normative influences  
-  - Informational influences  
-  - Diffusion of responsibility  
-- Can we critically evaluate this evidence?  
-  - Bystander effects do happen  
-  - But, often, people do help, even when it puts them at risk  
-- Why is this relevant?  
-  - Programs to encourage helping  
-
-![](assets/unit_6/slide_23.png)
-
-*Slide showing - Acts of Altruism*
-
-![](assets/unit_6/slide_24.png)
-
-*Slide showing - Acts of Altruism*
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology associated with social cognition.  
-- Understand how we form first impressions and how these impressions influence us.  
-- Apply your knowledge of attributions and biases to better understand how you tend to perceive yourself and others.  
-- Analyze whether people who commit discriminatory acts are explicitly prejudiced.  
-
-<h5>Two Types of Cognitive Process</h5>
-
-- Explicit processes (p. 507)  
-- Implicit processes (p. 507)  
-- Dual-process models (p. 507)  
-
-<h5>TPerson Perception</h5>
-
-- Person perception (p. 507)  
-  - Schemas  
-  - Thin slices of behaviour (p. 507-508)  
-
-<h5>Self-Fulfilling Prophecies and Other Consequences of First Impressions</h5>
-
-- Self-fulfilling prophecy (p. 508)  
-  - e.g., teachers’ expectations of students  
-
-<h5>The Self in the Social World</h5>
-
-- Projecting the self onto others: False consensus and naïve realism (p. 509)  
-- Self-serving biases (p. 510)  
-  - These arise out of a need to feel good about ourselves  
-
-![](assets/unit_6/slide_30.png)
-
-*Slide showing - Internal and External Attributions*
-
-<h5>Attributions</h5>
-
-- Fundamental attribution error (p. 510)  
-  - Cultural phenomenon  
-- Ingroups and outgroups (p. 511)  
-- Ingroup bias (p. 511)  
-
-![](assets/unit_6/slide_32.png)
-
-*Slide showing - Emotional Effects of Attribution*
-
-<h5>Stereotypes, Prejudice, and Discrimination</h5>
-
-- Stereotype (p. 512)  
-- Prejudice (p. 512)  
-- Discrimination (p. 512)  
-
-<h5>Prejudice in a Politically Correct World?</h5>
-
-- Political correctness  
-  - Is it a neutral term?  
-- Prejudice is still prevalent  
-- Implicit vs. explicit processes in prejudice  
-
-<h5>MYTHS IN MIND: Are Only Negative Aspects of Stereotypes Problematic?</h5>
-
-- “Well-intended” stereotypes  
-  - Gender  
-    - Hostile sexism  
-    - Benevolent sexism  
-
-<h5>Working the Scientific Literacy Model: Explicit Versus Implicit Measures of Prejudice</h5>
-
-- What do we know about measuring prejudice?  
-  - Explicit prejudice  
-  - Implicit prejudice  
-- How can science study implicit prejudice?  
-  - The I A T (p. 514)  
-
-![](assets/unit_6/slide_37.png)
-
-*Slide showing - Working the Scientific Literacy Model: Explicit Versus Implicit Measures of Prejudice *
-
-
-- Can we critically evaluate this evidence?  
-  - Validity of results  
-    - Knowledge of stereotypes vs. personal stereotypes  
-- Why is this relevant?  
-  - Stereotypes about every social status  
-
-<h5>PSYCH @ The Law Enforcement Academy</h5>
-
-- Video simulations  
-  - Mistaken shootings of innocent Black people  
-- Amadou Diallo  
-  - Mistakenly shot to death  
-- Police training  
-  - Shoot/do not shoot decisions  
-
-<h5>Improving Intergroup Relations</h5>
-
-- How do we overcome implicit processes?  
-  - Reprogramming through practice  
-  - Contact hypothesis (p. 516)  
-
-<h5>Learning Objectives</h5>
-
-- Know the key terminology in research on attitudes, behaviour, and effective communication.  
-- Understand how behaviours influence attitudes in terms of cognitive dissonance theory.  
-- Apply your knowledge of cognitive dissonance to see how well your beliefs match your behaviours.  
-- Analyze the difficulties communicators face in trying to convince the public to take action on important social and political issues.  
-
-<h5>Changing People’s Behaviours</h5>
-
-- How can we address climate change?  
-  - Technological  
-  - Legal  
-  - Economic  
-  - Social  
-
-![](assets/unit_6/slide_43.png)
-
-*Slide showing - Central and Peripheral Routes to Persuasion*
-
-
-<h5>Using the Central Route Effectively</h5>
-
-- Make it personal  
-  - Construal-level theory (p. 520)  
-- Value Appeals  
-
-<h5>Working the Scientific Literacy Model: The Identifiable Victim Effect</h5>
-
-- What do we know about communicating about tragedy and danger?
-- How can science explain the identifiable victim effect?
-  - The experiential system (p. 522)  
-  - The analytic system (p. 522)  
-- Can we critically evaluate this evidence?  
-- Why is this relevant?  
-  - Connect issue to values of audience  
-
-<h5>Preaching or Flip-Flopping One-Sided vs. Two-Sided Messages</h5>
-
-- Should you be ”preachy” or a “flip-flopper”?  
-- Two-sided seen as more trustworthy  
-  - Attitude Inoculation (p. 523)  
-
-<h5>Using the Peripheral Route Effectively</h5>
-
-- Authority  
-- Liking  
-- Social validation  
-- Reciprocity  
-  - Door-in-the-face technique (p. 524)  
-- Consistency  
-  - Foot-in-the-door technique (p. 524)  
-
-<h5>The Attitude-Behaviour Feedback Loop</h5>
-
-- Cognitive Dissonance Theory (p. 525)  
-  - Doomsday cults  
-  - Lying for $1 vs. $20  
-
-</details>
-
-*Please note, the slides are intended to supplement the information found in your textbook. If you are having trouble viewing them, they can also be downloaded by scrolling to the bottom of the screen and clicking on the "Unit 6 - Slides" link.*
-
-- This activity is an opportunity to examine attribution theory and cognitive dissonance. Put simply, attribution theory asserts that people explain other people’s behaviour by looking at either their personal dispositions or their situation. Which lens you use to view people through powerfully shapes your thoughts and actions towards them. Next, cognitive dissonance involves mental discomfort when your attitudes and actions are not in alignments. The article on cognitive dissonance shares are three factors that influence the level of dissonance a person may feel.  
-- Social influence is everywhere; hence, it is important to recognize when you are being influenced by propaganda, brainwashing, or other manipulative messages. The first article in this activity allows you to interact with some facts and uses of social influence, which can increase your ability to recognize when these techniques are being used on, or by, you. The second article looks more in-depth than your textbook at the concepts of conformity and obedience and lays out different examples of each of these topics.  
-- This Activity focuses on conformity, compliance, and obedience, and a consideration of ethical principles. Doing research that involves the use of deception is a highly debated issue within psychology. The articles in this activity will help you to become more knowledgeable about Stanley Milgram and research that looks at obedience. There is also a resource that discusses what the ethics psychologists must follow along with a decision-making process when facing an ethical dilemma article. *Do not feel compelled to read every article extensively (though, they are all interesting), a review of the material should be sufficient to answer the Learning Lab questions.*  
-- In this activity you will gain further knowledge about strategies that are employed to promote compliance. The first article draws attention to the myriad ways social media is, for the good and for the bad, shaping culture today. The second article describes the difference between what constitutes mind control versus social conditioning. This information is certain to be eye-opening.  
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-- Each topic will provide a question or scenario for you to consider prior to attending your Learning Lab. Be sure to carefully consider each prompt as you will be expected to contribute to the group discussion.  
 
 ```
+
+```{block2, type='caution'}
+
+***Note***  
+The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+
+```
+
+```{block2, type='assessment'}
+
+***Assessment***  
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
+
+```
+
 
 ### Resources {-}
 
