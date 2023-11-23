@@ -12,11 +12,11 @@ After taking time to review scientific research methodologies, we will turn our 
 
 This unit is divided into the following topics:
 
- 1. Review- Scientific Research  
- 2. Thinking and Problem Solving  
- 3. Cognitive Biases  
- 4. Language and Thought  
- 5. Animal Language  
+1. Review- Scientific Research  
+2. Thinking and Problem Solving  
+3. Cognitive Biases  
+4. Language and Thought  
+5. Animal Language  
 
 
 ### Learning Outcomes {-}
@@ -30,8 +30,6 @@ When you have completed this unit, you should be able to:
 - Assess whether anecdotes, authority figures, and common sense are reliably truthful sources of information.  
 - Understand what it means for variables to be positively or negatively correlated and how and why psychologists use significance tests.  
 
-
-
 ### Activity Checklist: {-}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
@@ -41,7 +39,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Activity</span>
 
 - Read Chapters 2 and 8 of your textbook
-- Review Unit 1 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Review Chapters 2 and 8 - Notes (intended to support your understanding of your readings) 
 - Complete the Chapter 2 Review Question (ungraded)
 - Complete the Problem Solving Activity (ungraded)
 - Explore the Problem Solving Practice Activity
@@ -52,6 +50,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 ```{block2, type='caution'}
 
 ***Note***  
+  
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
@@ -59,6 +58,7 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 ```{block2, type='assessment'}
 
 ***Assessment***  
+  
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
@@ -88,16 +88,14 @@ I think psychology is one of the most interesting areas of study there is, first
 
 <!-- [plugin:content-inject](_alert)-->
 
-### Learning Activity {-}
+### Learning Activity: Chapter 2 Review Quiz {-}
 
 ```{block2, type='reflect'}
-
-<span class="blockhead">Activity: Chapter 2 Review Quiz</span>
 
 In order to review some of the major concepts from the text, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=78" width="648" height="969" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Chapter 2 Review"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
-
+  
 ```
 
 ## Thinking and Problem Solving
@@ -140,34 +138,17 @@ Algorithms and heuristics are examples of cognitive strategies—mental plans we
 
 ```{block2, type='reflect'}
 
-In addition to the content above, you are also responsible for reading through the following:
+- Read Chapter 8 from your text and review the notes.
 
-*Krause et. al (2018). Revel for An Introduction to Psychological Science, 2nd Canadian Edition. Chapter 8*
+```
 
-While all of these pages may not relate directly to this unit’s discussion, consistent reading will help you keep pace, as well as provide necessary background knowledge when you need it.
+### Activity: Problem Solving Activities {-}
 
-<span class="blockhead">Problem Solving Activity</span>
+```{block2, type='reflect'}
 
 In this lesson, we spent time exploring cognitive strategies used to solve problems and make decisions. We now have an opportunity to practice this on our own Take a look at the following problems and see if you can find a solution. As you work through the problems, think about what cognitive strategies you are implementing as you make each decision:
 
-<span class="blockhead">Problem A</span>
-
-- Take a look at the following Roman Numeral: **IX**
-- Now add one line to the Roman numeral **IX** to make it six
-
-<details> 
-<summary>Click here for the solution.</summary>
-
-The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.
-</details>
-
-<span class="blockhead">Problem B</span>
-
-Your task is to plant trees on Arbor Day. You have ten trees that must be planted in five rows of four trees each. How would you plant the trees?
-
-<details>
-<summary>Click here for the solution.</summary>
-The answer is that you would arrange them at the vertices and cross-points of a 5-pointed star </details>
+<iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=573" width="760" height="383" frameborder="0" allowfullscreen="allowfullscreen" title="Unit 1 - Problem Solving Activity"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <span class="blockhead">Problem Solving Practice</span>
 
@@ -175,22 +156,25 @@ Below is a website that provides more opportunity to work through, and solve, so
 
 Click on the following link and read through the information as you continue to practice your problem solving:
 
-[**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
+- [**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Your Learning Lab for this unit will focus on group discussion as explore the topics of this unit in more detail. As you prepare for your Learning Lab, one possible scenario that discussion will focus on is below- please prepare some thoughts to share with the group:
+### Activity: Questions for Consideration {-}
 
+```{block2, type='reflect'}
+
+Read the following and consider the questions below:
 In the largest sense, society is breaking into two classes:
-
-*The first class are people who know how to think. These people realize that most problems are open to examination and creative solution. If a problem appears in the lives of these people, their intellectual training will quickly lead them to a solution or an alternative statement of the problem. These people are the source of the most important product in today's economy – ideas.*
+  
+*The first class are people who know how to think. These people realize that most problems are open to examination and creative solution. If a problem appears in the lives of these people, their intellectual training will quickly lead them to a solution or an alternative statement of the problem. These people are the source of the most important product in today's economy-ideas.*
 
 *The second class, the vast majority of society, are people who cannot think for themselves. I call these people ‘idea consumers’ – metaphorically speaking, they wander around in a gigantic open-air mall of facts and ideas. The content of their experience is provided by television, the Internet and other shallow data pools. These people believe collecting images and facts makes them educated and competent, and all their experiences reinforce this belief. The central, organizing principle of this class is that ideas come from somewhere else, from magical persons, geniuses, ‘them.’*
 
-Consider the following prompts to help better prepare for the discussion:
+- ***Do you agree or disagree with this claim?***
+- ***Do you know people that fit in the second category? What causes this difference? How might it be changed?***
 
-- ***Do you agree or disagree with this claim?***  
-- ***Do you know people that fit in the second category? What causes this difference? How might it be changed?***  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
@@ -224,21 +208,29 @@ Research by Douglass Kenrick and his colleagues indicates that we also show cont
 
 By now you may be wondering why we fall prey to so many cognitive biases and errors. Well don’t worry; our biases are actually a side effect of our cognitive efficiency. Most of our biases result from using heuristics, rules of thumb, or mental shortcuts that work very well. Sometimes they let us down, but overall, they improve the speed with which we handle mental problems—much like Mr. Feynman’s safe-cracking tricks. As we noted in the previous discussion, you could certainly open a safe much faster if you found the combination on the edge of the secretary's drawer. However, you won’t always find the combination there, so limiting yourself to this approach would produce a kind of “cognitive bias” in your safe-cracking strategy.
 
-### RESOURCES: Online Articles of Interest {-}
 
+```{block2, type='caution'}
+
+**Online Articles of Interest** 
+  
 For additional information and examples, click on the link below:
 
-[**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases){target="_blank”}
+- [**Cognitive Biases**](https://en.wikipedia.org/wiki/List_of_cognitive_biases){target="_blank”}
 
-<!-- [plugin:content-inject](_activities) -->
-
-### Learning Lab Preparation {-}
-
-Another focus of our discussion during our Learning Lab for this unit, will focus on biases. In order to prepare for participation in this discussion, consider the guiding prompt below- be sure to have some thoughts to contribute to the discussion:
-
-***Give an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
+```
 
 
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider what you have learned in this section - take a moment to reflect on the following:
+
+- ***Can you think of an example from your own experience of one of the cognitive biases, discussed here or in the textbook, that you have fallen prey to.***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
+  
+```
 
 ## Language and Thought
 
@@ -260,16 +252,22 @@ Mental practice is now widely accepted in many areas. The following excerpt is t
 
 In this Topic, we learned about the notion of mental practice. Below is an article that will take you through the process of visualization. Take some time to read the article and practice for yourself. Pay careful attention to your thoughts, your focus, your feelings as you engage in the process.
 
-- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}   
+- [**Introduction to Visualization**](https://www.forbes.com/sites/bhaligill/2017/06/22/new-to-visualization-here-are-5-steps-to-get-you-started/#60dafcdc6e3f){target="_blank”}
+                                        
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Question for Consideration {-}
 
-The subject of our focus for this Topic has been on the power of language in influencing how we see the world. Our discussion during Learning Lab this week will focus on the importance of language in the Bible (and other religious writings) and how it "shapes" how we see the world.
+```{block2, type='reflect'}
 
-To prepare for this discussion, consider the following prompt:
+The subject of our focus for this section has been on the power of language in influencing how we see the world. In this activity, you are asked to focus on the importance of language in the Bible (and other religious writings) and how it "shapes" how we see the world.
 
-***Give some examples of the importance of language in the Bible or other religious writings.***
+Carefully consider the following question:
 
+- ***Give some examples of the importance of language in the Bible or other religious writings.***
+
+*Be prepared to share your thoughts and insights with other members of the class*
+  
 ```
 
 ## Animal Language
@@ -284,7 +282,9 @@ But is this truly language? There is no doubt that the animals are using symbols
 
 Christians need to think carefully about what they mean when they talk about the image of God in man. The area of human learning and psycholinguistics offers some intriguing questions for thoughtful Christians. What is the origin of human speech-is it learned (as Skinner would say) or largely innate (as Chomsky would say)? Is human speech unique? Do the studies of language in animals necessitate a redefinition of the uniqueness of man? (Based on Psychology and Christianity by Ron Philipchalk, p. 102)
 
-### RESOURCES: Online Articles of Interest {-}
+```{block2, type='caution'}
+
+**Online Articles of Interest**  
 
 To add to our exploration of this topic, take a moment to read the following articles:
 
@@ -292,33 +292,28 @@ To add to our exploration of this topic, take a moment to read the following art
 
 - [**Animal Language and Cognition Projects**](https://www.massey.ac.nz/~alock/hbook/ristau.htm){target="_blank”}  
 
-<!-- [plugin:content-inject](_activities) -->
+```
 
-### Activity: Learning Lab Preparation {-}
+### Activity: Questions for Consideration {-}
 
 ```{block2, type='reflect'}
 
-Finally, take a moment to consider the following questions:
+Take a moment to consider the following questions:
 
-***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
+- ***How important for our understanding of who we are as humans is the distinctiveness of our language ability? Is it a sign of the image of God?***
 
-Be prepared to share your thoughts during discussion at your Learning Lab.
-
+*Be prepared to share your thoughts and insights with other members of the class*
+  
 ```
 
 ## Assessment {-}
 
 ```{block2, type='assessment'}
 
-While there is no "formal" assignment that you will be responsible for submitting for Unit 1, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
+Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
+  
+In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
-*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
-
-**Rubric for Participation in Learning Labs**
-
-| Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
-|-|-|-|
-|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
 
 ```
 

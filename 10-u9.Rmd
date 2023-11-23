@@ -34,7 +34,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Activities</span>
 
 - Read the relevant sections of Chapter 14 of your textbook
-- Review Unit 9 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Review the Chapter 14 - Slides (intended to support your understanding of your readings) 
 - Complete the Personal Reflection activity (ungraded) 
 - Watch and reflect upon the *How to Make Stress Your Friend* video
 - Read the article from *Psychology Today* 
@@ -45,17 +45,18 @@ Here is a checklist of learning activities you will benefit from in completing t
 ```{block2, type='caution'}
 
 ***Note***  
+  
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
 
 ```{block2, type='assessment'}
 
-***Assessment***  
+***Assessment***
+  
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
-
 
 ### Resources {-}
 
@@ -91,8 +92,7 @@ Assertiveness represents a third alternative but one that is often confused with
 
 ```{block2, type='reflect'}
 
-
-Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. Share these in your Learning Lab/Forum.
+Now that you have some understanding concerning the differences between aggression, submission, and assertion, look at the situations below and devise all three kinds of responses to each one. *Be prepared to share your insights with other members of the class*
 
 ***Situation #1:*** *Someone is crowding in front of you in line at the grocery store.*
 
@@ -124,15 +124,21 @@ Now that you have some understanding concerning the differences between aggressi
 - Submissive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 - Assertive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-Finally, in your forum, comment/respond on the following:
+Finally, consider the following:
 
 - ***Are any of your responses affected by your religious beliefs? How so?***
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider the following question - how does it connect to what you have learned in this section:
 
 - ***Each of us has some minor annoyances that add to our stress level more than they should. What gets you stressed out? What are your everyday "pet peeves" (annoyances)? Does the stress that these things produce seem justified? What are some things you can do to decreases your stress responses to these situations?***
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -166,21 +172,29 @@ After watching the video, take a few minutes to read about Dr. Gil Greengross’
 
 - [***Psychology Today***](https://www.psychologytoday.com/intl/blog/humor-sapiens/201805/humor-may-not-be-so-good-your-health){target="_blank”}  
 
-Take some time to ponder the messages in these resources. The questions during Learning Lab will challenge you and your thoughts around the above sources.
+```
 
-<span class="blockhead">Key Terms Quiz</span>
+### Activity: Chapter 14 Key Terms Quiz {-}
+
+```{block2, type='reflect'}
 
 In order to review some of the major terms from Chapter 14 in your textbook, take the following unmarked quiz. Although you will not be evaluated on these terms, they will assist you in the assessments for this course.
 
 <iframe src="https://create.twu.ca/h5p/wp-admin/admin-ajax.php?action=h5p_embed&id=83" width="936" height="706" frameborder="0" allowfullscreen="allowfullscreen" title="Psych 106 - Unit 9 Quiz"></iframe><script src="https://create.twu.ca/h5p/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
 
-- ***Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?***  
+Reflect on the following questions:
+
+- ***Who is ultimately responsible for how you react to different situations and circumstances in your life? How do you know this?***
 - ***Is there a good time to just laugh something off?***  
-- ***What are some potential stress related consequences of habitually turning to humour when dealing with stress?***  
+- ***What are some potential stress related consequences of habitually turning to humour when dealing with stress?*** 
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -188,54 +202,9 @@ Prior to your Learning Lab, take some time to think about the following question
 
 ```{block2, type='assessment'}
 
-In addition to your participation in this unit's Learning Lab, you will also be responsible for two formal assessments. The first, is your **Writing Assignment #2** - more information can be found on this assignment by scrolling down the page. The second assessment that will take place is your second quiz - again, more information can be found by scrolling down the page.
-
-*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
-
-**Rubric for Participation in Learning Labs**
-
-| Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
-| -| -|-|
-|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks), Initiates any contributions in class or small groups, Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion;  Makes insightful or constructive comments,  Helps maintain a supportive space for others to speak.| Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.
-
-
-## Writing Assignment #2
-
-Your second writing assignment for the course will involve reading a formal research article and extracting important information. Research articles play an important role in the field of psychology as they present new findings and research that help us better understand the subject field. It is critical, however, to understand what information is important as we assess the value of the article we are reading. This assignment attempts to help us better understand those considerations.
-
-Prior to moving ahead, it is strongly encouraged that you take a moment to review the [**How to Read Empirical Articles**](assets/unit_9/Assessment_Empirical_Short.pdf){target="_blank”} reading from the first writing assignment - this will serve as a reminder *why* you are reading an article so you can better understand *what* is important to get out of it.
-
-Building upon that, also take some time to review [**How to Read a Journal Article in Social Psychology**](assets/unit_9/Assessment_Empirical_Long.pdf){target="_blank”} - this article will help support your understanding of formal, empirical research journal articles.
-
-### Finally {-}
-
-After reviewing the resources above, we begin this assignment by reading the following article:
-
-[**Pathways Linking Early Socioeconomic Adversity to Diverging Profiles of Romantic Relationship Dissolution in Young Adulthood**](assets/unit_9/Romantic_Relationship_Dissolution_in_Young_Adulthood.pdf){target="_blank”}
-
-<!-- [plugin:content-inject](_alert) -->
-
-### Rubric for Writing Assignment #2 {-}
-
-In addition to the criteria included in the rubric below, it is expected that students submit their assignments with an APA style title page.
-
- Estimate that each response will be between one paragraph to ½ a page (depending on what the question is asking and how much information is in the article). The total amount of content will be between 2 ½ to 3 pages (not including the title page).
-
-| **Exceeds Expectations** | **Meets Expectations**          | **Minimally Meets Expectations**           | **Does Not Meet Expectations**                 |
-||--|--|-|
-|Responses are accurate and address the questions in a comprehensive manner     |Responses are accurate  and address the questions but could demonstrate more meaningful comprehension  of content     |Responses may lack accuracy in addressing the questions and/or may demonstrate limited comprehension of content     | Responses do not  accurately address the questions or do not demonstrate any comprehension of content   |
-|Clear, precise and well-reasoned responses     |Mostly clear, precise and well-reasoned responses              |Some clear, precise and well-reasoned responses        |Responses lack clarity, logic and/or precision              |
-|    |Spelling and grammar are accurate.                 |Minor and/or few spelling or grammatical errors.       | Several spelling or grammatical errors.      |
-
-***To submit your completed assignment, scroll to the bottom of the page and click on the "Writing Assignment #2" tab - follow the directions there.***
-
-### **Quiz #2** {-}
-
-Upon completing your Writing Assignment #2, you will next complete your second quiz.
-
-Your instructor will provide additional instructions. Student's will be provided with one attempt. You will be provided information about when the quiz will open so you can begin.
-
-***To begin your quiz,*** click on the **Quiz #2** tab at the bottom of the screen.
+Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
+  
+In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 ```
 

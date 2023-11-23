@@ -10,8 +10,11 @@ intelligence-testing
 what-is-intelligence
 extremes-of-intelligence
 nature-nature-and-iq
+<<<<<<< HEAD
 what-will-you-do
 test-biases
+=======
+>>>>>>> 225aa0c3f657e0b431185c74c9a88045be59915d
 the-developing-person---part-1
 prenatal-development
 infancy-and-childhood
@@ -43,7 +46,10 @@ stress-and-coping
 stress
 aggression-submission-and-assertion
 health-psychology
+<<<<<<< HEAD
 writing-assignment-2
+=======
+>>>>>>> 225aa0c3f657e0b431185c74c9a88045be59915d
 psychological-disorders
 looking-at-what-is-normal-and-anxiety-disorders
 mood-disorders

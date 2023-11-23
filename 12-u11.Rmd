@@ -29,21 +29,23 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Activities</span>
 
 - Read the relevant sections of Chapter 16 of your textbook
-- Review Unit 11 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Review the Chapter 16 - Notes (intended to support your understanding of your readings) 
 - Read and reflect about the articles from *PsychCentral,* *Behaviour Online,* and *Integration Models*
 
 ```
 
 ```{block2, type='caution'}
 
-***Note***  
+***Note*** 
+  
 The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 ```
 
 ```{block2, type='assessment'}
 
-***Assessment***  
+***Assessment*** 
+  
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ```
@@ -86,37 +88,33 @@ In a work for Christian counselors, Koteskey (1983) gives the example of his eig
 For many people unfamiliar with the journey of counselling, finding suitable resources may feel daunting. It is important to know that there are many different approaches designed to help you accomplish the growth goals you have for your life. In this activity, the first resource, Psych Central is the oldest peer-reviewed psychology and mental health network on the Internet. Established in 1992, originally it was an index to mental health. Now it gives you the opportunity to see some treatment options for a wide variety of conditions. Additionally, there is a resource on different theoretical approaches to behavior change, and a link to some information concerning the integration of Christianity and psychotherapy.
 
 - [**PsychCentral**](https://psychcentral.com/){target="_blank”}  
-- [**Behaviour Online**](http://www.behavior.net){target="_blank”}  
-- [**Integration Models**](http://www.psyche.gr/lpsycrel.htm){target="_blank”}  
 
-<span class="blockhead">Learning Lab Preparation</span>
+- [**Behaviour Online**](http://www.behavior.net){target="_blank”}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+- [**Integration Models**](http://www.psyche.gr/lpsycrel.htm){target="_blank”}
+
+```
+
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Read the questions below and consider how they connect to what you have learned:
 
 - ***What is your view of the role of sin (or questionable moral behaviours) or other religious/spiritual beliefs in the treatment of psychological disorders?***  
-- ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?***  
+- ***What kinds of religious/spiritual beliefs could lead to greater feelings of guilt/shame and increased psychological disorder?*** 
 
-***As we approach our final unit, please take a moment to look ahead to the "Term Paper" tab. Here you will find important information that ties to completing the course. It is important to begin preparing now, for these final assessments, in order to manage your time and avoid being overwhelmed. Not only will you have to complete your Quiz #3 at the end of Unit 12, but you will also be responsible for submitting a Term Paper and writing a Final Exam- it is strongly recommended that you begin planning now!***
-
+*Be prepared to share your thoughts with other members of the class.*
+  
 ```
 
 ## Assessment {-}
 
 ```{block2, type='assessment'}
 
-While there is no "formal" assignment that you will be responsible for submitting for Unit 11, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
-
-<span class="blockhead">Learning Lab</span>
-
-Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
-
-*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
-
-**Rubric for Participation in Learning Labs**
-
-| Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
-|-|-|-|
-|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
+Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
+  
+In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 ```
 

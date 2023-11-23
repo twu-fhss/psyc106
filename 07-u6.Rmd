@@ -32,12 +32,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 <span class="blockhead">Learning Activities</span>
 
 - Read the relevant sections of Chapter 13 of your textbook
-- Review Unit 6 Slides (intended to support your understanding of your readings) - *scroll to bottom of page*
+- Review the Chapter 13 - Notes (intended to support your understanding of your readings) 
 - Read about *Attribution Theory* and *Cognitive Dissonance*  
 - Read and Reflect on the two articles *Social Influence* and *Conformity and Obedience*
 - Read the four resources on ethical guidelines when performing research
 - Explore the two articles on the *Influence of Social Media* and *Cults*
-
 
 ```
 
@@ -83,19 +82,24 @@ The ultimate attribution error tends to perpetuate our false stereotypes and pre
 
 ```{block2, type='reflect'}
 
-Attributes, and our perception of attributes, has been the focus of this lesson. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
+Attributes, and our perception of attributes, has been the focus of this lesson. Take a moment to read through the following resources and consider how they connect to what you have learned:
 
  - [**Attribution Theory**](https://www.verywellmind.com/attribution-social-psychology-2795898){target="_blank”}  
  - [**Cognitive Dissnonance**](https://www.simplypsychology.org/cognitive-dissonance.html){target="_blank”}  
 
 These articles bring to light phenomena that tend to occur automatically (without conscious processing) for most people. Now that the concepts of attribution and cognitive dissonance are in your awareness it could be valuable to thoughtfully consider which attribution style you tend towards (dispositional or situational) and how that style influences how you treat others and how others respond to you. And, then ask, what am I doing with my cognitive dissonance? Do I tend to change my attitudes to fit my behaviours or do I adjust my behaviours to be alignment with my attitudes, values, and beliefs?
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following scenario. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Consider the following questions:
 
 - ***Describe a time when you were forced to act in a certain way, and then later found you had come to enjoy what you were doing. That is, your attitude followed your actions.***  
 - ***Could this happen with religious attitudes and beliefs too?***  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
@@ -133,20 +137,26 @@ The "Mach Test" is a twenty-item inventory designed to reveal Machiavellian tend
 
 ```{block2, type='reflect'}
 
-We investigated conformity, and the role it plays. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
+We investigated conformity, and the role it plays. The following resources will help support your understanding:
 
  - [**Introduction to Social Influence**](http://www.workingpsychology.com/intro.html){target="_blank”}  
  - [**Conformity AND Obedience**](https://webspace.ship.edu/cgboer/conformity.html){target="_blank”}  
 
  *Due to the pervasiveness of social influence, it cannot be overstated how important it is to understand the concepts and techniques associated with it. The purpose of these resources is to allow you to grow in your ability to be persuasive and to recognize when tools of influence are being used on you. It will also allow you to be more mindful of what/who you are conforming to and why it is that you are doing so. If you are really adventurous you may even want to take this knowledge to help you or someone else adopt a new attitude, belief, or action.*
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideraton {-}
+
+```{block2, type='reflect'}
+
+Take a moment to consider the following questions in light of what you have learned in this section:
 
 - ***What pressures for conformity exist in your community? On your campus?***  
 - ***What happens to people who do not conform?***  
-- ***Is conformity good or bad? What would society be like without conformity?***  
+- ***Is conformity good or bad? What would society be like without conformity?*** 
+  
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -207,7 +217,7 @@ Bartleby manages to defy his employer and yet keep his job because his meek repl
 
 ```{block2, type='reflect'}
 
-This unit, we learned about obedience. We saw that obedience is strongest level of social influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
+This unit, we learned about obedience. We saw that obedience is strongest level of social influence. Read through the following resources and consider how they relate to what you have learned:
 
 - [**Conformity, Compliance, and Obedience**](https://www.units.miamioh.edu/psybersite/cults/cco.shtml){target="_blank”}  
 - [**Milgram experiment facts for kids**](https://kids.kiddle.co/Milgram_experiment){target="_blank”}
@@ -216,14 +226,20 @@ This unit, we learned about obedience. We saw that obedience is strongest level 
 
 *As mentioned earlier, it is not necessary to read each resource thoroughly. What is important is to gain comprehension of the importance of using ethical guidelines when doing research on conformity, compliance, and obedience. Start to ponder how necessary is it to involve the use of deception in research. Ask yourself how you would feel if you were actually part of an experiment that was measuring compliance and you were deceived about what the researchers were actually doing? Also, while reading this information have you been able to recognize areas of your life where you are unquestionably following an authority figure? When answering questions like this I would encourage you to not be overly critical of yourself or others, rather, just notice where certain phenomena are present in your life and if you would like to do anything about it.*
 
-<span class="blockhead">Learning Lab Preparation</span>
+```
 
-Prior to your Learning Lab, take some time to think about the following scenario and questions. You will be asked to share your thoughts in this week's Learning Lab:
+### Activity: Questions for Consideration {-}
+
+```{block2, type='reflect'}
+
+Read through the following and consider the questions below:
 
 *When people read about Stanley Milgram's experiments on obedience to au­thor­ity, they are often puzzled at the ethics of this research. You have probably have heard of these studies before and already have some views about the ap­propriate­ness of the procedures. All psychologists follow ethical guidelines in their research established by national governing bodies (e.g., CPA, APA). At the heart of these state­ments about ethics are the responsibilities to: protect the subject's welfare, avoid deception, provide anonymity, and provide therapy or relief from any unin­tended results of the experiment. Each of these general principles applies to the Milgram studies. Do you believe that the studies could be conducted today, given what we know now about ethics and about Milgram's results?*
 
 - ***Does the severity of the problem studied—in this case destructive obedience—justify more extreme steps to manipulate and deceive experimental subjects?***  
-- ***Under what circumstances do you personally think that deceiving subjects in a scientific experiment might be ethically warranted or justified?***  
+- ***Under what circumstances do you personally think that deceiving subjects in a scientific experiment might be ethically warranted or justified?***
+
+*Be prepared to share your thoughts with other members of the class*
 
 ```
 
@@ -251,22 +267,28 @@ These and other techniques have been shown to greatly increase the effectiveness
 
 ```{block2, type='reflect'}
 
-In this Topic we studied compliance and its use as a tool of influence. This will be the focus of this unit's Learning Lab. In order to prepare for discussion this week, take a moment to consider the following resources:
+In this Topic we studied compliance and its use as a tool of influence. Take a moment to read through the following resources to further your understanding:
 
 - [**Social Media and Its Stark Influence on Society **](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1004&context=writ){target="_blank”}  
 - [**Cults: Questions and Answers**](https://cultrecovery101.com/cults-questions-and-answers/){target="_blank”}  
 
 *The purpose of the information being shared in this topic and through these resources is to help you recognize who and/or what you are allowing to be an influence in your life? Asking the question, “Who is teaching me how to be influential and what direction is that influence taking me in?” can be invaluable in helping you examine how you are spending your time and if you are truly satisfied in the direction of your life. Remember, tools of influence are just that – tools. Any tool can be used towards benefit or detriment, it just depends on how it is being applied.*
+  
+```
 
-<span class="blockhead">Learning Lab Preparation</span>
+### Activity: Questions for Consideration {-}
 
-Prior to your Learning Lab, take some time to think about the following questions. You will be asked to share your thoughts in this week's Learning Lab:
+```{block2, type='reflect'}
+
+Take a moment to reflect on what you have learned this week. Use the following questions to guide your reflection:
 
 - ***Have you ever been taught a sales technique in your job experience? If so, explain...***  
 
 If you have not been taught a sales technique, you certainly have experienced many as a consumer. Can you give an example? Here is one:
 
 ***One of the standard ways that door-to-door salespersons will try to get you to buy something is the so-called foot-in-the-door technique: They will ask you to do them a small favor. Having done so, you will have to justify your own behavior to yourself by think­ing nice things about the seller. Hence, you are more likely to comply when they ask you to sign on the dotted line.***
+  
+*Be prepared to share your thoughts and insights with other members of the class*
 
 ```
 
@@ -274,19 +296,9 @@ If you have not been taught a sales technique, you certainly have experienced ma
 
 ```{block2, type='assessment'}
 
-While there is no "formal" assignment that you will be responsible for submitting for Unit 6, you will be expected to participate in discussion during your Learning Lab. Your facilitator will be providing a participation mark based on your contributions. Below is some information to consider prior to attending your Learning Lab:
-
-<span class="blockhead">Learning Lab Preparation</span>
-
-Your facilitator will be providing a participation mark based on your contributions for this unit. Below is some information to consider prior to attending your Learning Lab:
-
-*Active participation in group exercises, reflection, and critical discourse is an essential component of this course. You are expected to show respect for all members of the course, both in your speech and actions. Contribute by actively observing and listening, raising thoughtful questions, examining relevant issues, building on others’ ideas, analyzing and evaluating the group’s thinking, synthesizing key points, and expanding the group’s perspectives. Take care not to dominate a conversation, giving space for others to speak. When in small groups help maintain the focus, flow, and quality of conversations, and take the initiative to invite others (particularly those who are quiet) to speak.*
-
-**Rubric for Participation in Learning Labs**
-
-| Emerging (0-64%) | Developing (65-89%) | Mastering (90-100%)|
-| -| -|-|
-|Never to almost never: Demonstrates active listening (as indicated by disengaged body language and no to rare comments that build on others’ remarks),Initiates any contributions in class or small groups, Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Sometimes to fairly often: Demonstrates active listening (as indicated by somewhat to often engaged body language and comments that build on others’ remarks), Initiates a contribution at least once in a class or small group discussion; Makes insightful or constructive comments, Helps maintain a supportive space for others to speak.|Very often to nearly always: Demonstrates active listening (as indicated by fully engaged body language and comments that build on others’ remarks), Initiates more than one contribution in a class or small group discussion, Makes insightful or constructive comments, Creates a space for others to speak and takes initiative to include others.|
+Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
+  
+In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 ```
 

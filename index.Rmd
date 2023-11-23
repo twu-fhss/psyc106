@@ -10,7 +10,13 @@ biblio-style: apalike
 
 # Welcome {-}
 
-This is the course book for Psychology 106. This book is divided into thematic units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportunities to practice various skills.
+<div class="video-container">
+
+<iframe src=https://mytwu-my.sharepoint.com/personal/todd_dutka_twu_ca/_layouts/15/embed.aspx?UniqueId=c94d5723-ec1d-4061-a29d-5d61fd3a947e&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="PSYC 106 GX Intro Video 1.mp4"></iframe>
+
+</div>
+
+This is the course book for PSYC 106. This book is divided into 6 units of study to help you engage with the materials. The course resources and learning activities are designed not only to help prepare you for the course assessments, but also to give you opportinities to practice various skills.
 
 > Below you will find information about how to navigate this book. Please read the full course syllabus located on the Course Home page in Moodle. It includes key information about the course schedule, assignments, and policies.
 
