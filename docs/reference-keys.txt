@@ -2,10 +2,9 @@ fig:unnamed-chunk-1
 fig:unnamed-chunk-2
 thought-and-language
 what-is-psychology
-thinking-and-problem-solving
-cognitive-biases
-language-and-thought
-animal-language
+how-did-psychology-begin
+what-do-psychologists-do
+thinking-critically-with-psychological-science---limits-of-psychology
 intelligence-testing
 what-is-intelligence
 extremes-of-intelligence
