@@ -161,8 +161,6 @@ What kind of ethical questions do you think might arise in the study of psycholo
 What about research with humans? It is probably obvious that research should not inflict harm. But could even asking certain questions cause a certain amount of distress in some people? What about deception? Should it ever be used? If so, when and why? When does field research (the observation of people in natural settings) become an invasion of their privacy?
 You can find a complete listing of ethical guidelines for research in psychology at:
 
-//todo #23
-
 - Canadian Psychology Association  
 - American Psychology Association [https://www.apa.org/ethics/code/index]{target="_blank”}  
 
@@ -291,7 +289,7 @@ Below is a website that provides more opportunity to work through, and solve, so
 
 Click on the following link and read through the information as you continue to practice your problem solving:
 
-- [**Virtual Salt**](https://www.virtualsalt.com/crebook4.htm){target="_blank”}
+- [**Virtual Salt**](https://www.virtualsalt.com/problem-solving-techniques/){target="_blank”}
 
 ```
 
