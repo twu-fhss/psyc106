@@ -97,7 +97,7 @@ Marshall Segall and his colleagues suggest that many young black American males 
 
 ### Empathy & Aggression {-}
 
-Several researchers suggest that empathy and concern for others may be important tools for reducing aggression. Prejudice, discrimination, and violent sexual aggression flourish when we dehumanize a victim. If a policeman is a “pig,” a homosexual a “fag,” or a woman a “playmate,” “pet,” or “bitch,” it is easier to excuse and even justify our hostile actions. Empathy reverses this process by making us identify with a potential victim. For example, Ken-Ichi Ohbuchi and his colleagues found that Japanese students gave less shock to a "victim" if the victim first aroused subjects' empathy by disclosing information about herself or by expressing her fear of shock. *(adapted from Invitation to Social Psychology by Ronald Philipchalk)*
+Several researchers suggest that empathy and concern for others may be important tools for reducing aggression. Prejudice, discrimination, and violent sexual aggression flourish when we dehumanize a victim. Empathy reverses this process by making us identify with a potential victim. For example, Ken-Ichi Ohbuchi and his colleagues found that Japanese students gave less shock to a "victim" if the victim first aroused subjects' empathy by disclosing information about herself or by expressing her fear of shock. *(adapted from Invitation to Social Psychology by Ronald Philipchalk)*
 
 ### Conflict Resolution & Culture {-}
 
@@ -144,19 +144,13 @@ Take a moment to reflect on what you have learned in this section. Use the follo
 
 The characteristics that are attractive in the opposite sex, as well as the impor­tance of physical attractiveness, are different in different cultures. Deborah Stiles and her colleagues found that Mexican adolescents valued liking children, helping others, high intelligence, and inner goodness and honesty in their oppo­site-sex ideal. American adolescents gave higher ratings to having a lot of money, being fun, popular, good looking, and sexy. Karen Dion and her colleagues found that physical attractiveness is more impor­tant in a culture where individualism (Canadian) rather than collectivism (Chinese) is valued.
 
-David Buss and 49 collaborators in 33 countries asked young men and women (average age 23 years) about the attributes they looked for in potential mates. The researchers found many differences among cultures. The most pervasive difference they found was the emphasis given to "traditional" versus "modern" attributes. Young people looking for a mate in, and place great value on the traditional attributes of chastity, home and children, domestic skills, and providing for the family. At the other extreme, in the , , , and , young people looking for mates did not consider these attributes very important.
-
-```{block2, type='caution'}
-
-***Canadian and American values were in between these extremes.***
-
-```
+David Buss and 49 collaborators in 33 countries asked young men and women (average age 23 years) about the attributes they looked for in potential mates. The researchers found many differences among cultures. The most pervasive difference they found was the emphasis given to "traditional" versus "modern" attributes.
 
 American young people differed from the international average by placing a higher value on a college degree, earning capacity, heredity, and "an exciting personality." They placed a relatively low value on housekeeping skills, and intelligence (Buss, 1990). Without this kind of information it would be easy for us to assume that people in other cultures look for the same qualities in their potential mates as we do. *(adapted from Understanding Human Behavior by Ronald Philipchalk)*
 
 ### Culture & Altruism {-}
 
-Ronald Johnson and George Danko (1989) report significant differences in altru­ism between cultures in , , , , the , and . Benjamin Colby reports that differences in altruism between stu­dents from 133 different cultures were predictive of their ability to adapt to university culture (altruistic students adapted better). In one study Wegner and Crano found that racial fac­tors affected helping behavior. An exper­i­menter who was apparently engrossed in examining a deck of 500 computer cards approached naive subjects. Approximately one step away from the subject, the experimenter "accidentally" dropped the entire deck. Blacks helped whites 17 percent of the time but they helped blacks 75 percent of the time. Whites helped both whites and blacks 44 percent of the time.
+Benjamin Colby reports that differences in altruism between stu­dents from 133 different cultures were predictive of their ability to adapt to university culture (altruistic students adapted better). In one study Wegner and Crano found that racial fac­tors affected helping behavior. An exper­i­menter who was apparently engrossed in examining a deck of 500 computer cards approached naive subjects. Approximately one step away from the subject, the experimenter "accidentally" dropped the entire deck. African Americans helped Caucasians 17 percent of the time but they helped African Americans 75 percent of the time. Caucasians helped both whites and African Americans 44 percent of the time.
 
 ```{block2, type='caution'}
 

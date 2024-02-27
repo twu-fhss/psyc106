@@ -53,9 +53,4 @@ therapy---part-2
 evaluating-therapy
 biological-treatments
 preventing-problems
-final-assessments
-term-paper
-evaluating-therapy-1
-biological-treatments-1
-preventing-problems-1
 course-development-team

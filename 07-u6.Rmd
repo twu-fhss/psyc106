@@ -68,7 +68,7 @@ Here are the resources you will need to complete this unit:
 
 If you study attribution further, perhaps in a “Social Psychology” course, you find that there are several errors in attribution common to our perceptions of behavior. The ultimate attribution error is a combination of biases that influences our interpretation of behavior in our friends and our foes. The ultimate attribution error is our tendency to use internal attributions to explain socially desirable actions by members of our own group and socially undesirable actions by members of an opposing group. The same bias leads us to use external attributions to explain socially undesirable actions of our own group and socially desirable actions of our foes (Hewstone, 1988; Pettigrew, 1979, 1980 ; Taylor and Jaggi, 1974 ).
 
-A study by Donald Taylor and V. Jaggi (1974) illustrates this bias among south Indian subjects. Taylor and Jaggi found that Hindu subjects attributed socially desirable actions to the good character of Hindus, but attributed the same actions in Muslims to environmental circumstances. In addition, Hindu subjects blamed socially undesirable actions on Hindus' circumstances and Muslims' character. We commit the ultimate attribution error when we say, "Our soldiers fight because they have to" (external attribution), but "Our enemies fight because they are warlike" (internal attribution). cf galleys And, "Our soldiers are naturally brave”; “Our enemies are forced to do daring deeds."
+A study by Donald Taylor and V. Jaggi (1974) illustrates this bias among south Indian subjects. Taylor and Jaggi found that Hindu subjects attributed socially desirable actions to the good character of Hindus, but attributed the same actions in Muslims to environmental circumstances. In addition, Hindu subjects blamed socially undesirable actions on Hindus' circumstances and Muslims' character. We commit the ultimate attribution error when we say, "Our soldiers fight because they have to" (external attribution), but "Our enemies fight because they are warlike" (internal attribution). And, "Our soldiers are naturally brave”; “Our enemies are forced to do daring deeds."
 
 The ultimate attribution error tends to perpetuate our false stereotypes and prejudices. Our biased interpretations have a plausible ring because the reasons for our enemies’ actions are usually somewhat ambiguous and open to various interpretations. In addition, our friends fall into the same error and support our views. Consequently, we continue to see behavior the way we expect or would like it to be, and people we don’t like never get a chance to prove us wrong. *(from Invitation to Social Psychology by Ronald Philipchalk)*
 
@@ -107,9 +107,9 @@ Consider the following questions:
 
 “Oh, God, the terrible tyranny of the majority.” *(from Fahrenheit 451 by Ray Bradbury, p. 97)*
 
-### Conformity, vs. Compliance & Obedience {-}
+### Conformity vs. Compliance & Obedience {-}
 
-In this lesson, and the next two, we will be looking at social influence. Because this is a large and interesting topic we will discuss three types of social influence separately, conformity, compliance, and obedience. Conformity, our topic for today, refers to going along with other people without anyone explicitly asking you to. Compliance refers to going along with the request of another person when you have a choice not to. Being influenced by a salesperson to buy something is an example of compliance. Obedience refers to going along with an order when no choice is offered, as in the army.
+In this lesson, and the next two, we will be looking at social influence. Because this is a large and interesting topic we will discuss three types of social influence separately: conformity, compliance, and obedience. Conformity, our topic for today, refers to going along with other people without anyone explicitly asking you to. Compliance refers to going along with the request of another person when you have a choice not to. Being influenced by a salesperson to buy something is an example of compliance. Obedience refers to going along with an order when no choice is offered, as in the army.
 
 ### Norms {-}
 
@@ -219,7 +219,6 @@ Bartleby manages to defy his employer and yet keep his job because his meek repl
 
 This unit, we learned about obedience. We saw that obedience is strongest level of social influence. Read through the following resources and consider how they relate to what you have learned:
 
-- [**Conformity, Compliance, and Obedience**](https://www.units.miamioh.edu/psybersite/cults/cco.shtml){target="_blank”}  
 - [**Milgram experiment facts for kids**](https://kids.kiddle.co/Milgram_experiment){target="_blank”}
 - [**Canadian Code of Ethics for Psychologists**](https://cpa.ca/docs/File/Ethics/CPA_Code_2017_4thEd.pdf){target="_blank”}  
 - [**Ethical Principles of Psychologists and Code of Conduct**](https://www.apa.org/ethics/code/index){target="_blank”}  
