@@ -81,14 +81,16 @@ I find psychology to be one of the most interesting areas of study for a number 
 
 One definition of psychology is that it is the application of the scientific method to the questions of philosophy. With that hint in mind, how far back do you think we could trace the roots of psychology? You will find answers to this question in the textbook, and also at sites such as the following:
 
-- Classics in the History of Psychology [https://psychclassics.yorku.ca/]{target="_blank”}  
-- Psychology (for a history of psychology in Canada)[https://www.thecanadianencyclopedia.ca/en/article/psychology]{target="_blank”}  
+- [Classics in the History of Psychology](https://psychclassics.yorku.ca/){target="_blank”}  
+- [Psychology (for a history of psychology in Canada)](https://www.thecanadianencyclopedia.ca/en/article/psychology){target="_blank”}  
 
 A more basic, tongue-in-cheek, answer to the question is the following: The first person interested in psychology was either the first person trying to understand the first person or the second person who was trying to figure out the first person!
 
-### Activity: Read and Reflect {-}
+### Activity: Questions for Consideration {-}
 
 ```{block2, type='reflect'}
+
+Take a moment to consider what you read in your exploration of the resources above – use the following questions to guide your reflection:
 
 - What draws people to study psychology? (It is one of the most popular majors in North American universities).  
 - What drew you to study psychology?  
@@ -99,7 +101,7 @@ A more basic, tongue-in-cheek, answer to the question is the following: The firs
 
 ```
 
-## What Do Psychologists Do? 
+## What Do Psychologists Do?
 
 Ask most people to name two or three famous psychologists and one of the first named will be Sigmund Freud. This reflects the common idea that most psychologists try to analyze people and figure out underlying motives so that they can help to solve deep-seated problems. In fact, less than half of all psychologists work in clinical settings studying the causes, diagnoses, and treatment of mental disorders. Many psychologists study human development, learning, memory and other mental processes. Others conduct research on groups and social influence. Some psychologists work in schools, others in government, and still others in industry. All of these psychologists are either trying to understand people better, or trying to help them, or both.
 
@@ -117,16 +119,18 @@ Which approach is best? The best approach is all of them. They all add something
 
 The resources below are intended to provide you with opportunity to explore the “What do Psychologists do?” question more deeply. The first of the following resources will help you to make the most of your undergraduate time in psychology and clarify some of the postgraduate educational and vocational options available to you. The second site discusses some of the kinds of topics towards which psychologists focus their research and practice. The goal of resources like these is to help you determine which direction you may most enjoy in the field of psychology.
 
-- Careers in Psychology [https://www.psywww.com/careers/index.html]{target="_blank”} 
-- Canadian Psychological Association - Careers [https://cpa.ca/students/career/]{target="_blank”}
+- [Careers in Psychology](https://www.psywww.com/careers/index.html){target="_blank”} 
+- [Canadian Psychological Association - Careers](https://cpa.ca/students/career/){target="_blank”}
+
 After exploring the different opportunities, consider the following questions:
+
 - For what careers would a psychology major be helpful?(The internet has information on this.)
 - What are the steps necessary to become a psychologist in private clinical practice?
 - What’s the difference between a psychologist and a psychiatrist?
 - Which perspective or level of explanation do you personally find the most interesting? Why?
 - Why are some people wary of psychology?(A well-known televangelist once said, “You can’t be a Christian and a psychologist.”) What dangers do they see in studying psychology? Is there any justification for their fears?
 
-*Be prepared to share your thoughts and insights with other members of the class*
+* Be prepared to share your thoughts and insights with other members of the class. *
 
 ```
 
@@ -158,8 +162,8 @@ What about research with humans? It is probably obvious that research should not
 
 You can find a complete listing of ethical guidelines for research in psychology at:
 
-- Canadian Psychology Association  
-- American Psychology Association [https://www.apa.org/ethics/code/index]{target="_blank”}  
+- [Canadian Psychology Association](https://cpa.ca/aboutcpa/committees/ethics/codeofethics/){target="_blank”}  
+- [American Psychology Association](https://www.apa.org/ethics/code/index){target="_blank”}  
 
 After reading about ethics in psychology, consider the following question:
 
