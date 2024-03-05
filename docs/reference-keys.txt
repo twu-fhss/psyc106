@@ -35,7 +35,6 @@ health
 biology-of-emotion
 communicating-emotion
 experiencing-emotion
-what-is-the-proper-role-of-emotion
 stress-and-coping
 stress
 aggression-submission-and-assertion
