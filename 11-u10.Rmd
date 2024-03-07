@@ -94,9 +94,9 @@ Here is a list of comparisons between normal personality characteristics on the 
 
 The following articles augment your understanding of the descriptions of the disorders discussed in the textbook and provide opportunity to understand more about anxiety disorders. Due to the pervasiveness of disorders, especially anxiety related problems, this information could prove invaluable in helping yourself and others find hope and help in challenging circumstances. There is also an excellent write up on the many valid criticisms of being overly dependent on the DSM as a resource.
 
-- [**Psychological Problems and Disorders**](https://psychologyinfo.com/){target="_blank”}  
-- [**Anxiety Disorders**](https://psychologyinfo.com/){target="_blank”}  
-- [**Criticism of America's Diagnostic Bible- The DSM**](https://www.pchtreatment.com/dsm-5-issues/){target="_blank”}  
+- [**Understanding Psychological Disorders**](https://www.healthline.com/health/psychological-disorders){target="_blank”}  
+- [**What are Anxiety Disorders**](https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders){target="_blank”}  
+- [**Criticism of America's Diagnostic Bible - The DSM**](https://www.oregoncounseling.org/criticism-of-americas-diagnostic-bible-the-dsm){target="_blank”}  
 
 ```
 
@@ -144,7 +144,7 @@ In the end, people with major depression were at least three times as likely as 
 
 How do you know the difference between depression and normal sadness? In this activity, you are given an overview of depression  that explains the causes, describes the diagnostic criteria, and offers some treatment options. Additionally, though children may suffer from a disorder, there are additional challenges in noticing it in them due to their immature language, cognitive, and emotion processing abilities and developmental stage. The second resource provides an overview of recognizing the signs that a child is struggling due to a disorder.
 
-- [**Information about Depression**](https://psychologyinfo.com/){target="_blank”}  
+- [**What is Depression?**](https://www.psychiatry.org/patients-families/depression/what-is-depression){target="_blank”}  
 - [**Mental Illness in Children**](https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577){target="_blank”}
 
 ```
@@ -181,7 +181,6 @@ The bible gives relatively few accounts of people troubled by mental illness as 
 This strange behavior and apparent loss of contact with reality we would probably consider schizophrenia today. Schizophrenia appears in all cultures at about the same rate. Schizophrenia is one of the most serious and debilitating of the psychological disorders. As mentioned in the textbook, schizophrenia is often confused with dissociative identity disorder (multiple personality disorder, popularly known as split personality). ***Schizophrenics do not have a split personality. And it is not correct to refer to someone with a “split personality” as schizophrenic.*** The “split” (schism) that schizophrenics experience is a split from reality. Schizophrenics may suffer from disorganized thought, paranoid delusions, hallucinations, and many other unusual thought patterns.
 
 <!-- [plugin:content-inject](_activities) -->
-
 
 ### Activity: Read and Reflect {-}
 
